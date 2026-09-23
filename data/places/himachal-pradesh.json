@@ -1,0 +1,79 @@
+[
+  {
+    "id": "great-himalayan-np",
+    "name": "Great Himalayan National Park",
+    "localName": "महान हिमालयी राष्ट्रीय उद्यान",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "himalaya",
+      "biodiversity",
+      "wildlife"
+    ],
+    "coords": [
+      31.7333,
+      77.55
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kullu",
+    "state": "Himachal Pradesh",
+    "built": "National park 1984; inscribed 2014",
+    "summary": "Headwater catchments in the western Himalaya, protected from the snowline down.",
+    "description": [
+      "The Great Himalayan National Park protects the upper catchments of the Jiwa, Sainj and Tirthan rivers in Kullu district, rising from about 1,500 metres to over 6,000. Because whole catchments are inside the boundary, the property protects the water supply of the valleys below it as well as the habitat within it.",
+      "The forests and alpine meadows hold the western Tragopan, Himalayan monal, musk deer, blue sheep, Himalayan brown bear and snow leopard. The park lies in a transition zone between two biogeographic realms, which is the basis of the species mix UNESCO cited.",
+      "The park was notified in 1984 and inscribed in 2014 (site 1406). Grazing and the collection of medicinal plants and morels by villages on its edge were restricted when the park was created, and the compensation and access arrangements that followed are still debated locally."
+    ],
+    "contested": "Era here marks the park's designation, not the antiquity of the landscape. The displacement of customary grazing and collection rights on park notification is documented but the settlement of those claims is reported inconsistently.",
+    "coordsNote": "A protected area of about 900 km². The coordinate is a point inside the park, not a gate or boundary.",
+    "sources": [
+      {
+        "title": "Great Himalayan National Park Conservation Area — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1406/"
+      },
+      {
+        "title": "Great Himalayan National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Himalayan_National_Park"
+      }
+    ]
+  },
+  {
+    "id": "kalka-shimla-railway",
+    "name": "Kalka–Shimla Railway",
+    "localName": "कालका-शिमला रेल",
+    "category": "railway",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "railway",
+      "british-raj",
+      "himalaya"
+    ],
+    "coords": [
+      31.1046,
+      77.1734
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kalka to Shimla",
+    "state": "Himachal Pradesh",
+    "built": "Opened 1903",
+    "summary": "A narrow-gauge line to the summer capital of British India, through 100-odd tunnels.",
+    "description": [
+      "The Kalka–Shimla Railway opened in 1903, running about 96 kilometres on two-foot-six-inch gauge from Kalka on the plains up to Shimla at roughly 2,075 metres. Its purpose was administrative: Shimla was the summer capital of British India, and the entire government moved there and back each year.",
+      "The line climbs on adhesion alone, without rack assistance, which it manages by taking the gradient in a long series of curves through cut-and-cover and tunnelled sections — more than a hundred tunnels and over eight hundred bridges and viaducts, several of them multi-tiered stone arcades built like aqueducts.",
+      "It became the third component of the Mountain Railways of India when UNESCO extended that inscription in 2008 (site 944). It still runs scheduled services."
+    ],
+    "coordsNote": "A 96 km line, not a point. The coordinate is the Shimla end of the route.",
+    "sources": [
+      {
+        "title": "Mountain Railways of India — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/944/"
+      },
+      {
+        "title": "Kalka–Shimla Railway — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kalka%E2%80%93Shimla_Railway"
+      }
+    ]
+  }
+]

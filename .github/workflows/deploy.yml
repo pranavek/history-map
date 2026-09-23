@@ -1,0 +1,68 @@
+name: Build & Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]      # validate only; deploy is gated on main below
+  workflow_dispatch:      # allow manual trigger from the Actions tab
+
+# GitHub Pages deployment permissions
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one deployment at a time
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # ── Checkout ────────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Node is used only to run the validator below. The site itself has no
+      # dependencies and no build step — nothing is installed, nothing is bundled.
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # ── Validate ────────────────────────────────────────────────────────────
+      # Fails on an unknown category/era/tag, a duplicate id, a coordinate
+      # outside India, an approximate coordinate with no explanatory note, a
+      # place with no sources, a selector map.js needs that map.html lacks, a
+      # dead local link, or a missing/unscoped OSM attribution.
+      - name: Validate data and wiring
+        run: make check
+
+      # ── Stage the site ──────────────────────────────────────────────────────
+      # A plain copy, not a build. Keeps tooling, CI config and docs out of the
+      # published artifact.
+      # Same target you run locally, so CI and a developer machine cannot
+      # drift apart on what actually gets published.
+      - name: Stage _site
+        run: make stage
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site/
+
+  deploy:
+    # Only main deploys; pull requests stop after validation.
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

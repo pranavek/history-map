@@ -1,0 +1,354 @@
+[
+  {
+    "id": "ajanta-caves",
+    "name": "Ajanta Caves",
+    "localName": "अजिंठा लेणी",
+    "category": "cave",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "rock-cut",
+      "buddhist",
+      "sculpture"
+    ],
+    "coords": [
+      20.5524,
+      75.6995
+    ],
+    "coordsPrecision": "verified",
+    "city": "Aurangabad district",
+    "state": "Maharashtra",
+    "built": "2nd century BCE – c. 480 CE, in two phases",
+    "summary": "Thirty Buddhist caves cut into a river gorge, holding India's finest ancient painting.",
+    "description": [
+      "Thirty rock-cut Buddhist caves follow the curve of a horseshoe gorge above the Waghora river. They were cut in two widely separated phases — a Satavahana-period group from around the second century BCE, then a burst of activity under the Vasakata Vakatakas in the fifth century that produced most of what visitors come for.",
+      "Ajanta's distinction is its painting. Elsewhere in India ancient wall painting has almost entirely perished; here, because the site was abandoned and sealed by jungle, large areas survive — the Bodhisattva Padmapani, crowded court scenes, the Jataka narratives. The work is confident, volumetric and secular in feeling as much as devotional.",
+      "The caves were abandoned around 480 and forgotten until 1819, when a British officer of the Madras Presidency named John Smith, out hunting tiger, saw the arch of Cave 10 through the undergrowth."
+    ],
+    "sources": [
+      {
+        "title": "Ajanta Caves — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageAjantaCaves"
+      },
+      {
+        "title": "Ajanta Caves — UNESCO",
+        "url": "https://whc.unesco.org/en/list/242/"
+      },
+      {
+        "title": "Ajanta Caves — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+      }
+    ]
+  },
+  {
+    "id": "ellora-caves",
+    "name": "Ellora Caves",
+    "localName": "वेरूळ लेणी",
+    "category": "cave",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "rock-cut",
+      "buddhist",
+      "jain",
+      "sculpture"
+    ],
+    "coords": [
+      20.0268,
+      75.1775
+    ],
+    "coordsPrecision": "verified",
+    "city": "Aurangabad district",
+    "state": "Maharashtra",
+    "built": "c. 600–1000 CE",
+    "summary": "Buddhist, Hindu and Jain caves side by side — including Kailasa, cut from the top down.",
+    "description": [
+      "Thirty-four caves cut along a basalt escarpment between roughly 600 and 1000 CE: Buddhist at the south end, Hindu in the middle, Jain to the north. They were excavated in overlapping periods rather than in strict sequence, and the fact that three traditions were patronised on one cliff is the site's real significance.",
+      "Cave 16, the Kailasa temple, is the extraordinary one. It is not a cave but a complete freestanding temple — courtyards, gateway, shrines, a tower — carved downward out of the hillside as a single piece of rock, with something in the order of two hundred thousand tonnes removed. It was commissioned by the Rashtrakuta king Krishna I in the eighth century.",
+      "Unlike Ajanta, Ellora was never lost. It sat on a trade route and has been visited continuously since it was made."
+    ],
+    "sources": [
+      {
+        "title": "Ellora Caves — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageElloraCaves"
+      },
+      {
+        "title": "Ellora Caves — UNESCO",
+        "url": "https://whc.unesco.org/en/list/243/"
+      },
+      {
+        "title": "Ellora Caves — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ellora_Caves"
+      }
+    ]
+  },
+  {
+    "id": "elephanta-caves",
+    "name": "Elephanta Caves",
+    "localName": "घारापुरी लेणी",
+    "category": "cave",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "rock-cut",
+      "sculpture",
+      "portuguese"
+    ],
+    "coords": [
+      18.9635,
+      72.9313
+    ],
+    "coordsPrecision": "verified",
+    "city": "Gharapuri Island",
+    "state": "Maharashtra",
+    "built": "c. 5th–8th century CE",
+    "summary": "Shaivite caves on an island in Mumbai Harbour, with the great three-headed Sadashiva.",
+    "description": [
+      "On Gharapuri island in Mumbai Harbour, an hour by boat from the Gateway of India, a group of rock-cut caves was carved into basalt between roughly the fifth and eighth centuries. The main cave is Shaivite and laid out on two axes at once, so the plan reads differently depending on which entrance you use.",
+      "Its centrepiece is the Trimurti Sadashiva — a three-headed Shiva close to six metres high, cut in high relief from the rock face, showing the creator, preserver and destroyer aspects in one image. It is among the most reproduced sculptures in India and it is genuinely better in person than in photographs, largely because of how the light falls.",
+      "The Portuguese named the island after a large stone elephant on its shore. Portuguese soldiers are widely reported to have used the sculptures for target practice, and much of the damage is attributed to them, though the extent is debated."
+    ],
+    "contested": "Dating is unsettled and proposals range across the 5th to 8th centuries; the main cave is often put around 550–575 CE. Attribution of the damage to Portuguese musket fire is traditional and widely repeated but not firmly established.",
+    "sources": [
+      {
+        "title": "Elephanta Caves — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageElephantaCaves"
+      },
+      {
+        "title": "Elephanta Caves — UNESCO",
+        "url": "https://whc.unesco.org/en/list/244/"
+      },
+      {
+        "title": "Elephanta Caves — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elephanta_Caves"
+      }
+    ]
+  },
+  {
+    "id": "raigad-fort",
+    "name": "Raigad Fort",
+    "localName": "रायगड",
+    "category": "fort",
+    "era": "early-modern",
+    "tags": [
+      "maratha",
+      "capital-city"
+    ],
+    "coords": [
+      18.2354,
+      73.4455
+    ],
+    "coordsPrecision": "verified",
+    "city": "Mahad, Raigad district",
+    "state": "Maharashtra",
+    "built": "Capital from 1674",
+    "summary": "Shivaji's hill capital, where he was crowned in 1674 and where he died.",
+    "description": [
+      "Raigad stands on a flat-topped hill in the Sahyadris, approached by a single fortified road and around fourteen hundred steps. Shivaji took it in 1656, rebuilt it as his capital, and was crowned Chhatrapati here in 1674. He died at Raigad in 1680 and his samadhi is on the hill.",
+      "The fort's design is deliberately administrative rather than merely defensive — a market street with the remains of shopfronts, granaries, water cisterns, a court and a durbar hall positioned so the throne faced the main gate. This was a working capital, not a refuge.",
+      "The Marathas lost it to the Mughals in 1689 and the British shelled it in 1818. A ropeway now runs to the top, though the steps are still the way most people go."
+    ],
+    "contested": "A lookup for 'Raigad Fort' in OpenStreetMap returns Korlai Fort, a different and much smaller Portuguese fort about 140 km away on the coast. The coordinate used here is from Wikidata and corroborated by the Raigad Fort trail in OSM. Do not trust a name search for this one.",
+    "sources": [
+      {
+        "title": "Raigad Fort — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Raigad_Fort"
+      },
+      {
+        "title": "Shivaji — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shivaji"
+      }
+    ]
+  },
+  {
+    "id": "gateway-of-india",
+    "name": "Gateway of India",
+    "localName": "गेटवे ऑफ इंडिया",
+    "category": "monument",
+    "era": "late-modern",
+    "tags": [
+      "british-raj",
+      "sculpture"
+    ],
+    "coords": [
+      18.922,
+      72.8346
+    ],
+    "coordsPrecision": "verified",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "built": "Foundation 1913; completed 1924",
+    "summary": "Built to receive a king-emperor in 1911; used in 1948 to watch the last troops leave.",
+    "description": [
+      "The Gateway was put up to commemorate the landing of George V and Queen Mary at Bombay in December 1911, the only visit by a reigning British monarch to India. The foundation was laid in 1913 to a design by George Wittet in the Indo-Saracenic style, and it was completed in 1924 — so the arch the royal party supposedly walked through did not exist when they came, and they were shown a cardboard model instead.",
+      "It is basalt, about twenty-six metres high, with a central arch and lattice-screened side halls, drawing on sixteenth-century Gujarati architecture rather than on anything European.",
+      "Its second meaning is the better one. In February 1948 the last British troops in India, the First Battalion of the Somerset Light Infantry, embarked through the Gateway on their way home. A monument raised to mark an imperial arrival ended up marking the departure."
+    ],
+    "sources": [
+      {
+        "title": "Gateway of India — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+      },
+      {
+        "title": "George Wittet — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/George_Wittet"
+      }
+    ]
+  },
+  {
+    "id": "mumbai-harbour",
+    "name": "Mumbai Harbour",
+    "localName": "मुंबई बंदर",
+    "category": "port",
+    "era": "early-modern",
+    "tags": [
+      "british-raj",
+      "spice-trade",
+      "portuguese",
+      "merchant-community"
+    ],
+    "coords": [
+      18.96,
+      72.85
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "built": "Developed as a modern port from the 17th century",
+    "summary": "The deep natural harbour that turned seven islands into India's commercial capital.",
+    "description": [
+      "Mumbai Harbour is the sheltered water east of the city, between the mainland and what were once seven separate islands. It is the whole reason Bombay exists: a deep, protected anchorage on a coast that offers very few.",
+      "The islands passed from the Sultanate of Gujarat to Portugal in 1534, and then to England in 1661 as part of Catherine of Braganza's dowry. Charles II leased them to the East India Company in 1668 for ten pounds a year, and the Company moved its western headquarters here from Surat precisely because of the harbour.",
+      "Land reclamation joined the islands into one landmass over the following centuries, and the opening of the Suez Canal in 1869 made Bombay the natural first port of call from Europe. Elephanta Island sits within these same waters."
+    ],
+    "coordsNote": "A harbour is an area, not a point. This coordinate is Wikidata's, given to two decimal places, and marks open water roughly in the middle of it rather than any particular structure.",
+    "sources": [
+      {
+        "title": "Mumbai Harbour — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mumbai_Harbour"
+      },
+      {
+        "title": "History of Mumbai — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/History_of_Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "chhatrapati-shivaji-terminus",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "localName": "छत्रपती शिवाजी महाराज टर्मिनस",
+    "category": "railway",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "railway",
+      "british-raj",
+      "sculpture",
+      "living-tradition"
+    ],
+    "coords": [
+      18.9399,
+      72.8354
+    ],
+    "coordsPrecision": "verified",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "built": "1878 – 1888",
+    "summary": "A Victorian Gothic terminus that still moves around three million passengers a day.",
+    "description": [
+      "Built between 1878 and 1888 to F. W. Stevens's design as Victoria Terminus, the headquarters and terminus of the Great Indian Peninsula Railway, this is the most emphatic statement of Bombay's commercial confidence in the nineteenth century. It was renamed for Chhatrapati Shivaji in 1996.",
+      "The building is High Victorian Gothic — pointed arches, a ribbed dome, turrets, polychrome stone and stained glass — worked through by Indian craftsmen who carved local plants, animals and figures into the detail and used Indian palace motifs in the plan. UNESCO cites that fusion, rather than the Gothic frame alone, as the reason for inscription.",
+      "It was inscribed in 2004 (site 945), and unlike most heritage buildings of its age it is under unbroken heavy use: suburban and long-distance services run from it continuously, with daily footfall in the millions. It was one of the sites attacked on 26 November 2008."
+    ],
+    "sources": [
+      {
+        "title": "Chhatrapati Shivaji Terminus: India's Grandest Railway Station — Sahapedia",
+        "url": "http://www.sahapedia.org/chhatrapati-shivaji-terminus-india%E2%80%99s-grandest-railway-station"
+      },
+      {
+        "title": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus Station) — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/945/"
+      },
+      {
+        "title": "Chhatrapati Shivaji Terminus — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus"
+      }
+    ]
+  },
+  {
+    "id": "mumbai-ensembles",
+    "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+    "category": "urban",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "british-raj",
+      "art-deco",
+      "urban-planning",
+      "merchant-community"
+    ],
+    "coords": [
+      18.9294,
+      72.83
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "built": "1860s – 1930s",
+    "summary": "Two rows of buildings facing each other across the Oval Maidan, sixty years apart.",
+    "description": [
+      "The inscribed property is an ensemble rather than a monument: a group of nineteenth-century Victorian Gothic public buildings along the eastern edge of the Oval Maidan and Fort, and a twentieth-century Art Deco frontage facing them from the west along Marine Drive and the reclaimed Backbay.",
+      "The Gothic side — the High Court, the university with its Rajabai Clock Tower, the Public Works Department offices — was built as the civic face of a colonial port city from the 1860s, adapted with balconies and verandahs for the climate. The Deco side was built in the 1930s by Indian patrons and developers, in a self-consciously modern idiom of curved corners, streamlined balconies and marine motifs, on land reclaimed from the sea.",
+      "Mumbai holds one of the largest concentrations of Art Deco buildings in the world, second only to Miami by most counts. UNESCO inscribed the ensembles in 2018 (site 1480), explicitly for the dialogue between the two rows and the public open space between them."
+    ],
+    "contested": "The claim that Mumbai has the world's second-largest Art Deco stock is widely repeated but rests on informal surveys rather than a systematic inventory. Development pressure on individual Deco buildings inside the buffer zone is a continuing dispute.",
+    "coordsNote": "An ensemble spread around the Oval Maidan and along Marine Drive, roughly a kilometre across. The coordinate is a point near the maidan, not a specific building.",
+    "sources": [
+      {
+        "title": "Victorian Gothic and Art Deco Ensembles of Mumbai — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1480/"
+      },
+      {
+        "title": "Victorian Gothic and Art Deco Ensembles of Mumbai — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Victorian_Gothic_and_Art_Deco_Ensembles_of_Mumbai"
+      }
+    ]
+  },
+  {
+    "id": "maratha-military-landscapes",
+    "name": "Maratha Military Landscapes of India",
+    "category": "fort",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "maratha",
+      "capital-city"
+    ],
+    "coords": [
+      20.7225,
+      73.9425
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Twelve forts across Maharashtra and Tamil Nadu",
+    "state": "Maharashtra",
+    "built": "17th – 19th centuries",
+    "summary": "Twelve Maratha forts — hill, coastal and island — inscribed together in 2025.",
+    "description": [
+      "The inscription covers twelve forts built or held by the Marathas: Salher, Shivneri, Lohagad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, Sindhudurg and Gingee. Eleven are in Maharashtra; Gingee is in Tamil Nadu.",
+      "They are grouped because they work as a system rather than as individual buildings. Shivaji's military method depended on terrain — hill forts controlling the Sahyadri passes, coastal and island forts controlling the sea approach, and a network of signalling and supply between them — which is why the property is called a landscape rather than a group of monuments. Raigad, already mapped here separately, was his capital and the place of his coronation in 1674.",
+      "UNESCO inscribed the property in 2025 (site 1739), the most recent Indian addition to the list at the time of writing."
+    ],
+    "contested": "The inscription is very recent, and the boundaries, buffer zones and management arrangements for individual components are still being implemented. Dates for the forts vary widely: several were built long before the Maratha period and were captured rather than founded.",
+    "coordsNote": "A serial property of twelve forts spread across Maharashtra and into Tamil Nadu. The coordinate is Salher, the northernmost component, and represents none of the others — Gingee lies some 900 km away.",
+    "sources": [
+      {
+        "title": "Maratha Military Landscapes of India — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1739/"
+      },
+      {
+        "title": "Maratha Military Landscapes of India — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maratha_Military_Landscapes_of_India"
+      }
+    ]
+  }
+]

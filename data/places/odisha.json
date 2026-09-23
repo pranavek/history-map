@@ -1,0 +1,44 @@
+[
+  {
+    "id": "konark-sun-temple",
+    "name": "Sun Temple, Konârak",
+    "localName": "କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର",
+    "category": "temple",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "sculpture",
+      "astronomy",
+      "pilgrimage"
+    ],
+    "coords": [
+      19.8874,
+      86.0946
+    ],
+    "coordsPrecision": "verified",
+    "city": "Konark, Puri",
+    "state": "Odisha",
+    "built": "c. 1250 CE",
+    "summary": "A temple built as the sun god's chariot, with stone wheels that work as sundials.",
+    "description": [
+      "The Sun Temple at Konark was built around 1250 by Narasimhadeva I of the Eastern Ganga dynasty. The whole structure is conceived as the chariot of Surya: twenty-four carved stone wheels along the plinth, each about three metres across, drawn by seven horses. Several of the wheels function as sundials, and the shadow of the axle can be read for time.",
+      "The sanctuary tower has collapsed — what stands is chiefly the jagamohana, the assembly hall, whose interior was filled with sand and sealed in the early twentieth century to keep it from falling too. The surviving surfaces carry dense sculpture, including the erotic panels for which the temple is often reduced to a headline.",
+      "Konark stood close enough to the shore to serve as a landmark for sailors, who are said to have called it the Black Pagoda. UNESCO inscribed it in 1984 (site 246)."
+    ],
+    "contested": "Why the main tower fell is unresolved: structural failure during construction, later damage, and the removal of a load-bearing element have all been proposed. Accounts of a lodestone at the summit that disturbed ships' compasses are legend. The temple's completion, and whether the sanctum was ever consecrated, are both disputed.",
+    "sources": [
+      {
+        "title": "Sun Temple, Konârak — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageKonarak"
+      },
+      {
+        "title": "Sun Temple, Konârak — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/246/"
+      },
+      {
+        "title": "Konark Sun Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+      }
+    ]
+  }
+]

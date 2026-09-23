@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "andaman-and-nicobar-islands",
+    "region": "Andaman and Nicobar Islands",
+    "lede": "Penal colony, prison and WWII battleground — the Cellular Jail, Japanese occupation, and Subhas Chandra Bose's flag-raising."
+  },
+  {
+    "slug": "andhra-pradesh",
+    "region": "Andhra Pradesh",
+    "lede": "From Amaravati's Buddhist stupas to Golconda's diamond-funded sultanate — two very different Andhra pasts."
+  },
+  {
+    "slug": "arunachal-pradesh",
+    "region": "Arunachal Pradesh",
+    "lede": "A frontier that stayed its own — tribal self-governance, Tawang's Tibetan Buddhist monastery, and the disputed McMahon Line."
+  },
+  {
+    "slug": "assam",
+    "region": "Assam",
+    "lede": "The valley the Mughals couldn't take: 600 years of Ahom rule, the Battle of Saraighat, and the colonial tea economy that followed."
+  },
+  {
+    "slug": "bihar",
+    "region": "Bihar",
+    "lede": "Cradle of empires and faiths: Bodh Gaya, Nalanda University, and the Mauryan and Gupta empires ruled from Pataliputra."
+  },
+  {
+    "slug": "chandigarh",
+    "region": "Chandigarh",
+    "lede": "A city built from scratch — Le Corbusier's modernist capital, planned entirely after Partition split Punjab in two."
+  },
+  {
+    "slug": "chhattisgarh",
+    "region": "Chhattisgarh",
+    "lede": "A tribal heartland only recently its own state — and, underneath that, a thousand-year-old multi-faith capital at Sirpur."
+  },
+  {
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "lede": "Two small Portuguese enclaves, two different exits from colonial rule, merged into one union territory only in 2020."
+  },
+  {
+    "slug": "delhi",
+    "region": "Delhi",
+    "lede": "Seven cities, one capital: Rajput, Sultanate, Mughal and British rulers each built their own Delhi on the ruins of the last."
+  },
+  {
+    "slug": "goa",
+    "region": "Goa",
+    "lede": "451 years as someone else's colony: Portuguese Goa, the Inquisition, and the churches and forts that outlasted both."
+  },
+  {
+    "slug": "gujarat",
+    "region": "Gujarat",
+    "lede": "A coastline that traded before it had a name: the Indus Valley port city of Lothal, Dholavira, and Somnath's repeatedly rebuilt temple."
+  },
+  {
+    "slug": "haryana",
+    "region": "Haryana",
+    "lede": "The corridor where empires were decided — three Battles of Panipat, and the epic-tradition battlefield of Kurukshetra."
+  },
+  {
+    "slug": "himachal-pradesh",
+    "region": "Himachal Pradesh",
+    "lede": "Thirty small hill kingdoms, and the colonial summer capital the British built above every one of them."
+  },
+  {
+    "slug": "jammu-and-kashmir",
+    "region": "Jammu and Kashmir",
+    "lede": "From a 19th-century Dogra princely state to a union territory — the documented sequence behind a still-unresolved dispute."
+  },
+  {
+    "slug": "jharkhand",
+    "region": "Jharkhand",
+    "lede": "Adivasi land, and the fight to keep it — the Santhal and Munda rebellions against colonial land policy."
+  },
+  {
+    "slug": "karnataka",
+    "region": "Karnataka",
+    "lede": "A dynasty for every hillside: the Chalukyas, Hoysalas and Vijayanagara Empire, and the temples and ruined capital they left behind."
+  },
+  {
+    "slug": "kerala",
+    "region": "Kerala",
+    "lede": "A coastline that traded pepper with Rome before it traded anything with Europe's colonial powers — and the places that trade left behind."
+  },
+  {
+    "slug": "ladakh",
+    "region": "Ladakh",
+    "lede": "A Buddhist kingdom on the roof of the trade routes — the Namgyal dynasty, Dogra conquest, and a 2019 union territory of its own."
+  },
+  {
+    "slug": "lakshadweep",
+    "region": "Lakshadweep",
+    "lede": "Coral islands with no history separate from Kerala's Malabar coast — Arab trade, early Islam, and a union territory since 1956."
+  },
+  {
+    "slug": "madhya-pradesh",
+    "region": "Madhya Pradesh",
+    "lede": "India's crossroads, in stone: Ashoka's Buddhist stupa at Sanchi, the Chandela temple city at Khajuraho, and the forts of a contested Rajput-Mughal frontier."
+  },
+  {
+    "slug": "maharashtra",
+    "region": "Maharashtra",
+    "lede": "From Shivaji's mountain forts to Bombay's colonial port — two very different histories that met to make the modern state."
+  },
+  {
+    "slug": "manipur",
+    "region": "Manipur",
+    "lede": "An independent kingdom until 1949 — the Meitei kingdom of Kangleipak, and the WWII battle that made this valley a battlefield."
+  },
+  {
+    "slug": "meghalaya",
+    "region": "Meghalaya",
+    "lede": "Hill kingdoms of the Khasi, Garo and Jaintia — matrilineal societies carved into a single state only in 1972."
+  },
+  {
+    "slug": "mizoram",
+    "region": "Mizoram",
+    "lede": "From the isolated Mizo Hills to statehood after a negotiated peace accord ending a two-decade insurgency."
+  },
+  {
+    "slug": "nagaland",
+    "region": "Nagaland",
+    "lede": "Naga tribal hills between colonial frontier and Indian statehood — and a political question still unresolved."
+  },
+  {
+    "slug": "odisha",
+    "region": "Odisha",
+    "lede": "The war that changed an empire: the Kalinga War, Ashoka's turn to Buddhism, and the Kalinga-style temples of Konark and Puri."
+  },
+  {
+    "slug": "puducherry",
+    "region": "Puducherry",
+    "lede": "A French address on the Coromandel coast — Dupleix's bid for empire, and India's only former French colonial territory."
+  },
+  {
+    "slug": "punjab",
+    "region": "Punjab",
+    "lede": "From Harappa's Bronze Age streets to the Sikh Empire's forts to a province split in two by Partition."
+  },
+  {
+    "slug": "rajasthan",
+    "region": "Rajasthan",
+    "lede": "Twenty Rajput kingdoms and the forts that outlasted them — from Chittorgarh's sieges to the courts that married into the Mughals instead."
+  },
+  {
+    "slug": "sikkim",
+    "region": "Sikkim",
+    "lede": "The last Himalayan kingdom: three centuries of Buddhist Chogyal rule, ending in a disputed 1975 referendum and merger with India."
+  },
+  {
+    "slug": "tamil-nadu",
+    "region": "Tamil Nadu",
+    "lede": "An unbroken line of temple builders, from Pallava rock-cut caves to the imperial Chola temples of Thanjavur and Gangaikondacholapuram."
+  },
+  {
+    "slug": "telangana",
+    "region": "Telangana",
+    "lede": "From a Kakatiya mud fort to Golconda's diamonds to a Nizam's capital — Hyderabad's layered Deccan history."
+  },
+  {
+    "slug": "tripura",
+    "region": "Tripura",
+    "lede": "The Manikya dynasty's independent kingdom — one of South Asia's longest-ruling royal houses, until its 1949 merger with India."
+  },
+  {
+    "slug": "uttar-pradesh",
+    "region": "Uttar Pradesh",
+    "lede": "The heartland of the Gangetic plain — Vedic-era holy cities, epic-tradition pilgrimage sites, and Akbar's abandoned Mughal capital."
+  },
+  {
+    "slug": "uttarakhand",
+    "region": "Uttarakhand",
+    "lede": "A Himalayan borderland of small kingdoms — Kumaon, Garhwal, the Gurkha invasion, and the Char Dham pilgrimage that outlasted them all."
+  },
+  {
+    "slug": "west-bengal",
+    "region": "West Bengal",
+    "lede": "Delta trade to national awakening: Calcutta's rise as the capital of British India, and the Bengal Renaissance it produced."
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sarnath",
+    "name": "Sarnath",
+    "localName": "सारनाथ",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": ["buddhist", "pilgrimage", "unesco", "sculpture"],
+    "coords": [25.3780, 83.0251],
+    "coordsPrecision": "approximate",
+    "coordsNote": "UNESCO inscribed Sarnath as a serial property across two archaeological zones. This pin marks the main zone — the Dhamek Stupa, Ashoka Pillar and site museum — not the Chaukhandi Stupa, the second component, about a kilometre south.",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "built": "Deer Park associated with the Buddha's first sermon, 6th century BCE; the surviving pillar and stupa date to Ashoka's reign, 3rd century BCE",
+    "summary": "Where the Buddha is held to have preached his first sermon — marked by Ashoka's pillar and the Dhamek Stupa, and inscribed as a UNESCO World Heritage Site in 2026.",
+    "description": [
+      "Sarnath, in the Deer Park a few kilometres from Varanasi, is where the Buddha is held to have delivered his first sermon after attaining enlightenment, to the five companions who became his first monastic disciples — one of four sites the Buddha himself is said to have identified as principal places of pilgrimage. The site grew over many centuries through royal, monastic and lay patronage into a major Buddhist centre of stupas, temples and viharas. Its central structure, the Dhamek Stupa, marks the spot and was enlarged and rebuilt over centuries; its present brick-and-stone form is largely attributed to the Gupta period, standing on an older core.",
+      "The Mauryan emperor Ashoka visited Sarnath in the 3rd century BCE and raised a sandstone pillar there, topped with the four-lion capital now used as independent India's national emblem. The capital and the pillar's remains were excavated in 1904–05, and are held at the Archaeological Survey of India's site museum at Sarnath, one of the oldest site museums in the country.",
+      "Sarnath declined after Turkic raids in the 12th century CE, along with much of Buddhist India, and fell into obscurity until its rediscovery in the 18th century. UNESCO inscribed it in 2026 as a serial property spanning two archaeological zones, under the name Ancient Buddhist Site of Sarnath (dossier 927, criteria iii and vi; 8.05 ha of protected property with a 72.2 ha buffer zone), at the World Heritage Committee's 48th session."
+    ],
+    "contested": "The Dhamek Stupa's height is given inconsistently across sources consulted — 39 metres (Wikipedia) versus 42 metres (Incredible India) — not resolved here.",
+    "sources": [
+      { "title": "Sarnath — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sarnath" },
+      { "title": "Ancient Buddhist Site of Sarnath — UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/927/" },
+      { "title": "Sarnath — Incredible India (Ministry of Tourism)", "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi/sarnath" }
+    ]
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "localName": "ताज महल",
+    "category": "tomb",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "mughal",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      27.175,
+      78.0419
+    ],
+    "coordsPrecision": "verified",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "built": "1632 – c. 1653",
+    "summary": "Shah Jahan's mausoleum for Mumtaz Mahal, and the most-copied building in India.",
+    "description": [
+      "The Taj Mahal was raised by the Mughal emperor Shah Jahan as the tomb of his wife Mumtaz Mahal, who died in 1631 at Burhanpur. Work on the mausoleum began the following year on a riverfront terrace beside the Yamuna, and the wider complex — gateway, mosque, jawab and char bagh garden — took some two decades to complete.",
+      "What is usually described as a single building is in fact a carefully balanced plan: a white marble tomb on a plinth with four detached minarets, flanked by two red sandstone buildings in mirror image, one a working mosque and one a structurally identical answer to it that never was. The marble carries inlay of semi-precious stone — pietra dura — and carved relief, with Quranic inscriptions whose letters are graded in size so they read evenly from the ground.",
+      "It was inscribed on the UNESCO World Heritage List in 1983 (site 252). The building's fame has not protected it: air pollution and the shrinking Yamuna are documented threats, and conservation of the marble surface is a continuing argument rather than a settled programme."
+    ],
+    "contested": "The architect is not securely known. Ustad Ahmad Lahauri is the usual attribution, from a later account by his son rather than from a contemporary record. The story that Shah Jahan mutilated his craftsmen, and the 'Black Taj' said to have been planned across the river, are both legends with no documentary support. Completion date also varies by source: this page follows the common framing of built 1632 to c. 1653; the Archaeological Survey of India's own page instead gives 17 years of construction, finishing in 1648. Not resolved here.",
+    "sources": [
+      {
+        "title": "Taj Mahal — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageAgra"
+      },
+      {
+        "title": "Taj Mahal — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "title": "Taj Mahal — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ]
+  },
+  {
+    "id": "agra-fort",
+    "name": "Agra Fort",
+    "localName": "आगरा क़िला",
+    "category": "fort",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "mughal",
+      "capital-city",
+      "urban-planning"
+    ],
+    "coords": [
+      27.1796,
+      78.0211
+    ],
+    "coordsPrecision": "verified",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "built": "Rebuilt in red sandstone from 1565",
+    "summary": "The walled Mughal capital, rebuilt by Akbar and finished in marble by Shah Jahan.",
+    "description": [
+      "Agra Fort is a walled city rather than a castle: some two and a half kilometres of red sandstone rampart enclosing palaces, audience halls, mosques and gardens. Akbar took an existing brick fort of the Lodi period and rebuilt it in sandstone from 1565, and successive emperors kept adding — most visibly Shah Jahan, who replaced parts of his grandfather's work with white marble.",
+      "The fort was the seat of Mughal government before the court moved to Delhi, and it is where the empire's administration, treasury and arsenal actually sat. Its best-known structures are the Jahangiri Mahal, the Diwan-i-Am and Diwan-i-Khas, the Moti Masjid and the Musamman Burj, the octagonal marble tower looking downriver toward the Taj Mahal.",
+      "It was inscribed by UNESCO in 1983 (site 251). A substantial part of the fort remains under the Indian Army and is closed to visitors, so what is open is a fraction of the enclosure."
+    ],
+    "contested": "The account of Shah Jahan spending his last years imprisoned in the Musamman Burj with a view of the Taj is traditional and often repeated; his confinement by Aurangzeb is documented, the picturesque framing of it is not.",
+    "sources": [
+      {
+        "title": "Agra Fort — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageAgraFort"
+      },
+      {
+        "title": "Agra Fort — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/251/"
+      },
+      {
+        "title": "Agra Fort — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agra_Fort"
+      }
+    ]
+  },
+  {
+    "id": "fatehpur-sikri",
+    "name": "Fatehpur Sikri",
+    "localName": "फ़तेहपुर सीकरी",
+    "category": "palace",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "mughal",
+      "capital-city",
+      "urban-planning"
+    ],
+    "coords": [
+      27.091,
+      77.661
+    ],
+    "coordsPrecision": "verified",
+    "city": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "built": "1571 – 1585",
+    "summary": "Akbar's purpose-built capital, occupied for barely fifteen years.",
+    "description": [
+      "Akbar founded Fatehpur Sikri in 1571 on a ridge near the dargah of the Sufi Shaikh Salim Chishti, and built a complete imperial capital there in red sandstone: palaces, an enormous congregational mosque with the Buland Darwaza gateway, administrative halls, workshops and waterworks, laid out to a plan rather than accreted over time.",
+      "It is the physical record of a particular experiment. This is where Akbar held the debates of the Ibadat Khana, in which Muslim, Hindu, Jain, Zoroastrian and Jesuit scholars argued in front of the emperor, and where the syncretic Din-i Ilahi was announced. The architecture mixes Gujarati and Rajasthani forms with Timurid ones, which is the same argument made in stone.",
+      "The court left in the 1580s and the site was effectively abandoned as a capital. It was inscribed by UNESCO in 1986 (site 255) and survives largely unaltered, because nothing was built over it."
+    ],
+    "contested": "Why the capital was abandoned is not settled. Water shortage is the popular explanation and is plausible but poorly evidenced; the campaign in the north-west from 1585 is the more prosaic reason usually given by historians. Both may be true and neither is proven.",
+    "sources": [
+      {
+        "title": "Fatehpur Sikri — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageFatehpurSikri"
+      },
+      {
+        "title": "Fatehpur Sikri — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/255/"
+      },
+      {
+        "title": "Fatehpur Sikri — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+      }
+    ]
+  }
+]

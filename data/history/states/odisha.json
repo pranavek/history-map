@@ -1,0 +1,17 @@
+[
+  {
+    "id": "odisha-overview",
+    "heading": "The war that changed an empire",
+    "body": [
+      "Odisha's place in Indian history rests substantially on a single, extraordinarily well-documented event: the Kalinga War of around 260 BCE, in which the Mauryan emperor Ashoka conquered the independent kingdom of Kalinga at enormous human cost — ancient estimates, repeated in Ashoka's own rock edicts, put the dead at around 100,000 and the deported at 150,000, figures historians treat as broadly indicative rather than precise. Ashoka's own inscriptions describe his revulsion at the carnage and record his turn toward Buddhism and the policy of dhamma, or moral rule, that he pursued for the rest of his reign — one of the few moments in ancient history where a ruler's stated change of conscience survives in his own words, carved in stone at sites like Dhauli, near Bhubaneswar, which is on the map today.",
+      "Kalinga also became, independently of Ashoka, a major center of a distinctive temple-building tradition. From roughly the 7th century CE, local dynasties developed what architectural historians call the Kalinga style — tall curvilinear towers (deul) paired with assembly halls — most famously at the Lingaraja and Jagannath temples in Bhubaneswar and Puri, and above all at the 13th-century Sun Temple at Konark, built under King Narasimhadeva I and designed as a colossal stone chariot for the sun god, drawn by carved horses and wheels. Konark was never fully completed as intended and its main tower collapsed centuries ago, but the surviving structure is a UNESCO World Heritage Site and among the most studied works of medieval Indian architecture.",
+      "The precise casualty figures from the Kalinga War, and the exact timing of Ashoka's conversion relative to the war, are disputed among historians — the numbers come from edicts written to make a moral point, not a census — but the broad sequence (invasion, conversion, patronage of Buddhism) is well established."
+    ],
+    "sources": [
+      { "title": "Sun Temple, Konârak — Archaeological Survey of India", "url": "https://asi.nic.in/pages/WorldHeritageKonarak" },
+      { "title": "Odisha — Ancient History, Kalinga War, Temple Architecture — Britannica", "url": "https://www.britannica.com/place/Odisha/History" },
+      { "title": "Kalinga War: Causes and Consequences — History of Odisha", "url": "https://historyofodisha.in/kalinga-war-causes-and-consequences/" },
+      { "title": "Odisha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Odisha" }
+    ]
+  }
+]

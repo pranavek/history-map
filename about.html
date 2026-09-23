@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Ctext y=%2226%22 font-size=%2228%22%3E%F0%9F%93%9C%3C/text%3E%3C/svg%3E">
+  <title>About — Historical Places of India</title>
+  <meta name="description" content="How this map is built, where its data comes from, and what it does not claim to know.">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .prose { max-width: var(--measure); margin: 0 auto; padding: clamp(2rem,6vw,4rem) clamp(1rem,4vw,2.5rem); }
+    .prose h2 { margin-top: 2.4rem; }
+    .prose ul { padding-left: 1.2rem; }
+    .prose li { margin-bottom: .45rem; }
+    .prose code { font: .9em var(--mono); background: var(--paper-2); padding: .1em .35em; border-radius: 2px; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr)); gap: .8rem; margin: 1.8rem 0 .5rem; }
+    .stat { border: 1px solid var(--rule-soft); background: var(--card); border-radius: 2px; padding: .7rem .8rem; }
+    .stat-n { display: block; font-family: var(--display); font-size: 1.6rem; font-weight: 600; line-height: 1; }
+    .stat-l { display: block; font-size: .8rem; color: var(--ink-3); margin-top: .25rem; }
+    .gaps { list-style: none; padding: 0; }
+    .gaps > li { border-left: 2px solid var(--rule); padding: .1rem 0 .1rem 1rem; margin-bottom: 1.4rem; }
+    .gaps > li > a { text-decoration: none; }
+    .gaps > li > a:hover strong { text-decoration: underline; }
+    .gap-where { font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin-left: .5rem; }
+    .gaps p { margin: .35rem 0 0; font-size: .95rem; }
+    .gap-coords { color: var(--ink-2); }
+    .cov-state { display: flex; align-items: baseline; gap: .5rem; margin: 1.5rem 0 .3rem; font-size: 1.1rem; }
+    .cov-n { font: 400 .75rem/1 var(--serif); color: var(--ink-3); border: 1px solid var(--rule-soft); border-radius: 999px; padding: .2rem .5rem; }
+    .cov-list { list-style: none; padding: 0; margin: 0; }
+    .cov-list li { display: flex; justify-content: space-between; gap: 1rem; padding: .3rem 0; border-bottom: 1px solid var(--rule-soft); font-size: .95rem; }
+    .cov-cat { color: var(--ink-3); font-size: .82rem; white-space: nowrap; }
+  </style>
+</head>
+<body>
+<header class="site-head">
+  <a class="wordmark" href="index.html">Historical Places of India</a>
+  <nav><a href="index.html">Home</a><a href="map.html">Map</a><a href="history/india.html">History</a><a href="about.html" aria-current="page">About</a></nav>
+</header>
+
+<main class="prose">
+  <p class="eyebrow">Colophon</p>
+  <h1>About this map</h1>
+
+  <p>This is a map of historical places in India, built one region at a time. Every place is
+     a pin, typed by what kind of place it is, filterable by era and by theme, and required
+     to cite where its history came from.</p>
+  <p>It covers <span id="states-line">several states</span> so far. What is on it is a
+     function of what has been added, not a judgement about what matters — the gaps are
+     gaps, not statements.</p>
+
+  <div class="stats" id="stats"></div>
+
+  <h2>What is on it</h2>
+  <div id="coverage"></div>
+
+  <h2>What a place has to have</h2>
+  <ul>
+    <li><strong>A source.</strong> Every place cites where its history came from. Nothing
+        ships unsourced — the data loader refuses to start if a place has no sources.</li>
+    <li><strong>A type and an era.</strong> The pin's shape and colour come from what kind of
+        place it is; the era is a separate axis, because a temple and a mosque from the same
+        century belong together in time but not in kind.</li>
+    <li><strong>Honest uncertainty.</strong> Where the record is contested, the entry says so
+        rather than picking the tidier story.</li>
+  </ul>
+
+  <h2>Things this map admits it does not know</h2>
+  <p>This list is generated from the data itself rather than written by hand, so it cannot
+     quietly fall out of date. Every entry below is a place whose record is genuinely
+     unsettled, quoted from its own notes.</p>
+  <ul class="gaps" id="gaps"></ul>
+  <div id="approx-only"></div>
+
+  <h2>Built with</h2>
+  <ul>
+    <li><a href="https://leafletjs.com/">Leaflet</a> for the map, loaded from a CDN.</li>
+    <li>Tiles from <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, whose
+        style is CC0, given a parchment treatment in CSS.</li>
+    <li>No build step, no framework, no dependencies. Plain HTML, one stylesheet,
+        a few ES modules.</li>
+    <li>This site's own code sets no cookies and loads no analytics. Note that the
+        CDN in front of it injects a Cloudflare Insights beacon into pages served to
+        browsers — that is added in transit, not by anything in this repository.</li>
+  </ul>
+
+  <h2>Contributing a place</h2>
+  <p>Add an entry to <code>data/places/&lt;region&gt;.json</code> and, for a new region, a line in
+     <code>data/regions.json</code>. No code changes are needed. The loader validates every
+     category, era and tag against the controlled vocabularies and fails loudly on anything it
+     does not recognise.</p>
+</main>
+<script type="module" src="js/about.js?v=2"></script>
+
+<footer class="site-foot">
+  <p>Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.
+     India outline derived from <a href="https://github.com/datameet/maps">DataMeet</a> (CC-0).</p>
+</footer>
+</body>
+</html>

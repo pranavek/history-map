@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ramappa-temple",
+    "name": "Kakatiya Rudreshwara (Ramappa) Temple",
+    "localName": "రామప్ప దేవాలయం",
+    "category": "temple",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "kakatiya",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      18.2592,
+      79.9433
+    ],
+    "coordsPrecision": "verified",
+    "city": "Palampet, Mulugu",
+    "state": "Telangana",
+    "built": "Begun 1213 CE",
+    "summary": "A Kakatiya temple named after its sculptor, built on a floating-sand foundation.",
+    "description": [
+      "The Rudreshwara temple at Palampet was begun in 1213 under the Kakatiya ruler Ganapati Deva, built by his general Recharla Rudra. It is almost universally called the Ramappa temple after the sculptor said to have worked on it for decades — one of very few Indian temples named for its craftsman rather than its patron or deity.",
+      "The temple stands on a star-shaped platform of dark basalt, with a sanctum tower built from unusually light bricks that will reportedly float in water, reducing load on the superstructure. The foundation uses a sandbox technique — a pit filled with compacted sand, gravel and lime beneath the platform — which is credited with absorbing seismic shock.",
+      "Its carving is the other reason it is known: black basalt bracket figures of dancers and musicians, polished to a near-metallic finish, on the outer pillars of the mandapa. UNESCO inscribed the temple in 2021 (site 1570)."
+    ],
+    "contested": "The floating-brick and sandbox-foundation claims are widely repeated in official and press accounts; the bricks' low density is measurable, but the seismic performance attributed to the foundation is an inference rather than a tested result. Ramappa himself is known only from tradition.",
+    "sources": [
+      {
+        "title": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1570/"
+      },
+      {
+        "title": "Ramappa Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ramappa_Temple"
+      }
+    ]
+  }
+]

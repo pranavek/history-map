@@ -1,0 +1,167 @@
+[
+  {
+    "id": "bhimbetka",
+    "name": "Rock Shelters of Bhimbetka",
+    "localName": "भीमबेटका",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "prehistoric",
+      "rock-art",
+      "rock-cut"
+    ],
+    "coords": [
+      22.9374,
+      77.6112
+    ],
+    "coordsPrecision": "verified",
+    "city": "Raisen district",
+    "state": "Madhya Pradesh",
+    "built": "Occupied from the Palaeolithic; paintings from c. 10,000 years ago",
+    "summary": "Sandstone shelters holding some of the oldest painting on the subcontinent.",
+    "description": [
+      "Bhimbetka is a cluster of natural sandstone shelters in the Vindhya foothills, occupied by humans across an enormous span — the deposits run back into the Palaeolithic, making this some of the earliest evidence of human life in the subcontinent.",
+      "Several hundred shelters carry paintings. The oldest are generally put at around ten thousand years old, and later layers were added on top over millennia, so a single wall can hold hunting scenes, dancers, animals and, much later, horsemen with metal weapons. The pigments are mineral — red haematite, white.",
+      "The site was identified in 1957 by the archaeologist V. S. Wakankar, who spotted the formations from a train. It became a World Heritage Site in 2003."
+    ],
+    "contested": "Dates for the paintings vary widely between sources and layers are superimposed, so a single founding date is meaningless here. The c. 10,000-year figure is for the earliest painting, not for occupation, which is far older.",
+    "sources": [
+      {
+        "title": "Prehistoric Rock Shelters of Bhimbetka — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageBhimbetka"
+      },
+      {
+        "title": "Rock Shelters of Bhimbetka — UNESCO",
+        "url": "https://whc.unesco.org/en/list/925/"
+      },
+      {
+        "title": "Bhimbetka rock shelters — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters"
+      }
+    ]
+  },
+  {
+    "id": "khajuraho",
+    "name": "Khajuraho Group of Monuments",
+    "localName": "खजुराहो",
+    "category": "temple",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "chandela",
+      "sculpture",
+      "jain"
+    ],
+    "coords": [
+      24.85,
+      79.9333
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "built": "c. 950–1050 CE",
+    "summary": "Chandela temples of c. 950–1050 — Hindu and Jain — famous for their sculpture.",
+    "description": [
+      "Built by the Chandela dynasty between roughly 950 and 1050, Khajuraho once had something like eighty-five temples. About twenty-five survive, spread over a few square kilometres, and they are Hindu and Jain together rather than one or the other.",
+      "The temples stand on high plinths with their towers massed to imitate mountain peaks, and the exteriors carry bands of sculpture. A small proportion of that sculpture is erotic, which is what made the site notorious in the nineteenth century and still dominates how it is described — the great majority of the figures are deities, attendants, musicians and scenes of ordinary life.",
+      "The site was effectively abandoned and overgrown for centuries, which protected it, and was brought to wider notice by the British engineer T. S. Burt in 1838."
+    ],
+    "coordsNote": "Wikidata gives this to two decimal places and it appears rounded; the monuments are spread across several square kilometres in three groups, so a single point is a simplification in any case.",
+    "sources": [
+      {
+        "title": "Group of Temples, Khajuraho — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageKhajuraho"
+      },
+      {
+        "title": "Khajuraho Group of Monuments — UNESCO",
+        "url": "https://whc.unesco.org/en/list/240/"
+      },
+      {
+        "title": "Khajuraho Group of Monuments — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments"
+      }
+    ]
+  },
+  {
+    "id": "gwalior-fort",
+    "name": "Gwalior Fort",
+    "localName": "ग्वालियर क़िला",
+    "category": "fort",
+    "era": "late-medieval",
+    "tags": [
+      "sculpture",
+      "jain",
+      "rock-cut",
+      "capital-city"
+    ],
+    "coords": [
+      26.2236,
+      78.1665
+    ],
+    "coordsPrecision": "verified",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "built": "Man Mandir palace 1486–1516; earlier works from the 6th century",
+    "summary": "A hill fort held by everyone who mattered in north India, with rock-cut Jain colossi.",
+    "description": [
+      "Gwalior Fort sits on a sandstone plateau above the city, and its position made it one of the most fought-over strongholds in north India — Tomars, the Delhi Sultanate, Mughals, Marathas, Scindias and the British all held it. Babur is said to have called it the pearl among the fortresses of Hind.",
+      "The best of it is the Man Mandir palace, built for Man Singh Tomar between 1486 and 1516, its outer walls faced in glazed tile — turquoise, yellow, green — with bands of ducks and elephants. Inside are chambers ventilated for the heat and, below, dungeons.",
+      "Cut into the approach roads are rows of Jain tirthankara figures, some over fifteen metres tall, carved in the fifteenth century and defaced under Babur. The fort also holds the Chaturbhuj temple of 876 CE, whose dedicatory inscription carries one of the world's earliest recorded uses of zero as a written numeral."
+    ],
+    "contested": "Foundation legends place a fort here in the 6th century and inscriptions confirm early occupation, but the structures standing today are overwhelmingly 15th century and later. Treat the Medieval assignment as referring to the surviving fabric.",
+    "sources": [
+      {
+        "title": "Gwalior Fort — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gwalior_Fort"
+      },
+      {
+        "title": "Chaturbhuj Temple, Gwalior — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chaturbhuj_Temple,_Gwalior"
+      }
+    ]
+  },
+  {
+    "id": "sanchi",
+    "name": "Buddhist Monuments at Sanchi",
+    "localName": "साँची",
+    "category": "vihara",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "buddhist",
+      "maurya",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      23.4794,
+      77.7397
+    ],
+    "coordsPrecision": "verified",
+    "city": "Sanchi, Raisen",
+    "state": "Madhya Pradesh",
+    "built": "3rd century BCE – 12th century CE",
+    "summary": "The oldest stone Buddhist sanctuary in India, and the best surviving early Buddhist sculpture.",
+    "description": [
+      "Sanchi sits on a hill above the old trade route through central India, near the city of Vidisha. The Great Stupa was begun under Ashoka in the 3rd century BCE as a brick mound over relics, then enlarged in stone in the 2nd century BCE and given the stone railing and the four carved gateways — toranas — that it is known for.",
+      "The toranas, added around the 1st century BCE or CE, carry the most complete surviving programme of early Buddhist narrative relief: Jataka stories, scenes from the Buddha's life, processions, and donor inscriptions naming ordinary craftsmen and guilds. The Buddha himself is never shown in human form here, but indicated by a tree, a wheel, footprints or an empty throne.",
+      "The hill also carries later stupas, monasteries, temples and an Ashokan pillar, spanning some fifteen centuries of continuous building before the site was abandoned. It was rediscovered in 1818, badly damaged by early treasure hunting, and restored between 1912 and 1919 under John Marshall. UNESCO inscribed it in 1989 (site 524)."
+    ],
+    "contested": "Relics said to be of Sariputta and Mahamoggallana were removed from Stupa 3 in the 19th century and taken to Britain; they were returned in 1952. Early excavation in the 1820s and later did real damage before any record was made, so part of what was lost is simply unknown.",
+    "sources": [
+      {
+        "title": "Buddhist Monuments at Sanchi — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageBuddhistMonumentsatSanchi"
+      },
+      {
+        "title": "Buddhist Monuments at Sanchi — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/524/"
+      },
+      {
+        "title": "Sanchi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sanchi"
+      }
+    ]
+  }
+]

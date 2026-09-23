@@ -1,0 +1,119 @@
+[
+  {
+    "id": "santiniketan",
+    "name": "Santiniketan",
+    "localName": "শান্তিনিকেতন",
+    "category": "urban",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "scholarship",
+      "social-reform",
+      "living-tradition"
+    ],
+    "coords": [
+      23.6776,
+      87.6852
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Bolpur, Birbhum",
+    "state": "West Bengal",
+    "built": "School founded 1901; Visva-Bharati 1921",
+    "summary": "Tagore's school and university, built as an argument against colonial education.",
+    "description": [
+      "Santiniketan began as an ashram founded by Debendranath Tagore, and became a school in 1901 when his son Rabindranath Tagore opened a small institution there with a handful of pupils. Classes were held outdoors under the trees, and the curriculum was built around the arts, crafts and the natural world rather than the examination-driven syllabus of the colonial system it was set against.",
+      "In 1921 it became Visva-Bharati, a university whose stated purpose was the meeting of Indian and world learning — its motto is a line meaning 'where the whole world meets in a single nest'. Its campus buildings, murals and sculpture, produced with Nandalal Bose, Ramkinkar Baij and others, are the physical record of a distinctly Indian modernism rather than a revivalist style.",
+      "UNESCO inscribed Santiniketan in 2023 (site 1375). It remains a working university, and the Poush Mela and Basanta Utsav still structure its year."
+    ],
+    "contested": "The site is commonly described as Tagore's own foundation; the ashram was his father's, and the school of 1901 was built on it. The 2023 inscription followed earlier unsuccessful nominations and a long argument about the impact of new construction on campus.",
+    "coordsNote": "A campus and township rather than a monument. The coordinate is a general point in Santiniketan.",
+    "sources": [
+      {
+        "title": "Santiniketan — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1375/"
+      },
+      {
+        "title": "Santiniketan — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Santiniketan"
+      }
+    ]
+  },
+  {
+    "id": "darjeeling-himalayan-railway",
+    "name": "Darjeeling Himalayan Railway",
+    "localName": "দার্জিলিং হিমালয়ান রেল",
+    "category": "railway",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "railway",
+      "british-raj",
+      "himalaya",
+      "living-tradition"
+    ],
+    "coords": [
+      27.045,
+      88.2672
+    ],
+    "coordsPrecision": "approximate",
+    "city": "New Jalpaiguri to Darjeeling",
+    "state": "West Bengal",
+    "built": "Opened 1881",
+    "summary": "A two-foot-gauge line that climbs 2,000 metres by loop and zig-zag, still steam-worked.",
+    "description": [
+      "The Darjeeling Himalayan Railway opened in 1881, running about 88 kilometres from the plains at Siliguri up to Darjeeling at roughly 2,200 metres. It is built to a gauge of two feet, and for much of its length it runs beside — and repeatedly across — the Hill Cart Road, through the middle of the towns it serves.",
+      "It gains height by geometry rather than by rack: a sequence of spiral loops and reverse zig-zags carries the line up slopes that a straight alignment could never hold, of which the Batasia loop and the reverses above Tindharia are the best known. It was engineered as a working freight and passenger line for the tea districts, not as a tourist attraction.",
+      "UNESCO inscribed the railway in 1999, the first of the three Mountain Railways of India to be listed (site 944). B-class steam locomotives dating from the first decades of the 20th century still work services on the upper section, and landslides regularly close parts of the route."
+    ],
+    "contested": "Operations have been repeatedly interrupted by monsoon landslides and by political shutdowns in the hills; through running between the plains and Darjeeling is not continuously available, and published service patterns often overstate what actually runs.",
+    "coordsNote": "An 88 km line, not a point. The coordinate is the Darjeeling end of the route.",
+    "sources": [
+      {
+        "title": "Mountain Railways of India — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/944/"
+      },
+      {
+        "title": "Darjeeling Himalayan Railway — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway"
+      }
+    ]
+  },
+  {
+    "id": "sundarbans",
+    "name": "Sundarbans National Park",
+    "localName": "সুন্দরবন",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "wildlife",
+      "biodiversity"
+    ],
+    "coords": [
+      21.838,
+      88.8852
+    ],
+    "coordsPrecision": "approximate",
+    "city": "South 24 Parganas",
+    "state": "West Bengal",
+    "built": "National park 1984; inscribed 1987",
+    "summary": "The Indian part of the world's largest mangrove forest, and tiger country that floods twice a day.",
+    "description": [
+      "The Sundarbans is the largest mangrove forest in the world, spread across the delta of the Ganga, Brahmaputra and Meghna. The Indian portion covers roughly 40 per cent of it; the rest is in Bangladesh, where it is separately inscribed. The landscape is a shifting network of tidal creeks, mudflats and islands, submerged and exposed twice a day.",
+      "It holds one of the larger tiger populations in India, and the only one that routinely swims between islands and hunts in a saline, amphibious environment. The forest also supports estuarine crocodiles, Gangetic and Irrawaddy dolphins, water monitors and very large numbers of birds, and it functions as a storm barrier for the populated delta behind it.",
+      "The national park was declared in 1984 and UNESCO inscribed it in 1987 (site 452). Sea-level rise, cyclones, salinity change and pressure from fishing and honey collection are the documented threats; several islands in the delta have already gone under."
+    ],
+    "contested": "Era here marks the site's conservation history, not the antiquity of the forest. Tiger numbers in the Sundarbans are hard to census in mangrove terrain and published figures vary widely. Human–tiger conflict deaths are recorded inconsistently and are probably undercounted.",
+    "coordsNote": "A protected area of roughly 1,330 km² of forest and waterway. The coordinate is a point within the park, not a boundary or a gate.",
+    "sources": [
+      {
+        "title": "Sundarbans National Park — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/452/"
+      },
+      {
+        "title": "Sundarbans National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sundarbans_National_Park"
+      }
+    ]
+  }
+]

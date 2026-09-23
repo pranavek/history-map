@@ -1,0 +1,208 @@
+/* ── Map page ────────────────────────────────────────────────────────────── */
+
+.map-shell { display: grid; grid-template-rows: auto 1fr; height: 100dvh; }
+.map-body  { position: relative; overflow: hidden; }
+
+#map { position: absolute; inset: 0; background: var(--paper-2); }
+
+/* The parchment treatment.
+   Applied to the TILE PANE ONLY — never to the map root. Markers, popups and
+   above all the attribution control must stay unfiltered: the OSM tile usage
+   policy requires attribution to be plainly legible, and dimming it would
+   breach that.
+   grayscale() is partial, not full. At grayscale(1) the sea and the land end up
+   at nearly the same luminance and the coastline disappears — which matters a
+   great deal for a coastal city. Holding back some saturation keeps the water
+   reading as a distinct wash while the whole still reads as aged paper.
+   The earlier values pushed saturate() to 1.28 and hue-rotate to -8deg, which
+   made land AND sea a strong amber — aged, but tiring to look at for any
+   length of time, and the whole frame ended up the same temperature. Letting
+   the water fall cool against warm land lowers the intensity and sharpens the
+   coastline at the same time. */
+.leaflet-tile-pane {
+  filter: grayscale(.7) sepia(.42) saturate(1) contrast(.92) brightness(1.07) hue-rotate(-4deg);
+}
+/* Grain over the tiles, tying the map to the rest of the page */
+.map-body::after {
+  content: ""; position: absolute; inset: 0; z-index: 401; pointer-events: none;
+  background-image: var(--grain); opacity: .26; mix-blend-mode: multiply;
+}
+
+.leaflet-container { font-family: var(--serif); background: var(--paper-2); }
+.leaflet-control-attribution {
+  background: rgba(246,240,226,.92) !important;
+  font: 400 11px/1.5 var(--serif) !important; color: var(--ink-2) !important;
+}
+.leaflet-control-attribution a { color: var(--accent) !important; }
+.leaflet-bar a {
+  background: var(--paper-3); color: var(--ink);
+  border-bottom-color: var(--rule-soft); font-family: var(--serif);
+}
+.leaflet-bar a:hover { background: var(--card); color: var(--accent); }
+
+/* ── Pins ────────────────────────────────────────────────────────────────── */
+.pin { background: none !important; border: 0 !important; }
+.pin-svg { width: 32px; height: 42px; display: block; filter: drop-shadow(0 2px 3px rgba(44,40,34,.35)); transition: transform .16s ease-out; transform-origin: 50% 100%; }
+.pin:hover .pin-svg, .pin.is-active .pin-svg { transform: scale(1.16); }
+.pin.is-approx .pin-svg { opacity: .92; }
+.pin.is-approx::after {
+  content: ""; position: absolute; left: 50%; top: 15px; width: 54px; height: 54px;
+  transform: translate(-50%, -50%); border-radius: 50%;
+  border: 1px dashed rgba(44,40,34,.45); background: rgba(44,40,34,.06); pointer-events: none;
+}
+
+/* ── Popup ───────────────────────────────────────────────────────────────── */
+.leaflet-popup-content-wrapper {
+  background: var(--card); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: var(--radius); box-shadow: var(--shadow);
+}
+.leaflet-popup-tip { background: var(--card); border: 1px solid var(--rule); }
+.leaflet-popup-content { margin: .9rem 1rem; font-family: var(--serif); width: 15rem !important; }
+.pop-cat { font: 600 .68rem/1 var(--serif); letter-spacing: .14em; text-transform: uppercase; color: var(--cat); }
+.pop-name { font-family: var(--display); font-size: 1.25rem; font-weight: 600; margin: .35rem 0 .1rem; }
+.pop-local { font-size: .9rem; color: var(--ink-3); margin: 0 0 .5rem; }
+.pop-sum { font-size: .93rem; margin: 0 0 .7rem; }
+.pop-more { font: 600 .85rem/1 var(--serif); color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
+
+/* ── Control rail ────────────────────────────────────────────────────────── */
+.rail {
+  position: absolute; z-index: 1000; top: 1rem; left: 1rem; width: 18.5rem;
+  max-height: calc(100% - 2rem); overflow-y: auto;
+  background: rgba(244,236,218,.96); border: 1px solid var(--rule);
+  border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.1rem 1.15rem;
+}
+.rail h2 { font-size: 1.05rem; margin: 0 0 .1rem; }
+.rail .count { font-size: .85rem; color: var(--ink-3); margin: 0 0 .9rem; }
+.rail fieldset { border: 0; padding: 0; margin: 0 0 1rem; }
+.rail legend { font: 600 .7rem/1 var(--serif); letter-spacing: .16em; text-transform: uppercase; color: var(--ink-3); padding: 0; margin-bottom: .55rem; }
+.search {
+  width: 100%; font: 400 .95rem var(--serif); color: var(--ink);
+  padding: .5rem .65rem; margin-bottom: 1rem;
+  background: var(--paper-3); border: 1px solid var(--rule-soft); border-radius: var(--radius);
+}
+
+/* Legend doubles as the category filter */
+.legend.is-filter .legend-item { cursor: pointer; user-select: none; transition: background .14s, border-color .14s; }
+.legend.is-filter .legend-item:hover { border-color: var(--cat); }
+.legend-item[aria-pressed="true"] { background: var(--cat); border-color: var(--cat); color: #fff; }
+.legend-item[aria-pressed="true"] .legend-swatch { color: #fff; }
+.legend-item.is-empty { opacity: .42; }
+
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; padding: 0; margin: 0; list-style: none; }
+.chip {
+  font: 400 .85rem/1 var(--serif); color: var(--ink-2); cursor: pointer;
+  padding: .38rem .65rem; background: var(--paper-3);
+  border: 1px solid var(--rule-soft); border-radius: 999px;
+}
+.chip:hover { border-color: var(--ink-3); }
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper-3); }
+.rail .reset { font: 600 .85rem var(--serif); color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
+.empty-note { font-size: .9rem; color: var(--accent); margin: .5rem 0 0; }
+
+/* ── Detail panel ────────────────────────────────────────────────────────── */
+.detail {
+  position: absolute; z-index: 1001; top: 0; right: 0; bottom: 0; width: min(27rem, 100%);
+  background: var(--card); border-left: 1px solid var(--rule);
+  box-shadow: -8px 0 28px rgba(44,40,34,.14);
+  padding: 1.6rem 1.7rem 2.5rem; overflow-y: auto;
+  transform: translateX(101%); transition: transform .26s ease-out; visibility: hidden;
+}
+.detail.is-open { transform: none; visibility: visible; }
+.detail .close { position: absolute; top: .9rem; right: 1rem; font: 400 1.5rem/1 var(--serif); background: none; border: 0; color: var(--ink-3); cursor: pointer; }
+.detail .close:hover { color: var(--accent); }
+.detail .cat { font: 600 .7rem/1 var(--serif); letter-spacing: .15em; text-transform: uppercase; color: var(--cat); }
+.detail h2 { margin: .5rem 0 .15rem; }
+.detail .local { font-size: 1.05rem; color: var(--ink-3); margin: 0 0 .2rem; }
+.detail .meta { font-size: .9rem; color: var(--ink-2); margin: 0 0 1.1rem; }
+.detail .body p { font-size: 1rem; }
+.note {
+  font-size: .9rem; border-left: 2px solid var(--accent-soft);
+  background: rgba(180,100,63,.08); padding: .7rem .85rem; margin: 1.1rem 0; color: var(--ink-2);
+}
+.note strong { color: var(--ink); }
+.detail .sources { font-size: .9rem; padding-left: 1.1rem; margin: .4rem 0 0; }
+.detail .sources li { margin-bottom: .3rem; }
+
+/* ── Mobile: rail becomes a bottom sheet ─────────────────────────────────── */
+.rail-toggle { display: none; }
+@media (max-width: 760px) {
+  .rail-toggle {
+    display: inline-flex; position: absolute; z-index: 1002; left: 1rem; bottom: 1rem;
+    font: 600 .95rem var(--serif); padding: .7rem 1.1rem;
+    background: var(--ink); color: var(--paper-3); border: 0; border-radius: 999px;
+    box-shadow: var(--shadow); cursor: pointer;
+  }
+  .rail {
+    top: auto; bottom: 0; left: 0; right: 0; width: auto; max-height: 68dvh;
+    border-radius: 10px 10px 0 0; border-left: 0; border-right: 0; border-bottom: 0;
+    transform: translateY(101%); transition: transform .26s ease-out; visibility: hidden;
+    padding-bottom: 4.5rem;
+  }
+  .rail.is-open { transform: none; visibility: visible; }
+  .detail { width: 100%; }
+}
+
+/* Tags are the longest control by far — 19 chips and growing — and they were
+   pushing the results list below the fold, which defeats its purpose. Collapsed
+   by default; the summary reports how many tags are selected so an active
+   filter is never invisible while collapsed. */
+.tag-box { margin: 0 0 1rem; }
+.tag-box > summary {
+  font: 600 .7rem/1 var(--serif); letter-spacing: .16em; text-transform: uppercase;
+  color: var(--ink-3); cursor: pointer; list-style: none; padding: .2rem 0;
+  display: flex; align-items: center; gap: .4rem;
+}
+.tag-box > summary::-webkit-details-marker { display: none; }
+.tag-box > summary::before { content: "▸"; font-size: .8rem; transition: transform .15s; }
+.tag-box[open] > summary::before { transform: rotate(90deg); }
+.tag-box > summary:hover { color: var(--ink); }
+.tag-count { font-size: .72rem; letter-spacing: normal; opacity: .75; }
+.tag-box:has(.chip[aria-pressed="true"]) > summary,
+.tag-box:has(.chip[aria-pressed="true"]) .tag-count { color: var(--accent); opacity: 1; }
+.tag-box .chips { margin-top: .55rem; }
+
+/* ── Results list ────────────────────────────────────────────────────────────
+   Not decoration: several places sit within a few hundred metres on S. M.
+   Street, so their pins overlap at city zoom and the lower ones cannot be
+   clicked. This list is the reliable path to every visible place. */
+.results {
+  list-style: none; padding: 0; margin: .2rem 0 0;
+  border-top: 1px solid var(--rule-soft);
+  position: relative;   /* the window is positioned against this */
+}
+/* Holds the full scroll height open while only a couple of dozen rows exist. */
+.r-spacer { display: block; }
+.r-window { display: block; position: absolute; inset: 0 0 auto 0; will-change: transform; }
+
+/* Height is load-bearing: ROW_H in js/map.js must equal this box exactly, or
+   the windowed list drifts out of step with the scrollbar. 44px = 27px content
+   + 8px vertical padding + 1px border, with box-sizing: border-box. */
+.result {
+  display: flex; align-items: center; gap: .6rem; width: 100%;
+  height: 44px; box-sizing: border-box;
+  padding: .4rem .2rem; background: none; border: 0; cursor: pointer;
+  border-bottom: 1px solid var(--rule-soft); text-align: left; font-family: var(--serif);
+  overflow: hidden;
+}
+.result:hover { background: rgba(44,40,34,.05); }
+.r-icon { width: 1.3rem; height: 1.3rem; flex: none; color: var(--cat); }
+.r-icon svg { width: 100%; height: 100%; fill: currentColor; }
+.r-text { display: flex; flex-direction: column; line-height: 1.25; }
+.r-name { font-size: .98rem; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.r-meta { font-size: .78rem; color: var(--ink-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.r-text { min-width: 0; }
+
+/* ── Clusters ────────────────────────────────────────────────────────────────
+   Shown wherever places collide at the current zoom. Deliberately a different
+   shape from a pin — a disc, not a teardrop — so it never reads as "a place". */
+.cluster { background: none !important; border: 0 !important; }
+.cluster-dot {
+  display: grid; place-items: center; border-radius: 50%;
+  background: var(--cat); color: #fbf7ec;
+  border: 2px solid rgba(252,248,238,.9);
+  box-shadow: 0 2px 5px rgba(44,40,34,.35);
+  font: 600 .82rem/1 var(--serif);
+  transition: transform .15s ease-out;
+}
+.cluster:hover .cluster-dot { transform: scale(1.1); }
+.cluster-n { pointer-events: none; }

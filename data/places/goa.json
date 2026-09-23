@@ -1,0 +1,46 @@
+[
+  {
+    "id": "goa-churches",
+    "name": "Churches and Convents of Goa",
+    "localName": "Velha Goa",
+    "category": "church",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "portuguese",
+      "spice-trade",
+      "pilgrimage",
+      "merchant-community"
+    ],
+    "coords": [
+      15.5022,
+      73.9117
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Old Goa",
+    "state": "Goa",
+    "built": "16th – 17th centuries",
+    "summary": "The churches of a vanished Portuguese capital, and the body of Francis Xavier.",
+    "description": [
+      "Old Goa was the capital of the Portuguese Estado da Índia, and in the 16th century one of the larger cities in the world, administering a trading empire that ran from East Africa to Macau. Almost none of the secular city survives: what remains is its religious architecture, standing in open ground where the streets used to be.",
+      "The inscribed monuments include the Sé Cathedral, the largest church in Asia when it was completed in 1619; the Basilica of Bom Jesus of 1605, which holds the relics of St Francis Xavier; the Church of St Francis of Assisi; and the ruined St Augustine tower. The styles run from plain Manueline through Renaissance to Baroque, and they carried those forms into Asia — churches in Southeast Asia and the Far East were built from this vocabulary.",
+      "The body of Francis Xavier is exposed to public veneration roughly once a decade; the exposition draws very large crowds. UNESCO inscribed the group in 1986 (site 234)."
+    ],
+    "contested": "The city's decline is usually attributed to repeated epidemics — cholera and malaria — which drove the administration to Panjim in the 19th century; the epidemiology behind that account is not well documented. Goa's conversion history, including the Goa Inquisition of 1560–1812, is part of the same story and is often left out of the monuments' presentation.",
+    "coordsNote": "Several churches spread across about a kilometre of Old Goa. The coordinate is near the Sé Cathedral and Bom Jesus, not a single building.",
+    "sources": [
+      {
+        "title": "Churches and Convents of Goa — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageChurchesandConventsofGoa"
+      },
+      {
+        "title": "Churches and Convents of Goa — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/234/"
+      },
+      {
+        "title": "Churches and convents of Goa — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Churches_and_convents_of_Goa"
+      }
+    ]
+  }
+]

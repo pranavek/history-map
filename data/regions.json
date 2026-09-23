@@ -1,0 +1,22 @@
+[
+  { "id": "kerala",            "name": "Kerala",            "file": "data/places/kerala.json" },
+  { "id": "karnataka",         "name": "Karnataka",         "file": "data/places/karnataka.json" },
+  { "id": "madhya-pradesh",    "name": "Madhya Pradesh",    "file": "data/places/madhya-pradesh.json" },
+  { "id": "maharashtra",       "name": "Maharashtra",       "file": "data/places/maharashtra.json" },
+  { "id": "tamil-nadu",        "name": "Tamil Nadu",        "file": "data/places/tamil-nadu.json" },
+  { "id": "telangana",         "name": "Telangana",         "file": "data/places/telangana.json" },
+  { "id": "goa",               "name": "Goa",               "file": "data/places/goa.json" },
+  { "id": "gujarat",           "name": "Gujarat",           "file": "data/places/gujarat.json" },
+  { "id": "rajasthan",         "name": "Rajasthan",         "file": "data/places/rajasthan.json" },
+  { "id": "delhi",             "name": "Delhi",             "file": "data/places/delhi.json" },
+  { "id": "uttar-pradesh",     "name": "Uttar Pradesh",     "file": "data/places/uttar-pradesh.json" },
+  { "id": "uttarakhand",       "name": "Uttarakhand",       "file": "data/places/uttarakhand.json" },
+  { "id": "himachal-pradesh",  "name": "Himachal Pradesh",  "file": "data/places/himachal-pradesh.json" },
+  { "id": "chandigarh",        "name": "Chandigarh",        "file": "data/places/chandigarh.json" },
+  { "id": "bihar",             "name": "Bihar",             "file": "data/places/bihar.json" },
+  { "id": "west-bengal",       "name": "West Bengal",       "file": "data/places/west-bengal.json" },
+  { "id": "odisha",            "name": "Odisha",            "file": "data/places/odisha.json" },
+  { "id": "sikkim",            "name": "Sikkim",            "file": "data/places/sikkim.json" },
+  { "id": "assam",             "name": "Assam",             "file": "data/places/assam.json" },
+  { "id": "multi-state",       "name": "Multi-state",       "file": "data/places/multi-state.json" }
+]

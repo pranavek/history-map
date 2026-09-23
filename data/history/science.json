@@ -1,0 +1,418 @@
+[
+  {
+    "eraId": "ancient-classical",
+    "eraLabel": "Ancient & Classical Foundations",
+    "eraRange": "c. 2600 BCE – 1150 CE",
+    "entries": [
+      {
+        "id": "indus-metrology",
+        "year": "c. 2600 – 1900 BCE",
+        "title": "Indus Valley sanitation & metrology",
+        "body": "Standardized weights and measures, kiln-fired bricks, and underground drainage beneath entire cities — Harappa, Mohenjo-daro and Dholavira all show the same engineering habits, at urban scale.",
+        "sources": [
+          { "title": "Indus Valley Civilization — World History Encyclopedia", "url": "https://www.worldhistory.org/Indus_Valley_Civilization/" }
+        ]
+      },
+      {
+        "id": "sulba-sutras",
+        "year": "c. 8th – 2nd century BCE",
+        "title": "Sulba Sutras",
+        "body": "Baudhayana's Sulba Sutra states a version of the Pythagorean theorem and gives methods for building altars of specified shapes and equal area — applied geometry, not proof in the later Greek sense.",
+        "note": "Dated anywhere from the 8th to the 2nd century BCE across sources — it survives only in later manuscripts, with no independently dated original.",
+        "sources": [
+          { "title": "Baudhayana sutras — Wikipedia", "url": "https://en.wikipedia.org/wiki/Baudhayana_sutras" },
+          { "title": "Mathematics in the service of religion: Sulba Sutras — MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Projects/Pearce/chapter-5/" }
+        ]
+      },
+      {
+        "id": "sushruta-samhita",
+        "year": "c. 600 BCE (traditional)",
+        "title": "Sushruta Samhita",
+        "body": "A surgical treatise describing roughly 300 procedures and 120 instruments, including the earliest known written record of a forehead-flap rhinoplasty, plus cataract surgery and bone-setting.",
+        "note": "The traditional c. 600 BCE date isn't independently confirmed — the surviving text is generally redacted centuries later than the events it describes, common for ancient Indian technical texts.",
+        "sources": [
+          { "title": "Sushruta, the father of rhinoplasty — Hektoen International", "url": "https://hekint.org/2024/07/22/sushruta-the-father-of-rhinoplasty/" },
+          { "title": "Sushruta samhita — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita" }
+        ]
+      },
+      {
+        "id": "charaka-samhita",
+        "year": "compiled c. 1st century CE, from older material",
+        "title": "Charaka Samhita",
+        "body": "The foundational text of Ayurvedic internal medicine, setting out early theories of physiology and disease. Older teaching it draws on may reach back centuries earlier, but today's redaction is usually dated to around the 1st century CE.",
+        "sources": [
+          { "title": "Charaka — Wikipedia", "url": "https://en.wikipedia.org/wiki/Charaka" },
+          { "title": "The Date of Caraka Samhita — Wisdom Library", "url": "https://www.wisdomlib.org/hinduism/essay/charaka-samhita-and-sushruta-samhita/d/doc1146965.html" }
+        ]
+      },
+      {
+        "id": "panini-ashtadhyayi",
+        "year": "c. 500 BCE",
+        "title": "Panini's Ashtadhyayi",
+        "body": "A complete, formally systematic Sanskrit grammar of roughly 4,000 rules, with explicit meta-rules governing how the rules interact. In 1967 computer scientist Peter Ingerman proposed renaming Backus-Naur Form — used to define programming-language syntax — \"Panini-Backus Form.\"",
+        "note": "A real, cited scholarly analogy, not a historical lineage — Panini's grammar had no actual influence on computer science, and by some accounts the parallel is only structurally suggestive.",
+        "sources": [
+          { "title": "Panini's Ashtadhyayi Rules for Sanskrit and Backus-Naur Forms for Functional Programming — Drishtikone", "url": "https://drishtikone.substack.com/p/paninis-ashtdhyayi-rules-sanskrit-and-backus-naur-forms-functional-programming" },
+          { "title": "Computing Processes and Panini's Ashtadhyayi — Bhavana", "url": "https://bhavana.org.in/computing-processes-and-pan%CC%A3inis-as%CC%A3t%CC%A3adhyayi/" }
+        ]
+      },
+      {
+        "id": "aryabhatiya",
+        "year": "499 CE",
+        "title": "Aryabhatiya",
+        "body": "Formalizes the decimal place-value system, gives pi as approximately 3.1416, states that the Earth rotates on its own axis, and explains solar and lunar eclipses as shadows rather than myth.",
+        "sources": [
+          { "title": "Aryabhata — Wikipedia", "url": "https://en.wikipedia.org/wiki/Aryabhata" }
+        ]
+      },
+      {
+        "id": "brahmasphutasiddhanta",
+        "year": "628 CE",
+        "title": "Brahmasphutasiddhanta",
+        "body": "Brahmagupta's treatise gives the first known systematic rules for arithmetic with zero and negative numbers, treating zero as a number in its own right, plus general methods for quadratic equations.",
+        "sources": [
+          { "title": "Brahmagupta — MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/" }
+        ]
+      },
+      {
+        "id": "bhaskara-ii",
+        "year": "1150 CE",
+        "title": "Lilavati & Bijaganita",
+        "body": "Twin treatises covering arithmetic, algebra, zero, infinity and indeterminate equations, including the first general method for what's now called Pell's equation, plus early infinitesimal reasoning in his later astronomical work.",
+        "sources": [
+          { "title": "Bhaskara II — MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bhaskara_II/" }
+        ]
+      }
+    ]
+  },
+  {
+    "eraId": "medieval-early-modern",
+    "eraLabel": "Medieval & Early Modern Era",
+    "eraRange": "c. 1340 – 1799 CE",
+    "entries": [
+      {
+        "id": "kerala-school",
+        "year": "c. 1340 – 1425 CE",
+        "title": "Kerala School of Astronomy and Mathematics",
+        "body": "Madhava of Sangamagrama derived infinite series for the sine, cosine and arctangent functions — methods anticipating core calculus techniques roughly two and a half centuries before Newton and Leibniz.",
+        "note": "Historians differ on how far to press this comparison — some call Madhava a founder of mathematical analysis, not the inventor of a complete calculus system.",
+        "sources": [
+          { "title": "Madhava of Sangamagrama — MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Madhava/" }
+        ]
+      },
+      {
+        "id": "jantar-mantar-observatories",
+        "year": "1724 – 1735 CE",
+        "title": "Jantar Mantar observatories",
+        "body": "Maharaja Jai Singh II built five large masonry astronomical observatories — Jaipur, Delhi, Ujjain, Varanasi and Mathura — each holding instruments for tracking celestial positions and time with unusual precision for non-optical devices.",
+        "note": "Only the Jaipur observatory is a UNESCO World Heritage Site (2010). Delhi, Ujjain and Varanasi are not currently inscribed, despite sometimes being assumed part of a joint listing.",
+        "sources": [
+          { "title": "Jantar Mantar, Jaipur — UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/1338" },
+          { "title": "Jantar Mantar, Jaipur — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur" }
+        ]
+      },
+      {
+        "id": "mysorean-rockets",
+        "year": "1780s – 1799 CE",
+        "title": "Iron-cased Mysorean rockets",
+        "body": "Hyder Ali and Tipu Sultan developed iron-cased war rockets through the Anglo-Mysore Wars — sturdier and longer-ranged than Europe's cardboard-cased ones. After Srirangapatna fell in 1799, captured rockets shipped to Britain's Woolwich Arsenal prompted William Congreve's own rocket program from 1801 — the Congreve rocket's direct ancestor.",
+        "note": "The commonly cited single date \"1792\" isn't well supported — use runs across the Anglo-Mysore Wars generally, from the 1780s to 1799.",
+        "sources": [
+          { "title": "Mysorean rockets — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mysorean_rockets" }
+        ]
+      }
+    ]
+  },
+  {
+    "eraId": "pioneer-pre-independence",
+    "eraLabel": "Pioneer Era & Pre-Independence",
+    "eraRange": "1895 – 1945",
+    "entries": [
+      {
+        "id": "jc-bose-microwave",
+        "year": "1895",
+        "title": "J. C. Bose's millimetre-wave demonstration",
+        "body": "Bose publicly demonstrated millimetre-wave wireless transmission at Presidency College, Calcutta — ringing a bell and firing gunpowder through two walls at 23 metres — about a year before Marconi's first public demonstration. He also pioneered semiconductor (galena) detectors and later invented the crescograph, for recording plant growth.",
+        "note": "\"Before Marconi\" holds for the 1895-versus-1896 demonstrations specifically, but Bose's was a physics experiment, not a communication system. The crescograph's invention date is inconsistently reported; treat it as \"early 1900s.\"",
+        "sources": [
+          { "title": "Milestones: First Millimeter-wave Communication Experiments by J.C. Bose, 1894–96 — IEEE/ETHW", "url": "https://ethw.org/Milestones:First_Millimeter-wave_Communication_Experiments_by_J.C._Bose,_1894-96" }
+        ]
+      },
+      {
+        "id": "saha-ionization-equation",
+        "year": "1920",
+        "title": "Saha ionization equation",
+        "body": "Meghnad Saha's equation links a gas's ionization state to its temperature and pressure, letting astronomers read a star's temperature from its spectrum — still used to interpret stellar spectra.",
+        "sources": [
+          { "title": "Saha ionization equation — Wikipedia", "url": "https://en.wikipedia.org/wiki/Saha_ionization_equation" }
+        ]
+      },
+      {
+        "id": "bose-einstein-statistics",
+        "year": "1924",
+        "title": "Bose–Einstein statistics",
+        "body": "Satyendra Nath Bose derived Planck's law of blackbody radiation using a new statistics that treated photons as indistinguishable particles. Einstein extended the method to matter, predicting Bose–Einstein condensation; Paul Dirac later named the particle class \"bosons,\" after Bose.",
+        "sources": [
+          { "title": "Bose–Einstein statistics — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics" }
+        ]
+      },
+      {
+        "id": "raman-effect",
+        "year": "1928",
+        "title": "Discovery of the Raman effect",
+        "body": "C. V. Raman, with K. S. Krishnan, discovered that light scattered through a medium shifts wavelength by exchanging energy with molecular vibrations — the Raman effect, still used in Raman spectroscopy. Raman won the 1930 Nobel Prize in Physics, the first Asian science laureate.",
+        "sources": [
+          { "title": "C. V. Raman — Wikipedia", "url": "https://en.wikipedia.org/wiki/C._V._Raman" }
+        ]
+      },
+      {
+        "id": "chandrasekhar-limit",
+        "year": "1931 – 1935",
+        "title": "The Chandrasekhar limit",
+        "body": "Chandrasekhar calculated the maximum mass — about 1.44 solar masses — a white dwarf can hold before collapsing further, beginning on a 1930 sea voyage and refined over several papers. He shared the 1983 Nobel Prize in Physics for it.",
+        "note": "Born in Lahore, British India, in 1910; became a US citizen in 1953, thirty years before the Nobel — accurately Indian-born, not an Indian citizen at the time of the award.",
+        "sources": [
+          { "title": "Chandrasekhar limit — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit" },
+          { "title": "Subrahmanyan Chandrasekhar — Facts — NobelPrize.org", "url": "https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/facts/" }
+        ]
+      },
+      {
+        "id": "tifr-founding",
+        "year": "1945",
+        "title": "Founding of TIFR",
+        "body": "Homi Bhabha founded the Tata Institute of Fundamental Research on 1 June 1945 in Bangalore, with J. R. D. Tata's backing, before it moved to Bombay later that year — the start of organized nuclear and fundamental-physics research in India.",
+        "sources": [
+          { "title": "Tata Institute of Fundamental Research — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research" }
+        ]
+      }
+    ]
+  },
+  {
+    "eraId": "post-independence",
+    "eraLabel": "Post-Independence Era",
+    "eraRange": "1954 – 1998",
+    "entries": [
+      {
+        "id": "collagen-triple-helix",
+        "year": "1954",
+        "title": "Collagen's triple-helical structure",
+        "body": "Ramachandran and Gopinath Kartha proposed the triple-helical structure of the collagen molecule in Nature — one of two independent proposals to appear in the mid-1950s, alongside Rich and Crick's the following year.",
+        "sources": [
+          { "title": "G. N. Ramachandran — Wikipedia", "url": "https://en.wikipedia.org/wiki/G._N._Ramachandran" }
+        ]
+      },
+      {
+        "id": "ramachandran-plot",
+        "year": "1963",
+        "title": "The Ramachandran plot",
+        "body": "Ramachandran, with C. Ramakrishnan and V. Sasisekharan, published a way to map which backbone dihedral angles a polypeptide chain can physically adopt without atomic collisions — still a standard check on whether a protein structure is stereochemically plausible.",
+        "sources": [
+          { "title": "Ramachandran plot — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ramachandran_plot" }
+        ]
+      },
+      {
+        "id": "apsara-reactor",
+        "year": "1956",
+        "title": "Apsara, Asia's first research reactor",
+        "body": "Apsara, a pool-type research reactor at Trombay, went critical on 4 August 1956 and was inaugurated by Nehru the following January.",
+        "note": "\"Asia's first\" holds against the usual comparison, Japan's JRR-1 (1957). \"Indigenous\" overstates it — Apsara was built with British design assistance and ran on British-supplied fuel.",
+        "sources": [
+          { "title": "Bhabha Atomic Research Centre — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bhabha_Atomic_Research_Centre" }
+        ]
+      },
+      {
+        "id": "smiling-buddha",
+        "year": "1974",
+        "title": "Operation Smiling Buddha",
+        "body": "India's first nuclear test, an underground device at Pokhran on 18 May 1974 India called a \"peaceful nuclear explosion,\" with a yield generally estimated at 8–12 kilotons.",
+        "sources": [
+          { "title": "Smiling Buddha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Smiling_Buddha" }
+        ]
+      },
+      {
+        "id": "aryabhata-satellite",
+        "year": "1975",
+        "title": "Aryabhata, India's first satellite",
+        "body": "India's first satellite, built domestically, launched 19 April 1975 on a Soviet Kosmos-3M rocket — built in India, not launched by an Indian one. A power fault silenced it after about five days.",
+        "sources": [
+          { "title": "Aryabhata (satellite) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)" }
+        ]
+      },
+      {
+        "id": "slv3-rohini",
+        "year": "1980",
+        "title": "SLV-3 reaches orbit",
+        "body": "SLV-3, an indigenously built rocket, placed the Rohini RS-1 satellite in orbit on 18 July 1980 — India's first orbital launch on its own rocket, after a failed 1979 attempt.",
+        "note": "Sources disagree whether this made India the sixth or seventh nation with independent orbital launch capability.",
+        "sources": [
+          { "title": "Satellite Launch Vehicle (SLV-3) — ISRO/VSSC", "url": "https://www.vssc.gov.in/SLV3.html" },
+          { "title": "Satellite Launch Vehicle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Satellite_Launch_Vehicle" }
+        ]
+      },
+      {
+        "id": "igmdp",
+        "year": "1982 – 1983",
+        "title": "Integrated Guided Missile Development Programme",
+        "body": "Conceived in 1982 under Dr. A. P. J. Abdul Kalam, the programme was sanctioned in July 1983, bundling five missile projects — Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator.",
+        "sources": [
+          { "title": "Integrated Guided Missile Development Programme — Wikipedia", "url": "https://en.wikipedia.org/wiki/Integrated_Guided_Missile_Development_Programme" }
+        ]
+      },
+      {
+        "id": "dakshin-gangotri",
+        "year": "1983 – 1984",
+        "title": "Dakshin Gangotri, India's first Antarctic station",
+        "body": "India's third Antarctic expedition, launched in 1983, established Dakshin Gangotri, India's first permanent Antarctic station, formally opened 26 January 1984. Abandoned in 1990 after being buried by ice, and superseded by Maitri and Bharati.",
+        "sources": [
+          { "title": "Dakshin Gangotri — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dakshin_Gangotri" }
+        ]
+      },
+      {
+        "id": "pokhran-ii",
+        "year": "1998",
+        "title": "Pokhran-II",
+        "body": "Operation Shakti: five underground nuclear tests at Pokhran, three on 11 May 1998 and two more on 13 May, after which India declared itself a nuclear weapons state.",
+        "note": "The stated ~45-kiloton yield of the largest device has been publicly disputed by some scientists involved, notably K. Santhanam.",
+        "sources": [
+          { "title": "Pokhran-II — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pokhran-II" }
+        ]
+      }
+    ]
+  },
+  {
+    "eraId": "21st-century-space",
+    "eraLabel": "21st Century & Deep-Space Exploration",
+    "eraRange": "2008 – present",
+    "entries": [
+      {
+        "id": "brahmos",
+        "year": "2001 – present",
+        "title": "BrahMos supersonic cruise missile",
+        "body": "BrahMos, developed jointly by India's DRDO and Russia's NPO Mashinostroyeniya, first flew in June 2001 and entered service in 2007, flying at roughly Mach 2.8–3. It has since been adapted for launch from land, ships, aircraft and, after a 2013 submerged test, submarines.",
+        "note": "\"World's fastest operational cruise missile\" is a widely repeated comparative claim this page can't independently verify against every country's classified arsenal — treated here as a common description, not a verified ranking.",
+        "sources": [
+          { "title": "BrahMos — Wikipedia", "url": "https://en.wikipedia.org/wiki/BrahMos" },
+          { "title": "BrahMos — Missile Threat, CSIS", "url": "https://missilethreat.csis.org/missile/brahmos/" }
+        ]
+      },
+      {
+        "id": "chandrayaan-1",
+        "year": "2008 – 2009",
+        "title": "Chandrayaan-1 and the discovery of lunar water",
+        "body": "India's first lunar probe launched 22 October 2008; in September 2009, data including NASA's Moon Mineralogy Mapper confirmed water and hydroxyl on the lunar surface.",
+        "note": "The water discovery is often dated to 2008 along with the launch, but detection and announcement came about a year later, in September 2009.",
+        "sources": [
+          { "title": "Chandrayaan-1 — ISRO", "url": "https://www.isro.gov.in/Chandrayaan_1.html" },
+          { "title": "Chandrayaan-1 — NASA Science", "url": "https://science.nasa.gov/mission/chandrayaan-1/" }
+        ]
+      },
+      {
+        "id": "mangalyaan",
+        "year": "2013 – 2014",
+        "title": "Mars Orbiter Mission (Mangalyaan)",
+        "body": "Launched 5 November 2013, the Mars Orbiter Mission reached Mars orbit on 24 September 2014, making ISRO the fourth space agency to do so and first to succeed on a maiden attempt.",
+        "sources": [
+          { "title": "Mars Orbiter Mission Spacecraft — ISRO", "url": "https://www.isro.gov.in/MarsOrbiterMissionSpacecraft.html" }
+        ]
+      },
+      {
+        "id": "agni-v-mirv",
+        "year": "2012 – 2024",
+        "title": "Agni-V and Mission Divyastra (MIRV)",
+        "body": "Agni-V was tested to its full range on 19 April 2012 — its officially stated ~5,000 km range falls just short of the conventional ICBM threshold, though many analysts consider it intercontinental-range in practice. On 11 March 2024, DRDO flight-tested Agni-V fitted with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology under Mission Divyastra, making India the sixth country with demonstrated MIRV capability, after the US, UK, Russia, China and France.",
+        "sources": [
+          { "title": "Agni-V — Wikipedia", "url": "https://en.wikipedia.org/wiki/Agni-V" },
+          { "title": "Mission Divyastra: India's Agni-5 missile makes maiden flight with MIRV — Business Standard", "url": "https://www.business-standard.com/external-affairs-defence-security/news/mission-divyastra-india-s-agni-5-missile-makes-maiden-flight-with-mirv-124031101189_1.html" }
+        ]
+      },
+      {
+        "id": "navic",
+        "year": "2013 – 2018",
+        "title": "NavIC, India's own satellite navigation system",
+        "body": "ISRO launched the first of seven IRNSS satellites on 1 July 2013 and completed the constellation on 12 April 2018, renamed Navigation with Indian Constellation (NavIC) along the way. It covers India and roughly 1,500 km beyond its borders, with accuracy around 5–10 metres over the Indian landmass — independent of GPS.",
+        "sources": [
+          { "title": "Indian Regional Navigation Satellite System — Wikipedia", "url": "https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System" },
+          { "title": "How India built NavIC, the country's own GPS — The Planetary Society", "url": "https://www.planetary.org/articles/how-india-built-navic" }
+        ]
+      },
+      {
+        "id": "astrosat",
+        "year": "2015",
+        "title": "ASTROSAT",
+        "body": "India's first dedicated multi-wavelength space observatory, launched 28 September 2015, covering X-ray, optical and ultraviolet bands in one mission.",
+        "sources": [
+          { "title": "AstroSat — Wikipedia", "url": "https://en.wikipedia.org/wiki/AstroSat" },
+          { "title": "ASTROSAT — IUCAA", "url": "https://astrosat.iucaa.in/" }
+        ]
+      },
+      {
+        "id": "upi",
+        "year": "2016",
+        "title": "UPI, India's real-time payments system",
+        "body": "The National Payments Corporation of India launched the Unified Payments Interface on 11 April 2016, letting anyone move money instantly between bank accounts through a single mobile interface, regulated by the RBI. By 2025 it was handling roughly half of the world's real-time digital payment transactions by volume.",
+        "sources": [
+          { "title": "Unified Payment Interface (UPI) — Digital India, Ministry of Electronics and IT", "url": "https://www.digitalindia.gov.in/initiative/unified-payment-interface-upi/" },
+          { "title": "Unified Payments Interface — Wikipedia", "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface" }
+        ]
+      },
+      {
+        "id": "pslv-c37-104-satellites",
+        "year": "2017",
+        "title": "104 satellites, one launch",
+        "body": "PSLV-C37 launched 104 satellites in one mission on 15 February 2017 — 3 Indian, 101 foreign — a world record at the time, surpassing Russia's previous record of 37.",
+        "note": "Surpassed by SpaceX's Transporter-1 mission (143 satellites) in January 2021 — no longer the current record.",
+        "sources": [
+          { "title": "PSLV-C37 — Wikipedia", "url": "https://en.wikipedia.org/wiki/PSLV-C37" }
+        ]
+      },
+      {
+        "id": "nuclear-triad",
+        "year": "2018",
+        "title": "India completes its nuclear triad",
+        "body": "In November 2018, India announced that INS Arihant — its first nuclear-powered ballistic-missile submarine, commissioned in 2016 — had completed its first deterrence patrol, giving India the ability to deliver a nuclear strike from land, air and sea. India is generally counted among a small group of nations (alongside the US, Russia, China and France) with a fully operational nuclear triad.",
+        "sources": [
+          { "title": "Nuclear Command Authority (India) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nuclear_Command_Authority_(India)" },
+          { "title": "What is the nuclear triad that INS Arihant has helped India complete? — ThePrint", "url": "https://theprint.in/defence/what-is-the-nuclear-triad-that-ins-arihant-has-helped-india-complete/145604/" }
+        ]
+      },
+      {
+        "id": "chandrayaan-3",
+        "year": "2023",
+        "title": "Chandrayaan-3's south pole landing",
+        "body": "Chandrayaan-3 landed near the lunar south pole on 23 August 2023, making India the fourth nation to soft-land on the Moon and the first to land near the south pole.",
+        "sources": [
+          { "title": "India becomes fourth country to land on the moon — CNBC", "url": "https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html" },
+          { "title": "Chandrayaan-3 — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chandrayaan-3" }
+        ]
+      },
+      {
+        "id": "aditya-l1",
+        "year": "2023 – 2024",
+        "title": "Aditya-L1",
+        "body": "India's first solar observatory launched 2 September 2023, reaching its intended halo orbit at the Sun-Earth L1 point on 6 January 2024.",
+        "sources": [
+          { "title": "Aditya-L1 Mission: Completion of First Halo Orbit — ISRO", "url": "https://www.isro.gov.in/Aditya_L1_Mission_Completion_of_First_Halo_Orbit.html" }
+        ]
+      },
+      {
+        "id": "xposat",
+        "year": "2024",
+        "title": "XPoSat",
+        "body": "India's first dedicated X-ray polarimetry mission, carrying the POLIX and XSPECT instruments to study neutron stars and black hole systems.",
+        "sources": [
+          { "title": "XPoSat — ISRO", "url": "https://www.isro.gov.in/XPoSat.html" }
+        ]
+      },
+      {
+        "id": "eos-05",
+        "year": "2026",
+        "title": "EOS-05, India's first geosynchronous imaging satellite",
+        "body": "Launched on GSLV-F17 on 4 September 2026, EOS-05 is India's first Earth-imaging satellite built for geosynchronous orbit — a continuous watch rather than a periodic pass. Its hyperspectral sensors can flag crop stress, specific minerals and wildfires, revisiting any point in India roughly every five minutes.",
+        "sources": [
+          { "title": "ISRO Launches EOS-05: Satellite Reads Mineral Dust, Crop Stress, Fire Every 5 Minutes — Tech Times", "url": "https://www.techtimes.com/articles/326734/20260904/isro-launches-eos-05-satellite-reads-mineral-dust-crop-stress-fire-every-5-minutes.htm" },
+          { "title": "ISRO EOS-05 Places First Hyperspectral Earth Surface Imager in Geostationary Orbit — Tech Times", "url": "https://www.techtimes.com/articles/326730/20260904/isro-eos-05-places-first-hyperspectral-earth-surface-imager-geostationary-orbit.htm" }
+        ]
+      }
+    ]
+  }
+]

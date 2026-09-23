@@ -1,0 +1,16 @@
+[
+  {
+    "id": "haryana-overview",
+    "heading": "The corridor where empires were decided",
+    "body": [
+      "Haryana's geography made it India's tollgate for anyone marching between Central Asia and the Gangetic plain: it sits directly on the route between the Khyber Pass and Delhi, and whoever wanted to hold Delhi generally had to fight through Haryana first. No single place shows this more starkly than Panipat, a town about 90 km north of Delhi on the old Grand Trunk Road, where three separate and unrelated battles — in 1526, 1556 and 1761 — each reshaped the subcontinent. In 1526, Babur's defeat of the Delhi Sultan Ibrahim Lodi ended the Delhi Sultanate and founded the Mughal Empire. In 1556, Akbar's forces defeated Hemu, the Hindu general who had briefly seized Delhi, securing Mughal rule for the next two centuries. In 1761, the Afghan ruler Ahmad Shah Durrani inflicted a catastrophic defeat on the Maratha Empire, breaking Maratha momentum toward Delhi and, historians generally agree, opening space for British power to expand into the vacuum that followed.",
+      "Haryana is also home to Kurukshetra, which the Mahabharata names as the site of its climactic eighteen-day war between the Pandavas and Kauravas. This needs to be stated carefully: the Mahabharata is a work of epic literature, not a historical record, and there is no direct archaeological or forensic evidence confirming the war as narrated — its scale, its named participants, or a specific date (traditional reckonings, using astronomical references in the text, have proposed dates ranging from roughly 3102 BCE to around 1000 BCE, with no scholarly consensus). What excavations in the wider Kurukshetra region have found is genuine Iron Age material — Painted Grey Ware pottery, iron implements, and some artefacts consistent with warfare — which supports the idea that the region was a real, settled, contested area in the relevant period, but does not verify the epic's specific events. Kurukshetra's importance on this map is as a site of enormous religious and cultural significance and as a place where a literary tradition and a real archaeological landscape overlap, not as confirmed history.",
+      "Together, Panipat and Kurukshetra bracket what makes Haryana distinctive: a stretch of land whose flat, open terrain turned it, repeatedly and verifiably, into the place where control of North India was actually settled."
+    ],
+    "sources": [
+      { "title": "Battles of Panipat — Britannica", "url": "https://www.britannica.com/event/Battles-of-Panipat" },
+      { "title": "First Battle of Panipat (1526) — Britannica", "url": "https://www.britannica.com/event/First-Battle-of-Panipat-1526" },
+      { "title": "Was the 'Mahabharata' Real, Myth, or Both? — Snopes", "url": "https://www.snopes.com/articles/452170/mahabharata-real-myth-or-both/" }
+    ]
+  }
+]

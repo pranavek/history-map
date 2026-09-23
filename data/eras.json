@@ -1,0 +1,38 @@
+{
+  "ancient": {
+    "label": "Ancient",
+    "range": "before 600 CE",
+    "from": -3000,
+    "to": 600
+  },
+  "early-medieval": {
+    "label": "Early Medieval",
+    "range": "600 – 1200",
+    "from": 600,
+    "to": 1200
+  },
+  "late-medieval": {
+    "label": "Late Medieval",
+    "range": "1200 – 1526",
+    "from": 1200,
+    "to": 1526
+  },
+  "early-modern": {
+    "label": "Early Modern",
+    "range": "1526 – 1857",
+    "from": 1526,
+    "to": 1857
+  },
+  "late-modern": {
+    "label": "Late Modern",
+    "range": "1857 – 1947",
+    "from": 1857,
+    "to": 1947
+  },
+  "contemporary": {
+    "label": "Contemporary",
+    "range": "1947 –",
+    "from": 1947,
+    "to": 2100
+  }
+}

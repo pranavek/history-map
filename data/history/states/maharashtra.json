@@ -1,0 +1,16 @@
+[
+  {
+    "id": "maharashtra-overview",
+    "heading": "From Shivaji's forts to the Empire's port",
+    "body": [
+      "Maharashtra's modern identity is inseparable from Shivaji Bhonsle, who in the mid-17th century turned a series of hill-fort rebellions against the Bijapur Sultanate into an independent Maratha kingdom. Starting in the 1640s he captured forts around Pune — Torna, Chakan, Kondana, Purandar — using guerrilla tactics suited to the Sahyadri terrain, and in 1674 he was crowned Chhatrapati, or sovereign, with Raigad as his capital. The Maratha state he founded outlasted him by more than a century: it expanded aggressively between 1720 and 1761 under a line of Peshwa ministers, took over large stretches of former Mughal territory, and remained the single largest political force in India until its final defeat by the English East India Company in 1818. Historians still debate how much of that expansion reflected coherent statecraft versus the ambitions of individual Maratha chiefs operating with real autonomy from Pune.",
+      "Bombay's story ran on an entirely different track, and for a long time a separate one. The seven islands that became the city were held by the Portuguese from 1534, who left behind little more than fishing villages, seigneurial estates and a handful of churches. They passed to England in 1661 as part of the dowry when Catherine of Braganza married Charles II — a transfer the Portuguese Viceroy in India resisted for years, delaying the actual handover until 1665 — and the Crown then leased the islands to the East India Company in 1668 for a token rent. Under administrators like Gerald Aungier, who introduced English courts, hospitals and urban planning from the 1670s, Bombay grew from a marginal outpost into the Company's headquarters for all its Indian possessions by 1687, and from there into the commercial capital that colonial land reclamation and cotton trade would build through the 19th century.",
+      "Maharashtra's map entries reflect this double history: the fort network and battlefields of Shivaji's Maratha state inland, and the layered Portuguese-then-British port city on the coast that grew into today's Mumbai."
+    ],
+    "sources": [
+      { "title": "Maratha empire — Britannica", "url": "https://www.britannica.com/topic/Maratha-Empire" },
+      { "title": "Shivaji — Britannica", "url": "https://www.britannica.com/biography/Shivaji" },
+      { "title": "History of Bombay under Portuguese rule (1534–1661) — Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Bombay_under_Portuguese_rule_(1534%E2%80%931661)" }
+    ]
+  }
+]

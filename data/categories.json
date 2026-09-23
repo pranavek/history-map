@@ -1,0 +1,92 @@
+{
+  "temple": {
+    "label": "Temple",
+    "color": "#9c5a2d",
+    "icon": "temple"
+  },
+  "fire-temple": {
+    "label": "Fire Temple",
+    "color": "#b0442a",
+    "icon": "fire-temple"
+  },
+  "vihara": {
+    "label": "Buddhist Vihara",
+    "color": "#c08a2e",
+    "icon": "vihara"
+  },
+  "jain-temple": {
+    "label": "Jain Temple",
+    "color": "#4a5a8a",
+    "icon": "jain-temple"
+  },
+  "cave": {
+    "label": "Rock-cut Cave",
+    "color": "#45403a",
+    "icon": "cave"
+  },
+  "mosque": {
+    "label": "Mosque",
+    "color": "#2f6b5e",
+    "icon": "mosque"
+  },
+  "church": {
+    "label": "Church",
+    "color": "#6b4f8a",
+    "icon": "church"
+  },
+  "synagogue": {
+    "label": "Synagogue",
+    "color": "#3f5f7a",
+    "icon": "synagogue"
+  },
+  "fort": {
+    "label": "Fort",
+    "color": "#7a5230",
+    "icon": "fort"
+  },
+  "palace": {
+    "label": "Palace",
+    "color": "#a8752a",
+    "icon": "palace"
+  },
+  "port": {
+    "label": "Port & Maritime",
+    "color": "#1f5d78",
+    "icon": "port"
+  },
+  "monument": {
+    "label": "Monument & Memorial",
+    "color": "#6d6357",
+    "icon": "monument"
+  },
+  "archaeological": {
+    "label": "Archaeological Site",
+    "color": "#8a6b3f",
+    "icon": "archaeological"
+  },
+  "tomb": {
+    "label": "Tomb & Mausoleum",
+    "color": "#8a5f6b",
+    "icon": "tomb"
+  },
+  "urban": {
+    "label": "Historic Urban Ensemble",
+    "color": "#3f6b7a",
+    "icon": "urban"
+  },
+  "railway": {
+    "label": "Railway",
+    "color": "#55504a",
+    "icon": "railway"
+  },
+  "museum": {
+    "label": "Museum",
+    "color": "#5a6b7a",
+    "icon": "museum"
+  },
+  "natural": {
+    "label": "Natural Landmark",
+    "color": "#4a7c4e",
+    "icon": "natural"
+  }
+}

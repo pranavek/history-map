@@ -1,0 +1,19 @@
+[
+  {
+    "id": "karnataka-overview",
+    "heading": "A dynasty for every hillside",
+    "body": [
+      "Karnataka's history reads as a relay race of Deccan dynasties, each of which left behind a capital carved in stone rather than a story told only in texts. The earliest chapter belongs to the Chalukyas of Badami, who ruled from the 6th to 8th centuries CE and used the sandstone cliffs around Badami, Aihole and Pattadakal as a testing ground for temple design, fusing the Nagara style of the north with the Dravidian style of the south into forms neither region had built alone. Pattadakal's Virupaksha temple, raised around 740 CE by Queen Lokamahadevi to commemorate her husband's victory over a southern rival, is the clearest surviving statement of that synthesis, and UNESCO listed the site as a World Heritage property in 1987. (The Archaeological Survey of India's own page names her Rani Trilokyamahadevi rather than Lokamahadevi — the same figure, wife of Vikramaditya II, under a differently rendered name; not resolved here.)",
+      "Four centuries later the Hoysalas, former provincial governors who broke away as the Chalukyas and Cholas weakened, built on that inheritance rather than discarding it. Between the 11th and 14th centuries they raised more than 1,500 temples across the region, moving their capital from Belur to Halebidu under King Vishnuvardhana and covering star-shaped, soapstone-carved shrines in dense narrative sculpture. The temples at Belur, Halebidu and Somanathapura were jointly inscribed as a UNESCO World Heritage Site, the Sacred Ensembles of the Hoysalas, in 2023.",
+      "The dynasty that made Karnataka's name synonymous with lost grandeur, though, is Vijayanagara. Founded in 1336 by the brothers Harihara and Bukka, it grew into what 16th-century visitors and the geographer-adjacent Portuguese and Persian travelers described as one of the largest cities in the world, its ruins at Hampi spreading across more than 4,000 hectares beside the Tungabhadra river. Under Krishnadevaraya, who ruled from 1509 to 1529, the empire reached its peak before it was decisively broken at the Battle of Talikota in 1565, after which Hampi was sacked and largely abandoned — a scale of destruction that is still visible in the more than 1,600 surviving structures UNESCO catalogued when it listed Hampi in 1986.",
+      "Karnataka's map entries below follow that sequence: the Chalukyan temple laboratories, the Hoysala capitals, and the Vijayanagara capital that briefly rivaled any city on earth before its fall."
+    ],
+    "sources": [
+      { "title": "Hampi — Archaeological Survey of India", "url": "https://asi.nic.in/pages/WorldHeritageHampi" },
+      { "title": "Group of Monuments at Pattadakal — Archaeological Survey of India", "url": "https://asi.nic.in/pages/WorldHeritagePattadakal" },
+      { "title": "Group of Monuments at Hampi — UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/241/" },
+      { "title": "Group of Monuments at Pattadakal — UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/239" },
+      { "title": "Hoysaleswara Temple — Wikipedia (Sacred Ensembles of the Hoysalas, UNESCO 2023)", "url": "https://en.wikipedia.org/wiki/Hoysaleswara_Temple" }
+    ]
+  }
+]

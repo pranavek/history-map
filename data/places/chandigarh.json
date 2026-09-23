@@ -1,0 +1,45 @@
+[
+  {
+    "id": "chandigarh-capitol-complex",
+    "name": "Capitol Complex, Chandigarh",
+    "localName": "ਕੈਪੀਟਲ ਕੰਪਲੈਕਸ",
+    "category": "urban",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "modernist",
+      "urban-planning",
+      "partition-migration"
+    ],
+    "coords": [
+      30.7611,
+      76.8006
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "built": "1952 – 1965",
+    "summary": "Le Corbusier's government complex for a state that lost its capital at Partition.",
+    "description": [
+      "Chandigarh was built because Partition left East Punjab without a capital: Lahore was in Pakistan, and a new city was commissioned on open ground between two seasonal rivers. Le Corbusier took over the plan in 1951 after the original planner Matthew Nowicki died, working with Pierre Jeanneret, Maxwell Fry and Jane Drew, and with a large team of Indian architects.",
+      "The Capitol Complex is the civic head of that plan: the Secretariat, the High Court and the Legislative Assembly set around a large open esplanade, in raw board-marked concrete, with the Open Hand monument and a set of symbolic earthworks and pools. The buildings use brise-soleil, parasol roofs and deep shade as a response to the Punjab climate rather than as style.",
+      "The complex was inscribed by UNESCO in 2016 as one component of the transnational property 'The Architectural Work of Le Corbusier' (site 1321), which spans seven countries. Access to parts of the complex is restricted because they are working government buildings on a sensitive site."
+    ],
+    "contested": "Authorship of Chandigarh is routinely collapsed into Le Corbusier alone. The city plan was begun by Albert Mayer and Matthew Nowicki, the day-to-day architecture was largely Pierre Jeanneret's, and Indian architects including M. N. Sharma, Aditya Prakash and Urmila Eulie Chowdhury did much of the built work.",
+    "coordsNote": "The complex covers several hundred metres of esplanade in Sector 1. The coordinate is near the Secretariat rather than the property centre.",
+    "sources": [
+      {
+        "title": "My City, My Heritage, My Chandigarh — Sahapedia",
+        "url": "https://www.sahapedia.org/my-city-my-heritage-my-chandigarh"
+      },
+      {
+        "title": "The Architectural Work of Le Corbusier — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1321/"
+      },
+      {
+        "title": "Capitol Complex, Chandigarh — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capitol_Complex,_Chandigarh"
+      }
+    ]
+  }
+]

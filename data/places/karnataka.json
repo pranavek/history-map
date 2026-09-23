@@ -1,0 +1,313 @@
+[
+  {
+    "id": "hampi",
+    "name": "Hampi",
+    "localName": "ಹಂಪೆ",
+    "category": "archaeological",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "vijayanagara",
+      "capital-city",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      15.3345,
+      76.4622
+    ],
+    "coordsPrecision": "verified",
+    "city": "Hampi",
+    "state": "Karnataka",
+    "built": "Capital from 1336; sacked 1565",
+    "summary": "The ruined capital of Vijayanagara, one of the largest cities in the world in its day.",
+    "description": [
+      "Hampi is what is left of Vijayanagara, capital of the empire of the same name from 1336. At its height in the early sixteenth century it was among the largest cities on earth, and Portuguese and Persian visitors described a metropolis of bazaars trading in horses, diamonds and pepper.",
+      "The site sprawls across a boulder-strewn landscape on the Tungabhadra, and the architecture is inseparable from it — granite outcrops are absorbed into temple compounds and gateways. The Virupaksha temple is still in worship; the Vittala complex, with its stone chariot and colonnades that ring when struck, is the best-known ruin.",
+      "In 1565 a coalition of Deccan sultanates defeated Vijayanagara at Talikota and the city was systematically destroyed over several months. It was never reoccupied, which is precisely why so much of it survives as a readable plan rather than beneath a modern town."
+    ],
+    "sources": [
+      {
+        "title": "Group of Monuments at Hampi — UNESCO",
+        "url": "https://whc.unesco.org/en/list/241/"
+      },
+      {
+        "title": "Hampi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hampi"
+      }
+    ]
+  },
+  {
+    "id": "badami-caves",
+    "name": "Badami Cave Temples",
+    "localName": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+    "category": "cave",
+    "era": "early-medieval",
+    "tags": [
+      "rock-cut",
+      "chalukya",
+      "sculpture",
+      "jain"
+    ],
+    "coords": [
+      15.9184,
+      75.6844
+    ],
+    "coordsPrecision": "verified",
+    "city": "Badami",
+    "state": "Karnataka",
+    "built": "6th century CE (Cave 3 dated 578)",
+    "summary": "Four temples cut into a sandstone cliff by the Chalukyas — Hindu and Jain together.",
+    "description": [
+      "Four temples carved back into the red sandstone above Agastya lake at Badami, the Chalukya capital. Cave 3 carries an inscription dating it to 578 CE, which makes this one of the firmest dates in early Indian architecture and an anchor for everything around it.",
+      "Caves 1 to 3 are Hindu — Shiva, Vishnu, a celebrated eighteen-armed Nataraja at the entrance to Cave 1 — and Cave 4 is Jain, with Mahavira and Parshvanatha. That a single royal cliff face holds both, cut within decades of each other, is the point worth noticing.",
+      "The work is subtractive: nothing here is built, only removed. The pillars, brackets and ceiling panels are all continuous with the rock behind them."
+    ],
+    "sources": [
+      {
+        "title": "Badami cave temples — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Badami_cave_temples"
+      },
+      {
+        "title": "Evolution of Temple Architecture — Aihole-Badami-Pattadakal, UNESCO Tentative List",
+        "url": "https://whc.unesco.org/en/tentativelists/5887/"
+      }
+    ]
+  },
+  {
+    "id": "belur-chennakeshava",
+    "name": "Chennakeshava Temple, Belur",
+    "localName": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ",
+    "category": "temple",
+    "era": "early-medieval",
+    "tags": [
+      "hoysala",
+      "sculpture",
+      "pilgrimage",
+      "unesco"
+    ],
+    "coords": [
+      13.1646,
+      75.8635
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Belur",
+    "state": "Karnataka",
+    "built": "Begun 1117 CE",
+    "summary": "Hoysala temple begun in 1117, carved in soapstone to a jeweller's density.",
+    "description": [
+      "Commissioned by the Hoysala king Vishnuvardhana and begun in 1117, the Chennakeshava temple at Belur took generations to finish. It is built of chloritic schist — soapstone — which is soft when quarried and hardens on exposure, and Hoysala carvers exploited that to work at a density closer to ivory or metalwork than to architecture.",
+      "The temple stands on a star-shaped plinth, and a continuous band of friezes runs around it: elephants, horsemen, foliage, scenes from the epics. Above them the madanikai bracket figures are signed by their sculptors, which is unusual and tells you these were named artists rather than anonymous labour.",
+      "It remains a working temple, in continuous worship for nine centuries. It was inscribed with Halebidu as a UNESCO World Heritage Site in 2023."
+    ],
+    "contested": "The temple's own coordinate could not be verified — neither OpenStreetMap nor Wikidata returned it by name. The position here is the centre of Belur town, where the temple stands. Expect error of a few hundred metres.",
+    "coordsNote": "Belur town centre, not a surveyed position for the temple itself.",
+    "sources": [
+      {
+        "title": "Chennakeshava Temple, Belur — Hassan District, Government of Karnataka",
+        "url": "https://hassan.nic.in/en/tourist-place/chennakeshava-temple-belur/"
+      },
+      {
+        "title": "Sacred Ensembles of the Hoysalas — UNESCO",
+        "url": "https://whc.unesco.org/en/list/1670/"
+      },
+      {
+        "title": "Chennakeshava Temple, Belur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Belur"
+      }
+    ]
+  },
+  {
+    "id": "halebidu-hoysaleswara",
+    "name": "Hoysaleswara Temple, Halebidu",
+    "localName": "ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+    "category": "temple",
+    "era": "early-medieval",
+    "tags": [
+      "hoysala",
+      "sculpture",
+      "unesco"
+    ],
+    "coords": [
+      13.2132,
+      75.995
+    ],
+    "coordsPrecision": "verified",
+    "city": "Halebidu",
+    "state": "Karnataka",
+    "built": "Begun c. 1121 CE; never completed",
+    "summary": "The Hoysala capital's twin-shrine temple — begun c. 1121 and never finished.",
+    "description": [
+      "Halebidu — the name means 'old capital' — was Dorasamudra, seat of the Hoysalas. The Hoysaleswara temple was begun around 1121 and is a double temple, two linked shrines to Shiva, each with its own Nandi pavilion.",
+      "Its exterior carries what is probably the densest sculptural programme in India: bands of elephants, lions, horsemen, makaras and narrative friezes stacked one above another around the entire wall, with no two elephants in the lowest register repeated.",
+      "It was never finished. The Delhi Sultanate sacked Dorasamudra in the fourteenth century and work stopped; the towers above the shrines were never raised. What stands is a plinth and wall of extraordinary finish supporting nothing."
+    ],
+    "sources": [
+      {
+        "title": "Hoysaleshwara Temple, Halebidu — Hassan District, Government of Karnataka",
+        "url": "https://hassan.nic.in/en/tourist-place/hoysaleshwara-temple-halebeed/"
+      },
+      {
+        "title": "Sacred Ensembles of the Hoysalas — UNESCO",
+        "url": "https://whc.unesco.org/en/list/1670/"
+      },
+      {
+        "title": "Hoysaleswara Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hoysaleswara_Temple"
+      }
+    ]
+  },
+  {
+    "id": "gommateshwara",
+    "name": "Gommateshwara Statue, Shravanabelagola",
+    "localName": "ಗೊಮ್ಮಟೇಶ್ವರ",
+    "category": "monument",
+    "era": "early-medieval",
+    "tags": [
+      "jain",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      12.8539,
+      76.4847
+    ],
+    "coordsPrecision": "verified",
+    "city": "Shravanabelagola",
+    "state": "Karnataka",
+    "built": "c. 983 CE",
+    "summary": "A 17-metre monolith of Bahubali, carved from a single rock around 983 CE.",
+    "description": [
+      "The statue of Bahubali — Gommateshwara — stands about seventeen metres high on Vindhyagiri hill at Shravanabelagola, carved around 983 CE at the direction of Chavundaraya, a minister and commander of the Western Ganga dynasty.",
+      "It is a monolith: cut from the living granite of the hilltop rather than assembled or hauled there. Bahubali is shown standing in kayotsarga, motionless in meditation so long that vines have grown up his legs and arms — the Jain story of a prince who renounced a kingdom he had already won.",
+      "Every twelve years the Mahamastakabhisheka is held, when the statue is anointed from scaffolding with milk, saffron, sandalwood and gold; it draws very large crowds. The hill is reached by around six hundred steps cut into the rock, climbed barefoot."
+    ],
+    "sources": [
+      {
+        "title": "Gommateshwara statue — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gommateshwara_statue"
+      },
+      {
+        "title": "Shravanabelagola — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shravanabelagola"
+      }
+    ]
+  },
+  {
+    "id": "mysore-palace",
+    "name": "Mysore Palace",
+    "localName": "ಮೈಸೂರು ಅರಮನೆ",
+    "category": "palace",
+    "era": "late-modern",
+    "tags": [
+      "british-raj",
+      "sculpture"
+    ],
+    "coords": [
+      12.3052,
+      76.6554
+    ],
+    "coordsPrecision": "verified",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "built": "Present palace 1897–1912",
+    "summary": "The Wadiyars' seat, rebuilt 1897–1912 after fire, in Indo-Saracenic style.",
+    "description": [
+      "Mysore Palace is the seat of the Wadiyar dynasty and the official residence of the Maharajas of Mysore. A palace has stood on the site since the fourteenth century; the present building went up between 1897 and 1912 after the previous one burned down during a wedding in 1897.",
+      "It was designed by the British architect Henry Irwin in the Indo-Saracenic manner — domes, arches and colonnades drawn from Hindu, Mughal and Gothic sources at once, which was the house style of late-colonial public architecture in India.",
+      "It is among the most visited monuments in the country. During Dasara, and on Sundays and public holidays, the facade is lit by close to a hundred thousand bulbs."
+    ],
+    "sources": [
+      {
+        "title": "Mysore Palace, a History of Freak Accidents and Multiple Rebuilds — Sahapedia",
+        "url": "http://www.sahapedia.org/mysore-palace-history-freak-accidents-and-multiple-rebuilds"
+      },
+      {
+        "title": "Mysuru Palace — Mysuru District, Government of India",
+        "url": "https://mysore.nic.in/en/tourist-place/mysuru-palace/"
+      },
+      {
+        "title": "Mysore Palace — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mysore_Palace"
+      }
+    ]
+  },
+  {
+    "id": "pattadakal",
+    "name": "Group of Monuments at Pattadakal",
+    "localName": "ಪಟ್ಟದಕಲ್ಲು",
+    "category": "temple",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "chalukya",
+      "sculpture",
+      "jain"
+    ],
+    "coords": [
+      15.9514,
+      75.8147
+    ],
+    "coordsPrecision": "verified",
+    "city": "Pattadakal, Bagalkot",
+    "state": "Karnataka",
+    "built": "7th – 8th centuries CE",
+    "summary": "Where northern and southern temple styles were built side by side, on purpose.",
+    "description": [
+      "Pattadakal on the Malaprabha river was a coronation site of the Chalukyas of Badami, and the group of temples there was built mainly in the 7th and 8th centuries. Its significance is architectural: the site holds temples in the northern nagara style and the southern dravida style next to each other, built in the same period by the same patrons.",
+      "The largest, the Virupaksha temple, was raised around 740 by Lokamahadevi to mark her husband Vikramaditya II's victories over the Pallavas of Kanchipuram, and its builders worked in a southern idiom that the campaign had brought them into contact with. The Papanatha and Galaganatha temples take the northern route instead. Sculptors' inscriptions survive on several of them, naming the craftsmen.",
+      "A Jain temple of the Rashtrakuta period stands a little apart from the main group. Together with Badami and Aihole, Pattadakal is where the vocabulary of South Indian temple building was worked out. UNESCO inscribed it in 1987 (site 239)."
+    ],
+    "sources": [
+      {
+        "title": "Group of Monuments at Pattadakal — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritagePattadakal"
+      },
+      {
+        "title": "Group of Monuments at Pattadakal — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/239/"
+      },
+      {
+        "title": "Pattadakal — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pattadakal"
+      }
+    ]
+  },
+  {
+    "id": "somanathapura-keshava",
+    "name": "Keshava Temple, Somanathapura",
+    "localName": "ಕೇಶವ ದೇವಾಲಯ",
+    "category": "temple",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "hoysala",
+      "sculpture"
+    ],
+    "coords": [
+      12.2757,
+      76.8817
+    ],
+    "coordsPrecision": "verified",
+    "city": "Somanathapura, Mysuru",
+    "state": "Karnataka",
+    "built": "Consecrated 1268 CE",
+    "summary": "The last and most complete of the great Hoysala temples, finished in 1268.",
+    "description": [
+      "The Keshava temple at Somanathapura was built by Somanatha, a general of the Hoysala king Narasimha III, and consecrated in 1268. It is the third component of the Sacred Ensembles of the Hoysalas, with Belur and Halebidu, and the only one of the three that was completed to plan.",
+      "It is a trikuta — three shrines around a shared pillared hall — on a star-shaped platform, built in soapstone, a rock soft enough to be turned and undercut when quarried and hardening afterwards. The exterior runs in horizontal bands of elephants, horsemen, foliage and narrative friezes from the epics, and the three towers survive intact, which they do not at Halebidu.",
+      "The temple is no longer in worship; its principal images were damaged and it is maintained as a monument by the Archaeological Survey of India. UNESCO inscribed the Hoysala ensemble in 2023 (site 1670)."
+    ],
+    "contested": "The damage to the main images is generally attributed to raids of the 14th century, but the sequence of events at Somanathapura specifically is not documented and the attribution is inference from the regional pattern.",
+    "sources": [
+      {
+        "title": "Sacred Ensembles of the Hoysalas — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1670/"
+      },
+      {
+        "title": "Chennakeshava Temple, Somanathapura — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Somanathapura"
+      }
+    ]
+  }
+]

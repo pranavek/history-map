@@ -1,0 +1,46 @@
+[
+  {
+    "id": "khangchendzonga",
+    "name": "Khangchendzonga National Park",
+    "localName": "ཁང་ཆེན་མཛོད་དངའ",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "himalaya",
+      "biodiversity",
+      "wildlife",
+      "pilgrimage"
+    ],
+    "coords": [
+      27.6563,
+      88.3123
+    ],
+    "coordsPrecision": "approximate",
+    "city": "North and West Sikkim",
+    "state": "Sikkim",
+    "built": "National park 1977; inscribed 2016",
+    "summary": "India's only mixed World Heritage Site — a sacred mountain landscape from valley forest to 8,500 metres.",
+    "description": [
+      "The park takes in the Indian flank of Khangchendzonga, the third-highest mountain in the world, and rises from subtropical valley forest at about 1,200 metres to the summit ridge at 8,586. That vertical range compresses several climatic zones into one property, with snow leopard, Himalayan blue sheep, red panda and musk deer among the recorded fauna.",
+      "It is inscribed as a mixed site — the only one in India — because the mountain is also a sacred landscape. In Lepcha, Bhutia and Sikkimese tradition Khangchendzonga is a guardian deity, the valleys below are understood as a hidden land, and specific lakes, caves and rocks are places of pilgrimage. Climbers who have reached the top have by convention stopped short of the final metres out of respect for that status.",
+      "The national park was declared in 1977, enlarged later, and inscribed by UNESCO in 2016 (site 1513)."
+    ],
+    "contested": "Era here marks the park's designation, not the antiquity of the sacred landscape, which is considerably older and not precisely datable. The extent of traditional use rights inside the park and how they interact with protection rules is an ongoing local question rather than a settled arrangement.",
+    "coordsNote": "A protected area of roughly 1,780 km². The coordinate is a point within the property, near the massif.",
+    "sources": [
+      {
+        "title": "Khangchendzonga National Park — Wildlife Institute of India (Coast to Coast Portal)",
+        "url": "https://c2c.wii.gov.in/khangchendzonga-national-park"
+      },
+      {
+        "title": "Khangchendzonga National Park — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1513/"
+      },
+      {
+        "title": "Khangchendzonga National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Khangchendzonga_National_Park"
+      }
+    ]
+  }
+]

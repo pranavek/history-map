@@ -1,0 +1,129 @@
+[
+  {
+    "id": "kaziranga",
+    "name": "Kaziranga National Park",
+    "localName": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান",
+    "category": "natural",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "wildlife",
+      "biodiversity"
+    ],
+    "coords": [
+      26.6667,
+      93.35
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Golaghat and Nagaon districts",
+    "state": "Assam",
+    "built": "Reserve 1905; national park 1974",
+    "summary": "Brahmaputra floodplain grassland holding most of the world's one-horned rhinoceros.",
+    "description": [
+      "Kaziranga was declared a proposed reserve forest in 1905, after Mary Curzon, the Viceroy's wife, visited and found no rhinoceros to see. It became a game sanctuary, then a wildlife sanctuary in 1950, and a national park in 1974.",
+      "It occupies floodplain on the south bank of the Brahmaputra: tall elephant grass, seasonal wetlands and semi-evergreen forest, flooded annually by the river. That flooding is what maintains the grassland, and also what kills animals each year as they move to higher ground across the highway on the park's southern edge.",
+      "The park holds the large majority of the world population of the greater one-horned rhinoceros, together with wild water buffalo, swamp deer, elephants and one of the highest tiger densities anywhere. UNESCO inscribed it in 1985 (site 337)."
+    ],
+    "contested": "Era here marks the park's conservation history rather than any antiquity. Kaziranga's anti-poaching regime has been the subject of serious reporting on shoot-on-sight practice and on deaths and evictions among local residents; the park's success against poaching and those allegations are part of the same record.",
+    "coordsNote": "A protected area of roughly 430 km². The coordinate is a point inside the park, not a gate or a boundary.",
+    "sources": [
+      {
+        "title": "Kaziranga National Park — Wildlife Institute of India (Coast to Coast Portal)",
+        "url": "https://c2c.wii.gov.in/kaziranga-national-park"
+      },
+      {
+        "title": "Kaziranga National Park — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/337/"
+      },
+      {
+        "title": "Kaziranga National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park"
+      }
+    ]
+  },
+  {
+    "id": "manas",
+    "name": "Manas Wildlife Sanctuary",
+    "localName": "মানস ৰাষ্ট্ৰীয় উদ্যান",
+    "category": "natural",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "wildlife",
+      "biodiversity",
+      "himalaya"
+    ],
+    "coords": [
+      26.7167,
+      90.9333
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Baksa and Chirang districts",
+    "state": "Assam",
+    "built": "Sanctuary 1928; national park 1990",
+    "summary": "Himalayan foothill forest on the Bhutan border, taken off the danger list after two decades.",
+    "description": [
+      "Manas lies against the Bhutan border in the foothills of the eastern Himalaya, continuous with the Royal Manas National Park on the other side. It was declared a sanctuary in 1928, became a tiger reserve in 1973 and a national park in 1990, and covers grassland, riverine forest and hill forest along the Manas river.",
+      "It holds species found in very few other places: the pygmy hog, hispid hare, golden langur and Bengal florican, alongside tiger, elephant, wild buffalo and one-horned rhinoceros. The mix of Himalayan and Indo-Gangetic habitat in one property is the basis of its inscription.",
+      "UNESCO inscribed Manas in 1985 (site 338). Armed conflict in Bodoland from the late 1980s destroyed infrastructure and wiped out the resident rhinoceros population, and the site was placed on the List of World Heritage in Danger in 1992. It was removed from that list in 2011 after rhinos were reintroduced and patrolling restored."
+    ],
+    "contested": "Era here marks conservation history, not antiquity. Population figures for reintroduced rhinoceros and for tiger in Manas have varied considerably between surveys, and poaching losses since the reintroduction are documented but not consistently reported.",
+    "coordsNote": "A protected area of roughly 500 km² along the Bhutan border. The coordinate is a point inside the property.",
+    "sources": [
+      {
+        "title": "Manas Wildlife Sanctuary — Wildlife Institute of India (Coast to Coast Portal)",
+        "url": "https://c2c.wii.gov.in/manas-wildlife-sanctuary"
+      },
+      {
+        "title": "Manas Wildlife Sanctuary — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/338/"
+      },
+      {
+        "title": "Manas National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Manas_National_Park"
+      }
+    ]
+  },
+  {
+    "id": "moidams",
+    "name": "Moidams of Charaideo",
+    "localName": "মৈদাম",
+    "category": "archaeological",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "ahom",
+      "capital-city"
+    ],
+    "coords": [
+      26.9431,
+      94.8792
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Charaideo",
+    "state": "Assam",
+    "built": "From the 13th century CE",
+    "summary": "Mound burials of the Ahom kings at their first capital, India's most recent World Heritage Site.",
+    "description": [
+      "The moidams are the burial mounds of the Ahom dynasty, which ruled Assam for some six hundred years from 1228 until the British annexation in 1826. Charaideo was the dynasty's first capital and remained its royal necropolis; roughly ninety mounds survive there of many more built across upper Assam.",
+      "A moidam is a vaulted brick or stone chamber under a hemispherical earth mound, with an enclosing wall and an arched gateway. Kings were buried with grave goods, and in the earlier period with attendants and possessions, reflecting a Tai funerary tradition the Ahoms brought with them from the east and later adapted as they adopted Hindu practice and cremation.",
+      "UNESCO inscribed the site in 2024 (site 1711) — the first cultural property from India's northeast on the list, and the most recent Indian inscription apart from the Maratha Military Landscapes of 2025."
+    ],
+    "contested": "Many moidams outside the protected core were dug into by treasure hunters in the 19th and 20th centuries and their contents are lost, so what was buried in them is reconstructed from a small and unrepresentative sample. Dates for individual mounds rest largely on chronicle attributions in the buranjis rather than on excavation.",
+    "coordsNote": "A cluster of mounds spread over a low ridge at Charaideo. The coordinate is a general point for the group.",
+    "sources": [
+      {
+        "title": "Assam's Charaideo Moidams now on UNESCO World Heritage List, 43rd Indian site to earn tag — The Print",
+        "url": "https://theprint.in/india/assams-charaideo-moidams-now-on-unesco-world-heritage-list-43rd-india-site-to-earn-tag/2192554/"
+      },
+      {
+        "title": "Moidams – the Mound-Burial System of the Ahom Dynasty — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1711/"
+      },
+      {
+        "title": "Moidam — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moidam"
+      }
+    ]
+  }
+]

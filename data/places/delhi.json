@@ -1,0 +1,127 @@
+[
+  {
+    "id": "qutb-complex",
+    "name": "Qutb Minar and its Monuments",
+    "localName": "क़ुतुब मीनार",
+    "category": "monument",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "sultanate",
+      "sculpture",
+      "contested-history"
+    ],
+    "coords": [
+      28.5244,
+      77.1852
+    ],
+    "coordsPrecision": "verified",
+    "city": "Delhi",
+    "state": "Delhi",
+    "built": "Begun 1199, extended into the 14th century",
+    "summary": "The tower that announced the Delhi Sultanate, over a mosque built from temple stone.",
+    "description": [
+      "The Qutb Minar was begun around 1199 by Qutb al-Din Aibak, the first sultan of Delhi, and finished in stages by Iltutmish and later by Firuz Shah Tughlaq after lightning damage. It stands about 73 metres in fluted red sandstone and marble, banded with Quranic inscription, and is the tallest brick minaret of its kind anywhere.",
+      "The complex around it is the more interesting half. The Quwwat-ul-Islam mosque was raised in the 1190s using columns and carved stone taken from demolished temples on the site — the reused pieces are visible and unaltered, with their original figural carving in place. In the courtyard stands the iron pillar of the 4th–5th century, a Gupta-period column moved here from elsewhere, still notably uncorroded.",
+      "Also within the enclosure are the tomb of Iltutmish, the Alai Darwaza of 1311, and the stump of the Alai Minar, an intended larger tower abandoned when Ala-ud-din Khalji died. UNESCO inscribed the group in 1993 (site 233)."
+    ],
+    "contested": "The reuse of temple material is documented in the fabric itself and in the mosque's own inscription; what that meant at the time is argued over, and the site is regularly conscripted into present-day political claims. The iron pillar's original location and the date of its move to Delhi are both uncertain.",
+    "sources": [
+      {
+        "title": "Qutb Minar and its Monuments, Delhi — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageQutbMinar"
+      },
+      {
+        "title": "Qutb Minar and its Monuments, Delhi — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/233/"
+      },
+      {
+        "title": "Qutb Minar complex — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Qutb_Minar_complex"
+      }
+    ]
+  },
+  {
+    "id": "humayuns-tomb",
+    "name": "Humayun's Tomb",
+    "localName": "हुमायूँ का मक़बरा",
+    "category": "tomb",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "mughal",
+      "sculpture"
+    ],
+    "coords": [
+      28.5933,
+      77.2506
+    ],
+    "coordsPrecision": "verified",
+    "city": "Delhi",
+    "state": "Delhi",
+    "built": "1565 – 1572",
+    "summary": "The first great Mughal garden tomb, and the model the Taj Mahal was built from.",
+    "description": [
+      "Humayun's Tomb was commissioned by the emperor's widow Hamida Banu Begum, and built in red sandstone with marble inlay from 1565, about nine years after his death. The architect named in the sources is Mirak Mirza Ghiyas, from Herat.",
+      "It is the first fully developed example in India of the char bagh tomb: a domed mausoleum on a high arcaded plinth, set at the centre of a walled garden divided into quarters by water channels. Everything that follows in Mughal funerary architecture, including the Taj Mahal seventy years later, works from this plan.",
+      "The enclosure holds more than a hundred later Mughal graves, which is why it is sometimes called the dormitory of the dynasty; it is also where Bahadur Shah Zafar was captured by the British in 1857. UNESCO inscribed it in 1993 (site 232), and a long conservation programme through the 2000s and 2010s restored the gardens and the dome's surface."
+    ],
+    "contested": "Construction start date differs between sources: this page follows a common framing of 1565 (about nine years after Humayun's 1556 death); the Archaeological Survey of India's own page instead gives 1569 (thirteen years after his death), completed 1570. Not resolved here.",
+    "sources": [
+      {
+        "title": "Humayun's Tomb, Delhi — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageHumayunTomb"
+      },
+      {
+        "title": "Humayun's Tomb, Delhi — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/232/"
+      },
+      {
+        "title": "Humayun's tomb — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Humayun%27s_tomb"
+      }
+    ]
+  },
+  {
+    "id": "red-fort",
+    "name": "Red Fort Complex",
+    "localName": "लाल क़िला",
+    "category": "fort",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "mughal",
+      "capital-city",
+      "british-raj"
+    ],
+    "coords": [
+      28.6558,
+      77.2403
+    ],
+    "coordsPrecision": "verified",
+    "city": "Delhi",
+    "state": "Delhi",
+    "built": "1639 – 1648",
+    "summary": "Shah Jahan's palace-fortress at Shahjahanabad, later a British garrison, now the site of the Independence Day address.",
+    "description": [
+      "The Red Fort was built between 1639 and 1648 as the palace-fortress of Shahjahanabad, the new capital Shah Jahan laid out when the court moved from Agra to Delhi. Behind two kilometres of red sandstone wall sat the audience halls, the marble Rang Mahal and Khas Mahal, the Moti Masjid and a water channel, the Nahr-i-Bihisht, running through the private apartments.",
+      "Much of the palace was destroyed after 1857. The British demolished a large share of the internal buildings to convert the enclosure into a garrison, and the barracks they put up in their place still stand inside the walls — the fort as it survives is a Mughal palace with a Victorian army camp inserted into it.",
+      "The site was inscribed by UNESCO in 2007 (site 231), together with the adjacent Salimgarh Fort of 1546. The Prime Minister of India addresses the country from its ramparts every 15 August."
+    ],
+    "contested": "Attribution of the design to Ustad Ahmad Lahauri follows the same late, second-hand source as the Taj Mahal attribution and should be treated with the same caution.",
+    "sources": [
+      {
+        "title": "Lal Qila or Red Fort — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageRedFort"
+      },
+      {
+        "title": "Red Fort Complex — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/231/"
+      },
+      {
+        "title": "Red Fort — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Red_Fort"
+      }
+    ]
+  }
+]

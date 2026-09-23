@@ -1,0 +1,119 @@
+/* ── history-map — reading shell ─────────────────────────────────────────────
+   Clean editorial, not parchment. Loaded after style.css on /history/ pages:
+   it overrides the paper/ink tokens and kills the grain/paper-wash treatment
+   that css/style.css bakes into body::before, while keeping the shared shell
+   classes (.site-head, .site-foot, .eyebrow, .btn, .card) that key off the
+   same custom properties. Do not add sepia, grain, or aged texture here — the
+   whole point of this file is that /history/ reads as a magazine, not a
+   museum label.                                                              */
+
+:root {
+  --paper:     #fbfaf8;
+  --paper-2:   #f1efe9;
+  --paper-3:   #ffffff;
+  --card:      #ffffff;
+
+  --ink:       #1a1a1a;
+  --ink-2:     #3d3d3d;
+  --ink-3:     #6b6b6b;
+  --rule:      #dcdad4;
+  --rule-soft: #e8e6e0;
+
+  /* Editorial blue, distinct from the map app's iron-gall red — this section
+     is not trying to look like the same product. */
+  --accent:      #1d5fae;
+  --accent-soft: #4f83c4;
+
+  /* 68ch is a standard fluid-reading measure, wider than the map app's 34rem
+     card copy — this is body text meant to be read start to finish. */
+  --measure: 68ch;
+}
+
+body.reading { background: var(--paper); background-image: none; }
+body.reading::before { content: none; }
+
+.reading main { max-width: var(--measure); margin: 0 auto; padding: clamp(2.5rem, 6vw, 5rem) clamp(1rem, 4vw, 2.5rem) clamp(4rem, 8vw, 6rem); }
+.reading h1 { font-size: clamp(2.2rem, 5vw, 3.2rem); }
+.reading .lede { font-size: clamp(1.05rem, 2vw, 1.2rem); color: var(--ink-2); margin-top: .5rem; }
+
+.reading section { margin-top: 3rem; }
+.reading section:first-of-type { margin-top: 2.2rem; }
+.reading section h2 { margin-top: 0; font-size: clamp(1.4rem, 2.6vw, 1.9rem); }
+.reading section p { font-size: 1.08rem; line-height: 1.75; margin-bottom: 1.1em; }
+
+.reading .sources { margin-top: 1rem; padding-top: .3rem; border-top: 1px solid var(--rule-soft); font-size: .85rem; color: var(--ink-3); }
+.reading .sources a { color: var(--ink-3); }
+.reading .sources a:hover { color: var(--accent); }
+
+/* State page: generated list of places, sourced live from data/places/*.json */
+.reading .place-list { list-style: none; padding: 0; margin: 1.5rem 0 0; }
+.reading .place-list li { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding: .6rem 0; border-bottom: 1px solid var(--rule-soft); }
+.reading .place-list a { text-decoration: none; font-weight: 600; color: var(--ink); }
+.reading .place-list a:hover { color: var(--accent); text-decoration: underline; }
+.reading .place-meta { font-size: .85rem; color: var(--ink-3); white-space: nowrap; }
+
+@media (max-width: 640px) {
+  .reading .place-list li { flex-direction: column; align-items: flex-start; gap: .15rem; }
+}
+
+/* Prev/next cycling through the states-and-UTs manifest (js/reading.js) */
+.region-pager {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid var(--rule);
+}
+.region-pager .pager-link {
+  flex: 1 1 40%; font: 600 1rem/1.3 var(--display); text-decoration: none; color: var(--ink);
+}
+.region-pager .pager-link:hover { color: var(--accent); }
+.region-pager .pager-next { text-align: right; }
+.region-pager .pager-all { flex: none; font-size: .82rem; color: var(--ink-3); text-decoration: none; white-space: nowrap; }
+.region-pager .pager-all:hover { color: var(--accent); }
+
+@media (max-width: 640px) {
+  .region-pager { flex-wrap: wrap; }
+  .region-pager .pager-all { order: -1; flex-basis: 100%; text-align: center; margin-bottom: .4rem; }
+}
+
+/* history/science.html: an era-grouped, chronological timeline (js/reading.js
+   renderTimeline()). A vertical rule down the left of each era's list, with
+   a small ring marking each entry — the "Vertical Timeline Line" idea from
+   an earlier design discussion, now with an actual timeline to attach it to. */
+.era-group h2 { display: flex; align-items: baseline; gap: .7rem; flex-wrap: wrap; }
+.era-group .era-range { font: 400 .82rem/1 var(--serif); color: var(--ink-3); }
+
+.timeline {
+  list-style: none; margin: 1.6rem 0 0; padding-left: 1.6rem;
+  border-left: 2px solid var(--rule);
+}
+.timeline-entry { position: relative; padding: 0 0 2.4rem .1rem; }
+.timeline-entry:last-child { padding-bottom: 0; }
+.timeline-entry::before {
+  content: ""; position: absolute; left: -1.71rem; top: .3rem;
+  width: .7rem; height: .7rem; border-radius: 50%;
+  background: var(--paper); border: 2px solid var(--accent);
+}
+.timeline-year {
+  display: inline-block; font: 600 .78rem/1 var(--serif); letter-spacing: .05em;
+  color: var(--accent); margin-bottom: .35rem;
+}
+.timeline-body h3 { margin: 0 0 .4rem; font-size: 1.18rem; }
+.timeline-body p { font-size: 1rem; line-height: 1.65; margin: 0 0 .6rem; }
+.timeline-note {
+  font-size: .92rem; line-height: 1.55; color: var(--ink-2);
+  background: var(--paper-2); border-left: 3px solid var(--accent-soft);
+  padding: .55rem .85rem; margin: .6rem 0; border-radius: var(--radius);
+}
+.timeline-body details.sources { margin-top: .6rem; padding-top: 0; border-top: none; }
+.timeline-body details.sources summary {
+  cursor: pointer; font: 600 .74rem/1 var(--serif); letter-spacing: .07em;
+  text-transform: uppercase; color: var(--ink-3);
+}
+.timeline-body details.sources summary:hover { color: var(--accent); }
+.timeline-body details.sources p { margin: .5rem 0 0; font-size: .82rem; color: var(--ink-3); }
+.timeline-body details.sources a { color: var(--ink-3); }
+.timeline-body details.sources a:hover { color: var(--accent); }
+
+@media (max-width: 640px) {
+  .timeline { padding-left: 1.2rem; }
+  .timeline-entry::before { left: -1.31rem; }
+}

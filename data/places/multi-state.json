@@ -1,0 +1,44 @@
+[
+  {
+    "id": "western-ghats",
+    "name": "Western Ghats",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "biodiversity",
+      "wildlife",
+      "spice-trade"
+    ],
+    "coords": [
+      10.1697,
+      77.0611
+    ],
+    "coordsPrecision": "approximate",
+    "city": "39 component sites in six states",
+    "state": "Multi-state",
+    "built": "Inscribed 2012",
+    "summary": "A 1,600-km mountain chain, older than the Himalaya, inscribed as thirty-nine separate protected areas.",
+    "description": [
+      "The Western Ghats run roughly 1,600 kilometres down the western edge of the peninsula, from Gujarat to the southern tip of Kerala, broken only by the Palghat Gap. The range predates the Himalaya, and it is what makes the monsoon work the way it does: it intercepts the southwest monsoon, waters the peninsula and feeds most of the major rivers of southern India.",
+      "It is one of the world's recognised biodiversity hotspots, with very high levels of endemism among amphibians, reptiles, fish and flowering plants, and populations of Asian elephant, tiger, lion-tailed macaque and Nilgiri tahr. New amphibian species are still being described from it regularly.",
+      "UNESCO inscribed the Western Ghats in 2012 (site 1342) as a serial property of thirty-nine components across Kerala, Tamil Nadu, Karnataka and Maharashtra — national parks, tiger reserves and reserve forests, not a continuous protected strip. The spice trade that built Calicut depended on what grew on these slopes."
+    ],
+    "contested": "Era here marks the protection of the range, not its formation, which is geological. The extent of the ecologically sensitive area around the property has been contested since the Gadgil (2011) and Kasturirangan (2013) reports proposed sharply different boundaries; neither has been implemented in full, and the argument between conservation restrictions and land use in the Ghats is live.",
+    "coordsNote": "A serial property of 39 components spread over some 1,600 km and four states. The coordinate is a single point in the southern Ghats and represents none of them in particular.",
+    "sources": [
+      {
+        "title": "Western Ghats — Wildlife Institute of India (Coast to Coast Portal)",
+        "url": "https://c2c.wii.gov.in/western-ghats-india"
+      },
+      {
+        "title": "Western Ghats — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1342/"
+      },
+      {
+        "title": "Western Ghats — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Western_Ghats"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "origins",
+    "heading": "Where the record begins",
+    "body": [
+      "The earliest urban civilization on the subcontinent is the Indus Valley (or Harappan) Civilization, a Bronze Age culture conventionally dated from about 3300 BCE, with its best-known cities — Harappa and Mohenjo-daro — built up around 2600 BCE and the whole civilization fading out by roughly 1300 BCE. Its script has never been deciphered, so almost everything known about it comes from archaeology rather than from its own written testimony.",
+      "That distinction matters, because it separates two different claims that are often blurred together: the earliest *evidence* of civilization on the subcontinent (Indus Valley, from material remains) and the earliest connected *textual* record (the Vedic period, conventionally placed around 1500–500 BCE, transmitted orally for centuries before being written down). This page starts at the first point where organized urban life is attested, and treats the transition into the Vedic period as the point where India's own textual self-description begins."
+    ],
+    "sources": [
+      { "title": "Indus Valley Civilization — World History Encyclopedia", "url": "https://www.worldhistory.org/Indus_Valley_Civilization/" },
+      { "title": "Timeline of Indian history — Wikipedia", "url": "https://en.wikipedia.org/wiki/Timeline_of_Indian_history" }
+    ]
+  },
+  {
+    "id": "largest-economy",
+    "heading": "The largest economy in the world",
+    "body": [
+      "For most of the two millennia after the year 1 CE, the Indian subcontinent was, by the most widely cited reconstruction of historical GDP (the economic historian Angus Maddison's estimates), the largest economy in the world. Maddison put India's share of global GDP at roughly 32% in 1 CE, and still around 24% as late as 1700 CE — a share that held, with fluctuation, across the classical, early medieval and late medieval periods covered by the era filters on this site's map.",
+      "That figure needs a caveat this page won't skip: a large share of world output mostly reflected a large share of world *population*, not unusually high income per person. Maddison's own per-capita estimates put India close to, or slightly below, the world average for most of this period. \"Largest economy\" is an accurate description of aggregate output — it is not a claim that ordinary life in ancient or medieval India was more prosperous than elsewhere."
+    ],
+    "sources": [
+      { "title": "Economic history of India — Wikipedia (cites Maddison, Contours of the World Economy 1–2030 AD)", "url": "https://en.wikipedia.org/wiki/Economic_history_of_India" },
+      { "title": "Indian Nationalism and the Historical Fantasy of a Golden Hindu Period — Cato Institute", "url": "https://www.cato.org/policy-analysis/indian-nationalism-historical-fantasy-golden-hindu-period" }
+    ]
+  },
+  {
+    "id": "zero",
+    "heading": "Zero, made into a number",
+    "body": [
+      "India's most consequential single contribution to mathematics is not the symbol for zero — placeholder zeros existed earlier elsewhere — but treating zero as a number in its own right, one that could be added, subtracted and multiplied like any other. The mathematician and astronomer Brahmagupta did this explicitly in 628 CE, in his treatise the Brahmasphutasiddhanta, where he defined zero as the result of subtracting a number from itself and laid out systematic rules for arithmetic with it: a number plus or minus zero is unchanged, a number times zero is zero, and — his most original step — rules for zero combined with negative numbers (which he described in terms of \"fortunes\" and \"debts\").",
+      "Brahmagupta was the first mathematician known to give such systematic rules for zero and negative numbers together. That formalization, transmitted west through Arabic mathematics over the following centuries, is the ancestor of the zero used in arithmetic everywhere today."
+    ],
+    "sources": [
+      { "title": "Brahmagupta — MacTutor History of Mathematics", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/" },
+      { "title": "Brāhmasphuṭasiddhānta — background and content summary", "url": "https://grokipedia.com/page/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta" }
+    ]
+  },
+  {
+    "id": "decline",
+    "heading": "Decline under colonial rule",
+    "body": [
+      "India's share of world GDP, still about 24% in 1700, collapsed to roughly 4% by 1950 — a fall from the largest single economy on earth to a marginal one over two and a half centuries of Mughal decline, regional fragmentation and, from the mid-18th century, expanding British colonial control. Historians dispute how much of that fall was decline in absolute terms versus India simply growing far more slowly than an industrializing West: some point to deindustrialization of Indian textile and craft production under colonial policy, others emphasize that Western incomes multiplied after the Industrial Revolution while India's stayed largely flat. Both processes are documented; this page does not pick one to the exclusion of the other.",
+      "India became independent in 1947, partitioned into India and Pakistan, inheriting an economy near its lowest relative point in recorded history."
+    ],
+    "sources": [
+      { "title": "Economy of India under the British Raj — Wikipedia", "url": "https://en.wikipedia.org/wiki/Economy_of_India_under_the_British_Raj" },
+      { "title": "Raj review: Did British rule really impoverish India? — Swaminomics", "url": "https://swaminomics.org/raj-review-did-british-rule-really-impoverish-india/" }
+    ]
+  },
+  {
+    "id": "independence-movement",
+    "heading": "The movement that won it",
+    "body": [
+      "Independence in 1947 was not simply granted — it was the outcome of six decades of organized political struggle. The Indian National Congress, founded in 1885, began as a moderate body petitioning for reform, not demanding an end to colonial rule. That changed after 13 April 1919, when British troops under General Reginald Dyer fired without warning on an unarmed crowd in the walled Jallianwala Bagh garden in Amritsar, killing at least 379 people — widely treated as the point after which mass nationalist politics replaced petition and reform. Mohandas Gandhi, back from South Africa since 1915, built the movement around satyagraha — organized, public, nonviolent lawbreaking — most famously the 1930 Salt March to the coast to make salt in defiance of the British salt monopoly. Congress escalated again in 1942 with the Quit India movement, demanding immediate British withdrawal; the government responded by jailing the entire Congress leadership for the rest of the war.",
+      "Independence, on 15 August 1947, arrived paired with Partition — the division of British India into India and a new state of Pakistan along religious lines. The human cost is not settled to any precise figure: estimates of the dead range from roughly 200,000 to two million, and of those displaced from about 12 million to 20 million — the largest single forced migration in recorded history. This page states that range rather than a single number because the sources genuinely disagree by an order of magnitude, not because a better estimate has been overlooked."
+    ],
+    "sources": [
+      { "title": "Indian National Congress — Britannica", "url": "https://www.britannica.com/topic/Indian-National-Congress" },
+      { "title": "Jallianwala Bagh massacre — Britannica", "url": "https://www.britannica.com/event/Jallianwala-Bagh-Massacre" },
+      { "title": "Jallianwala Bagh — Incredible India (Ministry of Tourism, Government of India)", "url": "https://www.incredibleindia.gov.in/en/punjab/amritsar/jallianwala-bagh" },
+      { "title": "Salt March — Wikipedia", "url": "https://en.wikipedia.org/wiki/Salt_March" },
+      { "title": "Partition of India — Wikipedia", "url": "https://en.wikipedia.org/wiki/Partition_of_India" },
+      { "title": "Harvard scholars take fresh look at the Partition of British India, which killed millions — Harvard Gazette", "url": "https://news.harvard.edu/gazette/story/2018/04/harvard-scholars-take-fresh-look-at-the-partition-of-british-india-which-killed-millions/" }
+    ]
+  },
+  {
+    "id": "today",
+    "heading": "Where India stands now",
+    "body": [
+      "As of 2026, India is the world's sixth-largest economy by nominal GDP and the third-largest by purchasing-power-parity, with the fastest growth rate among the ten largest economies. The exact nominal figure depends on which IMF reporting round is cited — this page has seen both roughly $4.15 trillion and, in a later government statement to parliament citing the IMF's April 2026 World Economic Outlook, $3.92 trillion for FY2025–26; both put India sixth, and the gap looks like a reporting-vintage difference rather than a real disagreement, but this page does not pick one figure as final. It has recovered a meaningful share of world output from its mid-20th-century low, without yet returning to anything like its pre-colonial share — a reminder that \"largest economy\" and \"largest population\" have not automatically meant the same thing at any point in this story, ancient or present."
+    ],
+    "sources": [
+      { "title": "India GDP 2026 — StatisticsTimes.com (IMF World Economic Outlook figures)", "url": "https://statisticstimes.com/economy/country/india-gdp.php" },
+      { "title": "Indian economy slips to 6th place with USD 3.92 trillion GDP in FY26: Pankaj Chaudhary — The Tribune", "url": "https://www.tribuneindia.com/news/business/indian-economy-slips-to-6th-place-with-usd-3-92-trillion-gdp-in-fy26-pankaj-chaudhary/" }
+    ]
+  }
+]

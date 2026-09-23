@@ -1,0 +1,24 @@
+# Build output
+_site/
+
+# Node
+node_modules/
+*.log
+npm-debug.log*
+
+# Claude Code
+.claude/settings.local.json
+.entire/
+
+# OS
+.DS_Store
+
+# Test tooling and scratch output — never shipped
+.test-tools/
+.shots/
+.cache/
+.server.pid
+test/node_modules
+.bench/
+.bench.pid
+data/index.json

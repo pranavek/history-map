@@ -1,0 +1,16 @@
+[
+  {
+    "id": "chhattisgarh-overview",
+    "heading": "A tribal heartland, only recently its own state",
+    "body": [
+      "Chhattisgarh is one of India's newest states — it did not exist as an administrative unit until 1 November 2000, when it was carved out of Madhya Pradesh under the Madhya Pradesh Reorganisation Act. That political youth sits oddly next to the age of what's actually on the ground here: this is a region with a documented urban and religious history stretching back well over a thousand years, mostly overlooked because it sat at the edges of better-known dynastic maps further north and south, and inhabited for much of that time predominantly by Gond, Baiga, Halba and other Adivasi (tribal) communities whose social structures predate and outlasted the region's various royal courts.",
+      "The clearest evidence of that older history is Sirpur, a site on the Mahanadi river that served as the capital of the Dakshina Kosala kingdom under the Panduvanshi and later Somavamshi dynasties between roughly the 6th and 8th centuries CE. Excavations there — which only intensified in the 2000s — have uncovered a dozen Buddhist monasteries, a Jain vihara, more than twenty Shiva temples and Vishnu temples side by side, evidence of Shakta and Tantric worship, and even a sixth-century bathhouse, all in the same small area. It's one of the most striking examples in India of Buddhist, Jain and Hindu religious life coexisting in a single working city, rather than being confined to separate eras or regions. A second major temple site, Bhoramdeo, near Kawardha, dates its main Shiva shrine to the 11th–12th centuries under a local Naga dynasty and is sometimes described, somewhat theatrically, as the 'Khajuraho of Chhattisgarh' for its carved architecture.",
+      "The places mapped here are drawn from these two poles: the multi-faith ancient capital at Sirpur and the medieval temple architecture of Bhoramdeo, set against a state whose borders are barely a generation old."
+    ],
+    "sources": [
+      { "title": "Chhattisgarh — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chhattisgarh" },
+      { "title": "Sirpur Group of Monuments — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sirpur_Group_of_Monuments" },
+      { "title": "Bhoramdeo Temple — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bhoramdeo_Temple" }
+    ]
+  }
+]

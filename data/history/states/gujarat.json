@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gujarat-overview",
+    "heading": "A coastline that traded before it had a name",
+    "body": [
+      "Gujarat's history begins earlier than almost anywhere else in India. At Dholavira, in the salt flats of Kutch, archaeologists have uncovered one of the five largest cities of the Indus Valley Civilisation — occupied from roughly 2900 BCE and only slowly abandoned after 2100 BCE. It was a planned city with a sophisticated water-conservation system of reservoirs and stepwells (earning it the nickname \"jala durga\", or water fort), and it yielded ten large stone signs carved in the Indus script, possibly the world's earliest surviving signboard. UNESCO listed Dholavira as a World Heritage Site in 2021. The Indus script itself has never been deciphered — more than a hundred scholarly attempts exist, none with broad agreement, and even the underlying language remains disputed — so a great deal about how this city actually governed itself is still guesswork.",
+      "A few hundred kilometres away, at Lothal, the same civilisation built what is often described as one of the world's earliest known dockyards, evidence of maritime trade with West Asia and Africa more than 4,500 years ago. That instinct — a coastal state making its living from the sea rather than from the land behind it — never really left Gujarat. Long after the Harappan cities emptied out, Gujarat's ports stayed busy: maritime trade reached a peak in the medieval period (8th–14th centuries CE) when Arab traders dominated Indian Ocean commerce, and the temple town of Somnath, patronised in different eras by the Mauryas, Guptas and Maitrakas, grew wealthy as a religious and commercial hub on that same coast — wealthy enough that the temple was destroyed and rebuilt at least six times across the centuries, most famously after Mahmud of Ghazni's raid in 1025 CE.",
+      "The places on this map trace that long arc: a Bronze Age port city, a temple that outlasted repeated destruction, and the merchant and maritime culture that connected Gujarat to the Arabian Sea world for four thousand years before European traders arrived to compete for the same coastline."
+    ],
+    "sources": [
+      { "title": "Dholavira — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dholavira" },
+      { "title": "Lothal: The Ancient Port City That Redefined Early Maritime Trade", "url": "https://lothal.org/lothal-the-ancient-port-city/" },
+      { "title": "Somnath Temple — Indian History & Heritage", "url": "https://itihaas.ai/en/institutions/somnath-temple" }
+    ]
+  }
+]

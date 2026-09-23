@@ -1,0 +1,124 @@
+[
+  {
+    "id": "mahabalipuram",
+    "name": "Group of Monuments at Mahabalipuram",
+    "localName": "மாமல்லபுரம்",
+    "category": "archaeological",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "pallava",
+      "rock-cut",
+      "sculpture",
+      "spice-trade"
+    ],
+    "coords": [
+      12.6167,
+      80.1917
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Mamallapuram",
+    "state": "Tamil Nadu",
+    "built": "7th – 8th centuries CE",
+    "summary": "A Pallava port where temple architecture was worked out in living rock.",
+    "description": [
+      "Mamallapuram was a port of the Pallava kingdom, and the monuments cut here in the 7th and 8th centuries are effectively a workshop in which South Indian temple form was developed. The site holds rock-cut cave temples, monolithic shrines carved whole from granite outcrops — the Pancha Rathas — structural temples in dressed stone, and open-air relief sculpture.",
+      "The largest relief, usually called the Descent of the Ganges or Arjuna's Penance, covers two boulders some thirty metres wide, with elephants at life size and a natural cleft used as the river channel. The Shore Temple, built around 700 CE under Narasimhavarman II, is one of the earliest free-standing stone temples in the South and stands directly on the beach.",
+      "UNESCO inscribed the group in 1984 (site 249). Sea salt and erosion are the permanent conservation problem, particularly for the Shore Temple."
+    ],
+    "contested": "Whether the great relief depicts the descent of the Ganga or Arjuna's penance has been argued for over a century and is not resolved. The tradition of 'seven pagodas' submerged offshore is not archaeologically confirmed, though structures were reported in the surf after the 2004 tsunami exposed parts of the seabed.",
+    "coordsNote": "The monuments are scattered over roughly two kilometres of shoreline and hillside. The coordinate is a general point for the group, not the Shore Temple specifically.",
+    "sources": [
+      {
+        "title": "Group of Monuments at Mahabalipuram — Archaeological Survey of India",
+        "url": "https://asi.nic.in/pages/WorldHeritageMahabalipuram"
+      },
+      {
+        "title": "Group of Monuments at Mahabalipuram — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/249/"
+      },
+      {
+        "title": "Group of Monuments at Mahabalipuram — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram"
+      }
+    ]
+  },
+  {
+    "id": "chola-temples",
+    "name": "Great Living Chola Temples",
+    "localName": "பெருவுடையார் கோவில்",
+    "category": "temple",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "chola",
+      "sculpture",
+      "pilgrimage",
+      "living-tradition"
+    ],
+    "coords": [
+      10.7831,
+      79.1325
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Thanjavur, Gangaikonda Cholapuram and Darasuram",
+    "state": "Tamil Nadu",
+    "built": "1010 – c. 1170 CE",
+    "summary": "Three Chola temples, still in worship, built at the height of an empire that reached Southeast Asia.",
+    "description": [
+      "The inscription covers three temples: the Brihadisvara temple at Thanjavur, completed in 1010 under Rajaraja I; the Brihadisvara temple at Gangaikonda Cholapuram, built by his son Rajendra I around 1035 at a new capital named for his campaign to the Ganga; and the Airavatesvara temple at Darasuram, built by Rajaraja II in the mid-12th century.",
+      "Thanjavur is the largest and the most severe: a granite vimana rising some 60 metres over the sanctum, with a capstone assembly weighing many tonnes, and long donative inscriptions cut into the plinth recording gifts, land grants, temple staff and the administration of the whole endowment. Those inscriptions are among the best economic records of any medieval Indian institution.",
+      "Darasuram is the opposite register — smaller, and carved with a density of miniature narrative panels and musical stone steps. All three remain active temples, which is what 'living' means in the inscription's name. UNESCO listed Thanjavur in 1987 and extended the property to the other two in 2004 (site 250)."
+    ],
+    "contested": "The claim that the Thanjavur capstone was raised along a ramp several kilometres long is a persistent tradition with no contemporary evidence; how the stone was lifted is not known.",
+    "coordsNote": "A serial property of three temples up to 100 km apart. The coordinate is the Brihadisvara temple at Thanjavur; Gangaikonda Cholapuram and Darasuram are not represented by it.",
+    "sources": [
+      {
+        "title": "Great Living Chola Temples — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/250/"
+      },
+      {
+        "title": "Great Living Chola Temples — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Living_Chola_Temples"
+      }
+    ]
+  },
+  {
+    "id": "nilgiri-mountain-railway",
+    "name": "Nilgiri Mountain Railway",
+    "localName": "நீலகிரி மலை ரயில்",
+    "category": "railway",
+    "era": "late-modern",
+    "tags": [
+      "unesco",
+      "railway",
+      "british-raj",
+      "living-tradition"
+    ],
+    "coords": [
+      11.3443,
+      76.7919
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Mettupalayam to Udhagamandalam",
+    "state": "Tamil Nadu",
+    "built": "Opened 1899; extended to Ootacamund 1908",
+    "summary": "A rack railway climbing to Ooty, and the steepest line in Asia.",
+    "description": [
+      "The Nilgiri Mountain Railway runs 46 kilometres from Mettupalayam on the plains up to Udhagamandalam — Ooty — in the Nilgiri hills, climbing from about 330 to 2,200 metres. The first section opened in 1899 and the line reached Ooty in 1908.",
+      "The steep central section uses the Abt rack-and-pinion system: a toothed rack laid between the rails, engaged by pinions on the locomotive, allowing gradients up to about 1 in 12.5 that adhesion alone could not hold. It is the steepest railway in Asia, and the rack section was worked by steam long after steam had gone everywhere else — X-class locomotives push the train uphill from the downhill end.",
+      "It is a component of the Mountain Railways of India, inscribed by UNESCO in 1999 and extended in 2005 and 2008 (site 944), together with the Darjeeling Himalayan Railway and the Kalka–Shimla Railway. It remains a scheduled passenger service, not a heritage operation."
+    ],
+    "coordsNote": "A 46 km line, not a point. The coordinate is the Ooty end of the route.",
+    "sources": [
+      {
+        "title": "Mountain Railways of India — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/944/"
+      },
+      {
+        "title": "Nilgiri Mountain Railway — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nilgiri_Mountain_Railway"
+      }
+    ]
+  }
+]

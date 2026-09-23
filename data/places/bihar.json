@@ -1,0 +1,87 @@
+[
+  {
+    "id": "mahabodhi-temple",
+    "name": "Mahabodhi Temple Complex, Bodh Gaya",
+    "localName": "महाबोधि मन्दिर",
+    "category": "temple",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "buddhist",
+      "maurya",
+      "pilgrimage",
+      "living-tradition"
+    ],
+    "coords": [
+      24.696,
+      84.9914
+    ],
+    "coordsPrecision": "verified",
+    "city": "Bodh Gaya",
+    "state": "Bihar",
+    "built": "Present temple 5th – 6th century CE, on a 3rd-century BCE foundation",
+    "summary": "Where the Buddha is held to have attained enlightenment, and one of the oldest brick temples in India.",
+    "description": [
+      "Bodh Gaya is the place where the Buddha is traditionally held to have attained enlightenment beneath a pipal tree. The first shrine here is attributed to Ashoka in the 3rd century BCE; the standing temple — a tapering brick tower some fifty metres high over a sanctum — dates in its present form from the Gupta period, the 5th or 6th century CE, with later restoration.",
+      "The complex holds the Vajrasana, a polished sandstone slab beside the tree marking the seat of enlightenment, together with stupas, railings whose earliest sections are pre-Christian, and the Bodhi tree itself, understood as a descendant of the original. A cutting sent to Anuradhapura in Sri Lanka in the 3rd century BCE produced the tree from which later replantings at Bodh Gaya were taken.",
+      "It is one of the very few surviving brick structures of its age in India and the model for Buddhist temple building far beyond it. UNESCO inscribed the complex in 2002 (site 1056). Pilgrims come from across the Buddhist world, and the monasteries around the town are built in Thai, Burmese, Tibetan, Japanese and Bhutanese styles."
+    ],
+    "contested": "The 19th-century restoration under Alexander Cunningham and J. D. Beglar was extensive, and how much of the visible fabric is ancient is genuinely uncertain. Control of the temple — shared between Hindu and Buddhist members under the Bodh Gaya Temple Act of 1949 — has been contested for over a century and remains so.",
+    "sources": [
+      {
+        "title": "Mahabodhi Temple at Bodhgaya — Archaeological Survey of India",
+        "url": "https://asi.nic.in/mahabodhi-temple-at-bodhgaya/"
+      },
+      {
+        "title": "Mahabodhi Temple Complex at Bodh Gaya — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1056/"
+      },
+      {
+        "title": "Mahabodhi Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+      }
+    ]
+  },
+  {
+    "id": "nalanda-mahavihara",
+    "name": "Nalanda Mahavihara",
+    "localName": "नालंदा महाविहार",
+    "category": "vihara",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "buddhist",
+      "scholarship",
+      "pilgrimage"
+    ],
+    "coords": [
+      25.1368,
+      85.4438
+    ],
+    "coordsPrecision": "verified",
+    "city": "Nalanda",
+    "state": "Bihar",
+    "built": "5th century CE to c. 1200",
+    "summary": "A monastic university that ran for seven centuries, excavated from brick ruin.",
+    "description": [
+      "Nalanda was founded as a Buddhist monastery in the 5th century CE under Gupta patronage and grew into a teaching institution of a scale with no real parallel in the ancient world: monastic residences, lecture halls, shrines and a library, drawing students from China, Korea, Tibet, Central Asia and Southeast Asia over some seven hundred years of continuous operation.",
+      "What is known of daily life there comes substantially from Chinese pilgrims. Xuanzang studied at Nalanda in the 7th century and left a detailed account; Yijing followed later and described its curriculum and discipline. The teaching covered Buddhist philosophy alongside grammar, logic, medicine and mathematics.",
+      "The excavated site is a long row of brick monasteries facing temples across a central avenue, with the great stupa of Sariputta at the southern end. Nalanda was sacked around 1200, and the tradition that its library burned for months is an old account rather than an excavation finding. UNESCO inscribed the archaeological site in 2016 (site 1502)."
+    ],
+    "contested": "The famous claim of nine thousand manuscripts and a library burning for three months comes from Tibetan tradition, not contemporary record. Student and teacher numbers cited for Nalanda vary wildly between sources. The era assigned here marks its foundation; it flourished well into the early medieval period.",
+    "sources": [
+      {
+        "title": "Excavated Site, Nalanda — Archaeological Survey of India",
+        "url": "https://asi.nic.in/excavated-site-nalanda/"
+      },
+      {
+        "title": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1502/"
+      },
+      {
+        "title": "Nalanda mahavihara — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "nanda-devi-valley-of-flowers",
+    "name": "Nanda Devi and Valley of Flowers National Parks",
+    "localName": "नंदा देवी और फूलों की घाटी",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "himalaya",
+      "biodiversity",
+      "wildlife",
+      "pilgrimage"
+    ],
+    "coords": [
+      30.4186,
+      79.8497
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Chamoli",
+    "state": "Uttarakhand",
+    "built": "Nanda Devi park 1982; Valley of Flowers park 1982",
+    "summary": "A closed glacial basin under India's second-highest peak, and an alpine meadow next door.",
+    "description": [
+      "The Nanda Devi Sanctuary is a ring of peaks enclosing the basin below Nanda Devi, at 7,816 metres the highest mountain entirely within India. The basin is reached through the Rishi Ganga gorge and was not entered by a recorded expedition until 1934; that inaccessibility left its high-altitude flora and fauna — snow leopard, Himalayan musk deer, bharal — largely undisturbed.",
+      "The Valley of Flowers, about twenty kilometres away, is a high glacial valley whose meadows carry a dense alpine flora that flowers through the short monsoon summer. It was described to a European audience by Frank Smythe in 1931 and has been known locally far longer; Hemkund Sahib, a major Sikh pilgrimage site, lies just beyond it.",
+      "Nanda Devi National Park was inscribed by UNESCO in 1988 and the Valley of Flowers added as an extension in 2005 (site 335). The core of the Nanda Devi sanctuary has been closed to visitors since 1983 after damage from expedition traffic, and remains so."
+    ],
+    "contested": "Era here marks the parks' designation, not the antiquity of the landscape. A 1965 CIA–Indian expedition is reported to have lost a plutonium-powered listening device on Nanda Devi; the account is partly acknowledged and partly unresolved, and the device has never been recovered.",
+    "coordsNote": "Two separate parks about 20 km apart, together covering some 720 km² plus buffer. The coordinate is in the Nanda Devi park and does not represent the Valley of Flowers.",
+    "sources": [
+      {
+        "title": "Nanda Devi and Valley of Flowers National Parks — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/335/"
+      },
+      {
+        "title": "Nanda Devi and Valley of Flowers National Parks — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nanda_Devi_and_Valley_of_Flowers_National_Parks"
+      }
+    ]
+  }
+]

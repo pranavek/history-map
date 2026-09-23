@@ -1,0 +1,595 @@
+[
+  {
+    "id": "thovarimala-ezhuthupara",
+    "name": "Thovarimala Ezhuthupara",
+    "localName": "തൊവരിമല എഴുത്തുപാറ",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": ["rock-art", "prehistoric"],
+    "coords": [11.7240, 76.2488],
+    "coordsPrecision": "approximate",
+    "coordsNote": "No surveyed coordinate found in the sources consulted; this pin uses a tourism-site aggregator's location for the hill.",
+    "city": "Nenmeni, Wayanad",
+    "state": "Kerala",
+    "built": "Undated; commonly cited as roughly 8,000 BCE, but that figure is not from an absolute dating study",
+    "summary": "Petroglyphs on a granite boulder on Thovarimala hill, five kilometres from Edakkal.",
+    "description": [
+      "Thovarimala Ezhuthupara (literally \"the inscribed rock of Thovari hill\") sits at Koodakkad in Nenmeni panchayat, about five kilometres from the better-known Edakkal Caves. The carvings cover the concave face of a tall, solitary granite boulder, whose shape has been likened to a serpent's hood.",
+      "The engravings depict a horse, bull, elephant, antelope and cattle alongside what have been read as ritual dancers and ceremonial scenes, along with circular and squarish figures. As with Edakkal, the marks are cut into the rock rather than painted.",
+      "Popular and tourism accounts date the site to around 8,000 BCE and describe it as among the world's oldest writing — this page does not repeat that claim as settled fact. No absolute dating (radiocarbon, cosmogenic, or otherwise) of the carvings themselves was found in the sources consulted; the age comes from stylistic comparison with other regional rock art, the same basis on which Edakkal's own dates are disputed."
+    ],
+    "contested": "The commonly cited ~8,000 BCE date and the \"world's oldest writing\" framing rest on stylistic argument and tourism copy, not on any absolute dating study found in the sources consulted. Treat the age as unresolved, not as a confirmed figure.",
+    "sources": [
+      { "title": "Thovarimala Ezhuthupara — Wondermondo", "url": "https://www.wondermondo.com/thovarimala-ezhuthupara/" },
+      { "title": "The slate of history — Onmanorama", "url": "https://www.onmanorama.com/travel/kerala/2018/06/30/the-slate-of-history.html" }
+    ]
+  },
+  {
+    "id": "pattanam",
+    "name": "Pattanam",
+    "localName": "പട്ടണം",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": ["roman-trade", "spice-trade", "contested-history"],
+    "coords": [10.1565, 76.2090],
+    "coordsPrecision": "verified",
+    "city": "North Paravur, Ernakulam",
+    "state": "Kerala",
+    "built": "Continuous settlement from roughly the 3rd century BCE onward",
+    "summary": "An excavated early-historic port settlement widely, but not universally, identified with ancient Muziris.",
+    "description": [
+      "Pattanam is a mound site near North Paravur, in Ernakulam district, excavated by the Kerala Council for Historical Research (KCHR) across nine seasons between 2007 and 2015. Only around one percent of the 45-hectare mound has been dug, but the 61 trenches opened produced over 129,000 artefacts: brick architecture, burnt clay floors, ring wells, storage jars, a wharf with bollards, a dugout canoe, and Mediterranean and West Asian pottery and glass alongside spice remains including pepper.",
+      "That mix of finds is why Pattanam is widely proposed as the site of Muziris (Muchiri) — the port that Greco-Roman writers, including Pliny the Elder, named as one of the richest trading harbours on the Indian coast, and the same port Kerala's own Malabar-trade history keeps returning to. The identification is not settled: some historians argue instead for a Muziris at nearby Kodungallur, and Pattanam's precise relationship to the historical Muziris — the same city, a satellite settlement, or a separate port entirely — remains an open question in the archaeological literature.",
+      "The excavation itself became a subject of dispute rather than only its findings. In 2015, the Archaeological Survey of India suspended KCHR's excavation licence, citing allegations of unscientific method, after a complaint from a Hindu nationalist-affiliated group that framed the project as an attempt to manufacture evidence for Muziris's identity and for traditions about the apostle Thomas's arrival in Kerala. Excavation has not resumed since."
+    ],
+    "contested": "Pattanam's identification with ancient Muziris is a live scholarly debate, not a settled fact — Kodungallur is the leading alternative candidate. The 2015 ASI suspension of KCHR's licence was itself contested, tied to allegations about the excavators' motives rather than only to method.",
+    "sources": [
+      { "title": "Unearthing Pattanam — Sahapedia (with KCHR)", "url": "http://www.sahapedia.org/unearthing-pattanam" },
+      { "title": "Pattanam — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pattanam" },
+      { "title": "Pattanam Excavations: A Timeline — Outlook India", "url": "https://www.outlookindia.com/national/pattanam-excavations-a-timeline" },
+      { "title": "Pattanam — Muziris Heritage Project, KCHR", "url": "https://www.keralatourism.org/muziris/historical-sites/pattanam" }
+    ]
+  },
+  {
+    "id": "thali-temple",
+    "name": "Thali Temple",
+    "localName": "തളി മഹാദേവ ക്ഷേത്രം",
+    "category": "temple",
+    "era": "late-medieval",
+    "tags": [
+      "zamorin",
+      "kerala-architecture",
+      "pilgrimage",
+      "scholarship"
+    ],
+    "coords": [
+      11.2477,
+      75.7872
+    ],
+    "coordsPrecision": "verified",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "14th century CE (contested)",
+    "summary": "The Zamorins' family temple, and home of the Revathi Pattathanam scholars' assembly.",
+    "description": [
+      "Thali is the family temple of the Zamorins of Calicut, and stood at the ceremonial centre of their capital. It is administered today by the Malabar Devaswom Board, with the Zamorin as managing trustee.",
+      "Every year in the Malayalam month of Tulam, beginning on the Revathi asterism, the temple hosts the Revathi Pattathanam — a seven-day assembly at which scholars are examined in Bhatta Mimamsa, Prabhakara Mimamsa, Vedanta Mimamsa and Vyakarana. Those who prevail receive the title Bhatta and a purse of gold, the Panakizhi.",
+      "The founding date is genuinely unsettled. Most accounts place the present structure in the 14th century; Wikidata describes it as a 12th-century complex, and some historians hold that the temple predates the city itself. Tradition says a Zamorin instituted the Pattathanam as penance after seizing the temple from its Saivite Brahmin trustees — but no source names the founding Zamorin, and that account is a traditional narrative rather than documented fact."
+    ],
+    "contested": "Founding century (12th vs 14th) and the identity of the founding Zamorin are both disputed. No source consulted names a founder.",
+    "sources": [
+      {
+        "title": "An Architectural Overview of Kozhikode — Sahapedia",
+        "url": "http://www.sahapedia.org/architectural-overview-kozhikode"
+      },
+      {
+        "title": "Tali Shiva Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tali_Shiva_Temple"
+      },
+      {
+        "title": "Revathi Pattathanam — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Revathi_Pattathanam"
+      },
+      {
+        "title": "Tali Temple — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/tali-temple-kozhikode/281/"
+      }
+    ]
+  },
+  {
+    "id": "mishkal-mosque",
+    "name": "Mishkal Mosque",
+    "localName": "മിഷ്കാൽ പള്ളി",
+    "category": "mosque",
+    "era": "late-medieval",
+    "tags": [
+      "arab-trade",
+      "portuguese",
+      "wooden-architecture",
+      "kerala-architecture",
+      "spice-trade"
+    ],
+    "coords": [
+      11.2452,
+      75.7761
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "14th century CE",
+    "summary": "A four-storey timber mosque raised by a Yemeni shipowner, burned by the Portuguese in 1510.",
+    "description": [
+      "Mishkal Mosque was built by Nakhuda Mishkal, an Arab merchant and shipowner whose fleet traded to China, Yemen and Persia, and who is attested at Calicut in the 1340s. It is one of the clearest surviving traces of the Arab trading community that made Calicut the pepper port of the Indian Ocean.",
+      "The building is Kerala-Islamic rather than Indo-Islamic: no dome and no minaret, but a timber frame of carved pillars and tiered roofs closer to a Kerala temple or palace than to anything in Delhi. Accounts describe 47 doors and 24 carved pillars, with a prayer hall for some four hundred.",
+      "In January 1510 a Portuguese force under Afonso de Albuquerque attacked Calicut and the mosque was partially burned. It was reconstructed in 1578–79. It is widely repeated that the Zamorin funded that rebuilding as a deliberate rebuke to the Portuguese; that detail appears in tourism accounts rather than in any primary or academic source consulted here. The mosque is said to have lost a storey to the fire, standing five before and four after."
+    ],
+    "contested": "Construction century is most often given as 14th, with a minority 13th-century claim. The Zamorin's role in the 1578–79 rebuild is tradition, not documented. The five-to-four storey account is single-threaded.",
+    "coordsNote": "To roughly ±200 m. The mosque is not tagged by name in OpenStreetMap, Wikipedia gives only two decimal places, and the Wikidata coordinate is demonstrably wrong — it falls on top of Thali Temple, 1.1 km away. This position is derived from a geotagged photograph and an adjacent building outline beside the Kuttichira tank. Needs ground-truthing.",
+    "sources": [
+      {
+        "title": "Mishkal Mosque — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mishkal_Mosque"
+      },
+      {
+        "title": "The Mosques of Kuttichira — Sahapedia",
+        "url": "http://www.sahapedia.org/mosques-kuttichira"
+      },
+      {
+        "title": "Mithqal Mosque — Kerala Tourism",
+        "url": "https://www.keralatourism.org/islam-in-kerala/pilgrim-centres/kuttichira-mithqal-mosque"
+      }
+    ]
+  },
+  {
+    "id": "beypore",
+    "name": "Beypore",
+    "localName": "ബേപ്പൂർ",
+    "category": "port",
+    "era": "late-medieval",
+    "tags": [
+      "shipbuilding",
+      "spice-trade",
+      "arab-trade",
+      "living-tradition",
+      "wooden-architecture"
+    ],
+    "coords": [
+      11.1669,
+      75.8076
+    ],
+    "coordsPrecision": "verified",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "No documented founding date",
+    "summary": "A working port at the mouth of the Chaliyar, where uru dhows are still built by hand.",
+    "description": [
+      "Beypore sits where the Chaliyar river meets the Arabian Sea, about ten kilometres south of Kozhikode town. It was one of the harbours that carried Malabar pepper into the Arab and later European trade, and it remains a working port rather than a ruin.",
+      "Its distinction is the uru — the ocean-going wooden dhow, still built at Beypore by hand and by eye, without formal plans. A single vessel takes between one and four years. Finished hulls are moved to the water by the Khalasi community of Beypore and Chaliyam, using pulleys, wooden rails, rollers and rope.",
+      "Beypore resists a single date. Tourism sources offer 1,500 or 2,000 years of shipbuilding, but these are promotional figures with no evidence behind them, and there is no documented founding. It is filed here under Medieval for the period of its best-attested significance, as a Zamorin-era port in the Indian Ocean trade, while the shipbuilding itself is a living tradition that has never stopped."
+    ],
+    "contested": "No datable origin exists for Beypore shipbuilding; the 1,500- and 2,000-year figures are unsourced tourism claims and are repeated even by the more authoritative Sahapedia source below — citing a better source did not resolve the dating problem. A Geographical Indication tag has been applied for but, as far as could be confirmed, not granted — do not describe the uru as GI-tagged.",
+    "sources": [
+      {
+        "title": "The Beypore Uru Prevails — Sahapedia",
+        "url": "http://www.sahapedia.org/beypore-uru-prevails"
+      },
+      {
+        "title": "Beypore Uru — Kerala Tourism",
+        "url": "https://www.keralatourism.org/kerala-article/2015/beypore-uru/532"
+      },
+      {
+        "title": "Khalasi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Khalasi"
+      }
+    ]
+  },
+  {
+    "id": "kappad-beach",
+    "name": "Kappad Beach",
+    "localName": "കാപ്പാട്",
+    "category": "natural",
+    "era": "late-medieval",
+    "tags": [
+      "vasco-da-gama",
+      "portuguese",
+      "spice-trade",
+      "contested-history"
+    ],
+    "coords": [
+      11.385,
+      75.7175
+    ],
+    "coordsPrecision": "verified",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "Landing dated 20 May 1498",
+    "summary": "Where Vasco da Gama is said to have landed in 1498 — a claim historians dispute.",
+    "description": [
+      "On 20 May 1498 Vasco da Gama's fleet made landfall near Kozhikode, opening the sea route from Europe to India and, with it, four and a half centuries of European presence. A stone monument raised by the Kerala Department of Archaeology stands here, its plaque reading: Vasco da Gama landed here, Kappakadavu, in the year 1498.",
+      "The historian M. G. S. Narayanan has argued directly against the monument: that Gama landed at Panthalayini, near Koyilandy, because there was a working port there and Kozhikode had none. Kerala Tourism's own page concedes the landing place remains debatable among scholars.",
+      "The site is included here precisely because the dispute is the interesting part. Kappad is where a commemorated national story and the documentary record pull against each other, and the monument has never been corrected."
+    ],
+    "contested": "Whether Gama landed at Kappad at all. M. G. S. Narayanan places the landing at Panthalayini (Koyilandy). The 1498 date is firm; the location is not. The date Gama met the Zamorin, and the monument's erection date, could not be confirmed.",
+    "sources": [
+      {
+        "title": "Kappad — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kappad"
+      },
+      {
+        "title": "Vasco da Gama — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+      },
+      {
+        "title": "Vasco da Gama Monument — Kerala Dept. of Archaeology",
+        "url": "https://www.archaeology.kerala.gov.in/pages/vasco-da-gama-monument-kappad/169"
+      }
+    ]
+  },
+  {
+    "id": "parsi-anjuman-baug",
+    "name": "Parsi Anjuman Baug",
+    "localName": "പാഴ്സി അഞ്ജുമാൻ ബാഗ്",
+    "category": "fire-temple",
+    "era": "early-modern",
+    "tags": [
+      "parsi",
+      "merchant-community",
+      "contested-history",
+      "kerala-architecture"
+    ],
+    "coords": [
+      11.2482,
+      75.7785
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "Between the 18th century and c. 1860 — sources disagree",
+    "summary": "Kerala's Parsi fire temple, on SM Street, kept by the last Parsi family in the city.",
+    "description": [
+      "The Anjuman Baug is the fire temple of Calicut's Parsi community, on S. M. Street — Mittayi Theruvu, the old Sweet Meat Street. Parsis came to Malabar from Gujarat for trade, and for a century and a half they were central to its commerce: coir, timber, salt, yarn, ginger, coffee. D. Maneckji & Co. was founded in 1855; Khodadad D. Mugaseth opened an ice factory in 1906 said to be the third in India and the first in the Madras Presidency.",
+      "The land was acquired by Dhanjibhoy Mugaseth and given to the Anjuman, and the compound holds a priest's room and travellers' accommodation alongside the fire temple. Its graveyard records more than 160 burials, the earliest dated 1860.",
+      "At its height the community numbered perhaps two or three hundred. It dispersed through the twentieth century, and the temple is now preserved by the Marshall family — for many years the only Parsi family left in Kozhikode. It is a working reminder that Calicut's trade drew in communities from the whole Indian Ocean, not only across it."
+    ],
+    "contested": "The founding date is unresolved and the sources disagree outright. Kozhikode DTPC calls it an 18th-century fire temple; Calicut Heritage dates it to the early 19th century with a renovation in 1920; the researcher Maddy (Historic Alleys) reconstructs c. 1855–60 from the graveyard's earliest tomb of 1860; Sahapedia's architectural survey of Kozhikode adds a fourth data point, describing it only as \"a religious structure with a history spanning over two centuries\" — implying a founding before the early 1800s — without giving a specific date. No consecration record was found. Arrival of Parsis in Calicut is itself uncertain — possibly as early as 1780–90.",
+    "coordsNote": "Placed on S. M. Street from the street address only. The temple is not tagged in OpenStreetMap and no published coordinate was found; sources locate it on S. M. Street near the Bata showroom. Expect error of a few hundred metres along the street.",
+    "sources": [
+      {
+        "title": "An Architectural Overview of Kozhikode — Sahapedia",
+        "url": "http://www.sahapedia.org/architectural-overview-kozhikode"
+      },
+      {
+        "title": "Parsees of Calicut — Calicut Heritage Forum",
+        "url": "https://calicutheritage.com/parsees_calicut.aspx"
+      },
+      {
+        "title": "Parsee Families of Calicut — Historic Alleys",
+        "url": "https://historicalleys.blogspot.com/2023/11/parsee-families-of-calicut.html"
+      },
+      {
+        "title": "Gems of Kozhikode — DTPC Kozhikode",
+        "url": "https://www.dtpckozhikode.com/uploads/tenders/gems-of-kozhikode_11zon-20241022052541595733.pdf"
+      }
+    ]
+  },
+  {
+    "id": "buddha-vihara",
+    "name": "Buddha Vihara",
+    "localName": "ബുദ്ധ വിഹാർ",
+    "category": "vihara",
+    "era": "late-modern",
+    "tags": [
+      "buddhist",
+      "social-reform",
+      "living-tradition"
+    ],
+    "coords": [
+      11.2555,
+      75.773
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "Opened 1935",
+    "summary": "Founded in 1935 by a Ceylon-trained monk, with Bodhi cuttings from Anuradhapura.",
+    "description": [
+      "The Buddha Vihara opened on Customs Road, near the beach, in 1935. It was founded by Bhikshu Dharma Skandha Thero, who had studied Theravada Buddhism in what was then Ceylon and was associated with the Mahabodhi Vihara there. Its Buddha image was carved by Sri Lankan sculptors, and cuttings taken from the Jaya Sri Maha Bodhi at Anuradhapura were brought over and planted in the compound.",
+      "Those trees were planted by Mithavadi C. Krishnan and Manjeri Rama Ayyar, both lawyers and prominent social reformers — which says what the vihara actually was in its prime. It functioned less as a congregation than as a meeting place for intellectuals and for people arguing against caste practice and social orthodoxy, in a period when Kerala's reform movements were at their most active.",
+      "Kerala had an older Buddhist past — Buddha figures have been recovered at sites across the region — but this vihara is a twentieth-century foundation, not a survival of it. After its founder's death in 1975 it declined, and it now occupies a small part of a private house, maintained by a lay devotee."
+    ],
+    "contested": "The vihara is a modern foundation and should not be confused with Kerala's ancient Buddhist period, which is attested archaeologically but not continuous with this site. The Hindu's report on Kozhikode's Buddhist history could not be retrieved directly and is cited here from the DTPC and Onmanorama accounts.",
+    "coordsNote": "Placed on Customs Road near Kozhikode Beach from the street description only. The vihara is not in OpenStreetMap and no published coordinate was found. Expect error of up to a few hundred metres.",
+    "sources": [
+      {
+        "title": "A small piece of Sri Lanka in Kozhikode — Onmanorama",
+        "url": "https://www.onmanorama.com/lifestyle/keralaspora/2024/10/06/column-small-piece-sri-lanka-kozhikode.html"
+      },
+      {
+        "title": "Gems of Kozhikode — DTPC Kozhikode",
+        "url": "https://www.dtpckozhikode.com/uploads/tenders/gems-of-kozhikode_11zon-20241022052541595733.pdf"
+      },
+      {
+        "title": "A peep into Kozhikode's tryst with Buddhism — The Hindu",
+        "url": "https://www.thehindu.com/news/cities/kozhikode/a-peep-into-kozhikodes-tryst-with-buddhism/article18423539.ece"
+      }
+    ]
+  },
+  {
+    "id": "jain-temple",
+    "name": "Sait Anandji Kalyanji Jain Temple",
+    "localName": "ജൈന ക്ഷേത്രം",
+    "category": "jain-temple",
+    "era": "early-modern",
+    "tags": [
+      "jain",
+      "merchant-community",
+      "spice-trade"
+    ],
+    "coords": [
+      11.2472,
+      75.778
+    ],
+    "coordsPrecision": "verified",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "No founding date established",
+    "summary": "A Jain temple on SM Street, left by the Gujarati merchants who traded Malabar pepper.",
+    "description": [
+      "The Jain temple stands on Arbind Gosh Road in Mittayi Theruvu — S. M. Street — a few doors from the Parsi Anjuman Baug. It is also recorded as the Shri Bhagawan Kalikund Parsnath Jain Temple, and is held by the Sait Anandji Kalyanji Jain Temple Trust.",
+      "Its presence is a trace of the Gujarati and Marwari merchant families who settled in Malabar for the pepper and coir trade, the same commercial pull that brought the Parsis. That one short street carries a Jain temple, a Parsi fire temple and the old sweetmeat bazaar is the point: S. M. Street is where Calicut's trading diaspora physically lived.",
+      "The building is a working temple rather than a monument, and is described as richly carved, with the quiet interior that Jain temples keep."
+    ],
+    "contested": "No founding date could be established from any source consulted — the DTPC entry gives none, and no inscription or dedication record was found. The Colonial era assignment here is inferred from the documented period of Gujarati mercantile settlement in Malabar, not from a date for the building, and should be corrected if one comes to light.",
+    "sources": [
+      {
+        "title": "Gems of Kozhikode — DTPC Kozhikode",
+        "url": "https://www.dtpckozhikode.com/uploads/tenders/gems-of-kozhikode_11zon-20241022052541595733.pdf"
+      },
+      {
+        "title": "Sait Anandji Kalyanji Jain Temple — OpenStreetMap",
+        "url": "https://www.openstreetmap.org/search?query=Sait%20Anandji%20Kalyanji%20Jain%20Temple%20Kozhikode"
+      }
+    ]
+  },
+  {
+    "id": "sindhi-darbar",
+    "name": "Sindhi Darbar",
+    "localName": "സിന്ധി ദർബാർ",
+    "category": "temple",
+    "era": "contemporary",
+    "tags": [
+      "sindhi",
+      "partition-migration",
+      "living-tradition",
+      "merchant-community"
+    ],
+    "coords": [
+      11.2531,
+      75.7727
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "No founding date established",
+    "summary": "The Sindhi community's temple and cultural hub, where Cheti Chand is kept.",
+    "description": [
+      "The Sindhi Darbar on Silk Street, near Mananchira, is the religious and social centre of Kozhikode's Sindhi community. It is where Cheti Chand — the Sindhi new year, marking the birth of Jhulelal — is celebrated, and it functions as much as a community hall as a temple.",
+      "Sindhi Hindus reached Kerala overwhelmingly as a consequence of Partition in 1947, when the community left Sindh more or less in its entirety for India. Their settlement in Kozhikode followed the same logic that brought Gujarati, Parsi and Marwari families before them: this was a trading city, and it absorbed traders.",
+      "It is the most recent arrival among the places mapped here, and it is the one that demonstrates the pattern did not stop with the age of sail."
+    ],
+    "contested": "No founding date could be established; the DTPC entry gives none. The Modern era assignment is inferred from the Sindhi community's arrival in India after Partition in 1947 rather than from a date for the building. Source addresses disagree slightly — the listing gives Silk Street, Mananchira, while the coordinate reverse-geocodes to Vellayil; the postal code 673032 is consistent across both.",
+    "coordsNote": "Taken from a commercial mapping listing rather than OpenStreetMap, where the temple is not recorded, and the listed street and the reverse-geocoded locality do not quite agree. Treat as approximate. The DTPC describes it as a private temple, so it may not be openly accessible.",
+    "sources": [
+      {
+        "title": "Gems of Kozhikode — DTPC Kozhikode",
+        "url": "https://www.dtpckozhikode.com/uploads/tenders/gems-of-kozhikode_11zon-20241022052541595733.pdf"
+      },
+      {
+        "title": "Sindhi Darbar, Silk Street, Mananchira — Mappls",
+        "url": "https://www.mappls.com/place-sindhi+darbar-silk+street-mananchira-kozhikode-kerala-673001-5IC4GD"
+      }
+    ]
+  },
+  {
+    "id": "edakkal-caves",
+    "name": "Edakkal Caves",
+    "localName": "എടക്കൽ ഗുഹകൾ",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": [
+      "rock-art",
+      "prehistoric",
+      "spice-trade"
+    ],
+    "coords": [
+      11.6247,
+      76.2358
+    ],
+    "coordsPrecision": "verified",
+    "city": "Sultan Bathery, Wayanad",
+    "state": "Kerala",
+    "built": "Petroglyphs of the Neolithic period, with inscriptions of the early centuries CE",
+    "summary": "Petroglyphs in a cleft on Ambukuthi hill — the only Stone Age carvings in South India besides Shenthurini.",
+    "description": [
+      "Edakkal is not a cave in the usual sense. It is a cleft in the rock on Ambukuthi Mala, about 1,200 metres above sea level, roofed where a boulder fell across the fissure — a shelter formed by collapse rather than by water or by tools. It sits near an old route between the Mysore plateau and the ports of the Malabar coast, which is probably why it was used at all.",
+      "The walls carry petroglyphs: human figures with headdresses, animals, wheels, and a large repertoire of symbols, cut rather than painted. Later hands added inscriptions in Brahmi and Tamil-Brahmi from the early centuries CE, so the surface records use across a very long span rather than a single moment.",
+      "The carvings were recorded in 1890 by Fred Fawcett, then a police superintendent in Malabar, who recognised them as prehistoric. With the rock art of the Shenthurini forests in Kollam, they are the only known Stone Age carvings in South India, which is the reason the site matters beyond its setting."
+    ],
+    "contested": "The date is not settled. The figure of 6,000 BCE is repeated by tourism and press accounts but rests on stylistic argument, not on any absolute dating of the site; scholars place the carvings in the Neolithic and later, across an uncertain range. The name is also misleading — these are rock shelters, not caves, and no excavation has established a settlement sequence here. Management is also easy to get wrong: Edakkal is under the Kerala State Department of Archaeology (notified 1985), not the Archaeological Survey of India — there is no ASI page for it, correctly, not by omission.",
+    "sources": [
+      {
+        "title": "Edakkal Cave: Journey Through Time in Wayanad's Prehistoric Rock Shelter — Kerala State Archaeology Department",
+        "url": "https://www.archaeology.kerala.gov.in/pages/edakkal-cave/179"
+      },
+      {
+        "title": "Edakkal caves — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Edakkal_caves"
+      },
+      {
+        "title": "Edakkal Caves, Wayanad — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/edakkal-caves-wayanad/335/"
+      }
+    ]
+  },
+  {
+    "id": "padmanabhaswamy-temple",
+    "name": "Sree Padmanabhaswamy Temple",
+    "localName": "ശ്രീ പത്മനാഭസ്വാമി ക്ഷേത്രം",
+    "category": "temple",
+    "era": "early-modern",
+    "tags": [
+      "pilgrimage",
+      "kerala-architecture",
+      "living-tradition",
+      "sculpture",
+      "contested-history"
+    ],
+    "coords": [
+      8.4828,
+      76.9436
+    ],
+    "coordsPrecision": "verified",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "built": "Present structure largely 18th century, on a much older foundation",
+    "summary": "Vishnu asleep on Anantha — and the temple to which the kingdom of Travancore was legally surrendered in 1750.",
+    "description": [
+      "The principal image is Anantha Padmanabha, Vishnu in yogic sleep on the serpent Shesha, some five and a half metres long and visible only in three parts through three separate doors. The temple is one of the 108 Divya Desams of the Sri Vaishnava tradition, and its tall gopuram is in a Tamil Dravidian idiom unusual on this coast, where temple roofs are normally tiered and tiled.",
+      "Its constitutional history is the remarkable part. In 1750 Marthanda Varma performed the Thrippadidanam, surrendering the kingdom of Travancore to Padmanabhaswamy and ruling thereafter as Padmanabhadasa, the deity's servant. From that point the state was administered in the deity's name, and the titular Maharaja of Travancore remains the temple's trustee.",
+      "In 2011 an inventory ordered by the Supreme Court opened several of the temple's vaults and found gold, jewels and coin of an order that made international news. Vault B was left unopened, on the argument that opening it would breach ritual practice. A 2020 judgment upheld the Travancore family's right to administer the temple."
+    ],
+    "contested": "The temple's antiquity is asserted far more confidently than it is evidenced: claims of references in Sangam-era literature and of a foundation in the first millennium are traditional rather than documented, and the standing structure is substantially 18th century. No official valuation of the treasure has ever been published — the figures in circulation are press estimates. The status of Vault B remains legally and ritually unresolved.",
+    "sources": [
+      {
+        "title": "Padmanabhaswamy Temple — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple"
+      },
+      {
+        "title": "Padmanabhaswamy Temple, Thiruvananthapuram — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/padmanabha-swamy-temple-thiruvananthapuram/13/"
+      }
+    ]
+  },
+  {
+    "id": "matri-dei-cathedral",
+    "name": "Matri Dei Cathedral",
+    "localName": "മാതൃദേവാലയം",
+    "category": "church",
+    "era": "late-medieval",
+    "tags": [
+      "portuguese",
+      "zamorin",
+      "living-tradition",
+      "merchant-community"
+    ],
+    "coords": [
+      11.253,
+      75.7744
+    ],
+    "coordsPrecision": "verified",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "built": "Origin dated to 1513; present cathedral much later",
+    "summary": "The Calicut diocese's cathedral on Convent Road, traced to a Portuguese chapel licensed by the Zamorin.",
+    "description": [
+      "Kerala Tourism dates the church's origin to 1513, when the Portuguese, having come to terms with the Zamorin, were permitted a factory at Calicut and a church dedicated to the Virgin of the Immaculate Conception. That church was known as Matri Dei — Mother of God — and the name has stayed with the site through every rebuilding since.",
+      "The same account records that Dom Alexis de Menezes, Archbishop of Goa, visited Kozhikode in 1599 and met the Zamorin, and afterwards sent Jesuits to renovate the chapel with the Zamorin's help. That is the pattern this map keeps finding in Calicut: a foreign community's building standing because the Zamorin licensed it, exactly as at the Mishkal Mosque.",
+      "The present cathedral on Convent Road is a much later building, Roman and Gothic in its detailing, and is the seat of the Diocese of Calicut. It is a working parish church rather than a monument."
+    ],
+    "contested": "The 1513 origin and the 1599 visit are taken from Kerala Tourism and diocesan accounts; no primary record was consulted here, and the continuity between the Portuguese chapel and the present building is asserted rather than demonstrated. The construction date of the standing cathedral could not be established from any source found. The Malayalam name given here is a translation of the dedication, not an attested local usage — the church is also referred to locally as Valiya Palli.",
+    "sources": [
+      {
+        "title": "Mother of God Cathedral, Kozhikode — Kerala Tourism",
+        "url": "https://www.keralatourism.org/malabar/mother-god-cathedral/84"
+      },
+      {
+        "title": "Mother of God Cathedral, Calicut — Archdiocese of Calicut",
+        "url": "https://www.calicutdiocese.org/mother-of-god-cathedral/"
+      }
+    ]
+  },
+  {
+    "id": "paradesi-synagogue",
+    "name": "Paradesi Synagogue",
+    "localName": "പരദേശി ജൂതപ്പള്ളി",
+    "category": "synagogue",
+    "era": "early-modern",
+    "tags": [
+      "jewish",
+      "merchant-community",
+      "spice-trade",
+      "portuguese",
+      "contested-history"
+    ],
+    "coords": [
+      9.9572,
+      76.2594
+    ],
+    "coordsPrecision": "verified",
+    "city": "Mattancherry, Kochi",
+    "state": "Kerala",
+    "built": "1568; rebuilt 1664",
+    "summary": "Built in 1568 on land given by the Raja of Cochin, and the oldest synagogue still in use in the Commonwealth.",
+    "description": [
+      "The synagogue was built in 1568 in Jew Town, Mattancherry, on ground granted by the Raja of Cochin beside his own palace — it shares a wall with the palace temple compound. That grant is the whole point of the building: the Cochin rulers gave the Jewish merchant community protection and land at a moment when the Portuguese were driving Jews out of Iberia and harassing them here.",
+      "The Portuguese destroyed the synagogue in 1662; it was rebuilt under Dutch rule two years later. The clock tower was added in 1760, and the floor is laid with hand-painted Chinese porcelain tiles brought in the same century, no two of them identical. The building keeps the copper plates recording the privileges granted to the merchant Joseph Rabban, the oldest documentary trace of the community.",
+      "Cochin's Jews emigrated to Israel in large numbers after 1948, and the Paradesi congregation is now down to a handful of people. The synagogue remains in use, which is what makes it the oldest active synagogue in the Commonwealth, but the community that built it has effectively gone."
+    ],
+    "contested": "Paradesi means foreigner, and the congregation was made up of later arrivals of Sephardic and European descent who kept themselves separate from the older Malabari Jews — a division that tourist accounts of Kochi's tolerance usually omit. The date of the Joseph Rabban copper plates is debated and usually placed around the 10th or 11th century. An older synagogue at Kochangadi, dated 1344, no longer stands. Sahapedia's academic survey of Kerala's synagogues complicates this further: it describes the building as \"expanded during the Dutch period\" rather than destroyed-and-rebuilt, and cites a different set of copper plates for early Kerala Jewish history generally (Kollam plates, 849 CE; Kodungallur plates, 1000 CE) without confirming the Rabban plates specifically in a Paradesi context. These may describe genuinely different documents rather than a real conflict, but this page does not reconcile them.",
+    "sources": [
+      {
+        "title": "Cochin Jews and the Seven Synagogues of Kerala: History and Architecture — Sahapedia",
+        "url": "https://www.sahapedia.org/cochin-jews-and-seven-synagogues-kerala-history-and-architecture"
+      },
+      {
+        "title": "Paradesi Synagogue — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paradesi_Synagogue"
+      },
+      {
+        "title": "Synagogue, Mattancherry — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/synagogue-mattancherry/163/"
+      }
+    ]
+  },
+  {
+    "id": "karumadikkuttan",
+    "name": "Karumadikkuttan",
+    "localName": "കരുമാടിക്കുട്ടൻ",
+    "category": "monument",
+    "era": "early-medieval",
+    "tags": [
+      "buddhist",
+      "sculpture",
+      "contested-history"
+    ],
+    "coords": [
+      9.38,
+      76.3864
+    ],
+    "coordsPrecision": "verified",
+    "city": "Karumadi, Ambalappuzha, Alappuzha",
+    "state": "Kerala",
+    "built": "Estimates range from the 9th to the 14th century CE",
+    "summary": "A black granite Buddha, half of it missing, left in a stream until the 1930s.",
+    "description": [
+      "Karumadikkuttan — the boy from Karumadi — is a seated Buddha of about three feet in black granite, in a village in Ambalappuzha taluk. It lay forgotten in the Karumadi stream for an unknown length of time and was recovered and set up in the 1930s, an effort associated with Sir Robert Bristow, the British engineer who built the modern port of Cochin.",
+      "The left side of the figure is missing. Local tradition blames an elephant; there is no evidence for that or for any other explanation, and the damage is simply undated. The statue now stands under a shelter beside the water, protected by the state, and pilgrims travelling to Sabarimala sometimes stop at it.",
+      "Its importance is as evidence rather than as art. Buddhism was once widespread in this part of Kerala, and very few images survive from that period; Karumadikkuttan is among the clearest physical traces of it left in the Alappuzha region."
+    ],
+    "contested": "Dating spans five centuries — 9th to 14th — with no secure basis for narrowing it. The identification is not certain either: the Travancore State Manual described the figure as a Jain image, and the Malayalam account of the site notes that the carving could be read as a Tirthankara. Its protection is nominal; the Malayalam Wikipedia entry records that the declared monument has received little real attention.",
+    "sources": [
+      {
+        "title": "Karumadikkuttan — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karumadikkuttan"
+      },
+      {
+        "title": "Karumadi Kuttan, Alappuzha — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/karumadi-kuttan-alappuzha/461/"
+      },
+      {
+        "title": "കരുമാടിക്കുട്ടൻ — Malayalam Wikipedia",
+        "url": "https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%B0%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BB"
+      }
+    ]
+  }
+]

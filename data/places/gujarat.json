@@ -1,0 +1,166 @@
+[
+  {
+    "id": "dholavira",
+    "name": "Dholavira",
+    "localName": "ધોળાવીરા",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": [
+      "unesco",
+      "harappan",
+      "urban-planning",
+      "stepwell",
+      "prehistoric"
+    ],
+    "coords": [
+      23.8861,
+      70.2167
+    ],
+    "coordsPrecision": "verified",
+    "city": "Khadir Bet, Kachchh",
+    "state": "Gujarat",
+    "built": "c. 3000 – 1500 BCE",
+    "summary": "A Harappan city on a salt island, built around reservoirs cut into rock.",
+    "description": [
+      "Dholavira sits on Khadir Bet, an island in the salt flats of the Rann of Kachchh, and is one of the largest Harappan sites in India. Excavation from 1989 under R. S. Bisht revealed a city of three divisions — citadel, middle town and lower town — inside a fortified perimeter, occupied across roughly a millennium and a half.",
+      "Its distinguishing feature is water engineering. A series of large reservoirs, some cut into bedrock, collected and stored seasonal runoff from two ephemeral streams, supporting a city in a place with almost no reliable rainfall. The scale of the storage system, rather than any single building, is what the site is known for.",
+      "Dholavira also produced the so-called signboard: ten large Indus characters, made in gypsum inlay, found fallen near a gateway. Like all Indus writing it remains undeciphered. UNESCO inscribed the site in 2021 (site 1645)."
+    ],
+    "contested": "The Indus script is not deciphered, and any reading of the Dholavira signboard is speculation. Dates for the site's phases are archaeological estimates and vary between publications; the reasons for its decline are debated, with aridification and the loss of trade both proposed and neither settled.",
+    "sources": [
+      {
+        "title": "Dholavira: A Harappan City — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1645/"
+      },
+      {
+        "title": "Dholavira — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dholavira"
+      }
+    ]
+  },
+  {
+    "id": "rani-ki-vav",
+    "name": "Rani ki Vav",
+    "localName": "રાણી કી વાવ",
+    "category": "monument",
+    "era": "early-medieval",
+    "tags": [
+      "unesco",
+      "stepwell",
+      "sculpture",
+      "pilgrimage"
+    ],
+    "coords": [
+      23.8589,
+      72.1016
+    ],
+    "coordsPrecision": "verified",
+    "city": "Patan",
+    "state": "Gujarat",
+    "built": "Late 11th century CE",
+    "summary": "An inverted temple in the form of a step-well, buried by the Saraswati and dug out again.",
+    "description": [
+      "Rani ki Vav — the Queen's step-well — was built at Patan in the late 11th century, attributed to Udayamati, queen of the Chaulukya ruler Bhimadeva I. A step-well is a functional structure: a stairway descending several storeys to reach the water table, with landings and pavilions that stay cool through the hot season. This one is treated as architecture of the first rank.",
+      "Seven storeys of stepped corridor are lined with more than five hundred principal sculptures and a thousand minor ones, organised around Vishnu in his avatars, with Dashavatara panels, apsaras and nagakanyas carved at close to full scale. The result reads as a temple turned upside down and sunk into the ground.",
+      "The well silted up and was buried under flood deposits from the Saraswati river, which is why the carving survived largely unweathered. The Archaeological Survey of India excavated it in the 1960s. UNESCO inscribed it in 2014 (site 922)."
+    ],
+    "contested": "The attribution to Udayamati and the date around 1063 come from later textual tradition rather than a foundation inscription; some scholars put construction slightly later.",
+    "sources": [
+      {
+        "title": "Rani-ki-Vav (the Queen's Stepwell) at Patan, Gujarat — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/922/"
+      },
+      {
+        "title": "Rani ki Vav — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rani_ki_Vav"
+      }
+    ]
+  },
+  {
+    "id": "champaner-pavagadh",
+    "name": "Champaner-Pavagadh Archaeological Park",
+    "localName": "ચાંપાનેર-પાવાગઢ",
+    "category": "archaeological",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "sultanate",
+      "capital-city",
+      "pilgrimage"
+    ],
+    "coords": [
+      22.4833,
+      73.5333
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Champaner, Panchmahal",
+    "state": "Gujarat",
+    "built": "8th – 16th centuries; capital from 1484",
+    "summary": "A hill fort and an abandoned sultanate capital, with a living temple on the summit.",
+    "description": [
+      "The property pairs the fortified hill of Pavagadh with the city of Champaner below it. The hill carries fortifications, gateways and temples from the 8th century onward; the city was rebuilt as a capital by Mahmud Begada of Gujarat after he took the fort in 1484, and was largely abandoned within a few decades of the Mughal conquest of Gujarat in 1573.",
+      "What survives at Champaner is an unusually complete, unbuilt-over sultanate townscape: the Jama Masjid of 1513 with its carved minarets, the Kevada and Nagina mosques, palaces, gateways, wells and a water-storage system. The architecture is a regional Gujarati idiom, with temple-derived detail applied to mosque plans.",
+      "The Kalika Mata temple on the summit of Pavagadh remains an active pilgrimage site with heavy footfall, so the property is simultaneously an archaeological park and a working shrine. UNESCO inscribed it in 2004 (site 1101)."
+    ],
+    "contested": "The founding dates of the earliest Pavagadh fortifications are estimated from architectural style rather than inscription. Building works on the summit for pilgrim access have been criticised as damaging the inscribed fabric.",
+    "coordsNote": "The park covers the hill and the city plain together. The coordinate is a general point for the property rather than a specific monument.",
+    "sources": [
+      {
+        "title": "Champaner-Pavagadh Archaeological Park — Archaeological Survey of India",
+        "url": "https://asi.nic.in/champaner/"
+      },
+      {
+        "title": "Champaner-Pavagadh Archaeological Park — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1101/"
+      },
+      {
+        "title": "Champaner-Pavagadh Archaeological Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Champaner-Pavagadh_Archaeological_Park"
+      }
+    ]
+  },
+  {
+    "id": "ahmadabad",
+    "name": "Historic City of Ahmadabad",
+    "localName": "અમદાવાદ",
+    "category": "urban",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "sultanate",
+      "urban-planning",
+      "merchant-community",
+      "living-tradition"
+    ],
+    "coords": [
+      23.0256,
+      72.5875
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "built": "Founded 1411",
+    "summary": "India's first World Heritage city — a walled sultanate town still organised into pols.",
+    "description": [
+      "Ahmadabad was founded in 1411 by Sultan Ahmad Shah I on the east bank of the Sabarmati, and grew into the commercial capital of Gujarat. The walled city retains its sultanate monuments — the Jama Masjid of 1424, the Teen Darwaza, Bhadra citadel and a series of mosques and tombs in the distinctive Gujarati style that absorbed Hindu and Jain stonecraft into Islamic plans.",
+      "The inscription is as much about the residential fabric as the monuments. The old city is divided into pols: dense, gated neighbourhood clusters of timber-fronted houses around shared courtyards, with their own wells, bird-feeders and internal streets, organised historically by community and trade. They are still inhabited.",
+      "UNESCO inscribed the historic city in 2017 (site 1551), the first Indian city as a whole to be listed. Pressure on the pol houses from redevelopment and neglect is the standing conservation problem."
+    ],
+    "contested": "The founding narrative of 1411, including the story of Ahmad Shah choosing the site after seeing a hare face down a dog, is traditional. Some accounts place an earlier settlement, Ashaval or Karnavati, on or near the site; the relationship between them is not firmly established.",
+    "coordsNote": "The inscribed property is the walled city east of the Sabarmati. The coordinate is a point near its centre, not a specific monument.",
+    "sources": [
+      {
+        "title": "My City, My Heritage, My Ahmedabad — Sahapedia",
+        "url": "https://www.sahapedia.org/my-city-my-heritage-my-ahmedabad"
+      },
+      {
+        "title": "Historic City of Ahmadabad — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1551/"
+      },
+      {
+        "title": "Historic City of Ahmadabad — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Historic_City_of_Ahmadabad"
+      }
+    ]
+  }
+]

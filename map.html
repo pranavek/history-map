@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Ctext y=%2226%22 font-size=%2228%22%3E%F0%9F%93%9C%3C/text%3E%3C/svg%3E">
+  <title>Map — Historical Places of India</title>
+  <meta name="description" content="An interactive map of historical places in India, beginning with Calicut, Kerala.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""
+        onerror="this.onerror=null;this.href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css'">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/map.css">
+</head>
+<body>
+<div class="map-shell">
+  <header class="site-head">
+    <a class="wordmark" href="index.html">Historical Places of India</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="map.html" aria-current="page">Map</a>
+      <a href="history/india.html">History</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <div class="map-body">
+    <div id="map" role="application" aria-label="Map of historical places"></div>
+
+    <button class="rail-toggle" type="button">Filters &amp; legend</button>
+
+    <aside class="rail" aria-label="Filters and legend">
+      <h2>India</h2>
+      <p class="count">&nbsp;</p>
+
+      <label class="visually-hidden" for="q">Search places</label>
+      <input class="search" id="q" type="search" placeholder="Search places…" autocomplete="off">
+
+      <fieldset>
+        <legend>Legend &amp; category</legend>
+        <ul class="legend is-filter" id="legend"></ul>
+      </fieldset>
+
+      <fieldset>
+        <legend>Era</legend>
+        <ul class="chips" id="eras"></ul>
+      </fieldset>
+
+      <details class="tag-box">
+        <summary>Tags <span class="tag-count" id="tag-count"></span></summary>
+        <ul class="chips" id="tags"></ul>
+      </details>
+
+      <ul class="results" id="results"></ul>
+
+      <p class="empty-note" hidden>No places match these filters.</p>
+      <button class="reset" type="button" hidden>Clear all filters</button>
+    </aside>
+
+    <aside class="detail" aria-hidden="true" aria-label="Place detail">
+      <button class="close" type="button" aria-label="Close">&times;</button>
+      <p class="cat"></p>
+      <h2></h2>
+      <p class="local"></p>
+      <p class="meta"></p>
+      <div class="body"></div>
+      <div class="notes"></div>
+      <h3>Sources</h3>
+      <ul class="sources"></ul>
+    </aside>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<!-- If unpkg is blocked or unreachable, fall back to cdnjs. The two serve
+     byte-identical builds, so the integrity hash below is deliberately the
+     same one. Without this, a blocked CDN leaves the page silently blank. -->
+<script>
+  window.L || document.write(
+    '<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"' +
+    ' integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="' +
+    ' crossorigin="anonymous"><\/script>');
+</script>
+<script type="module" src="js/map.js?v=3"></script>
+</body>
+</html>

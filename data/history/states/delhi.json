@@ -1,0 +1,17 @@
+[
+  {
+    "id": "delhi-overview",
+    "heading": "Seven cities, one capital",
+    "body": [
+      "No other place in India has been made a capital as many times, by as many different rulers, as Delhi. Historians conventionally count seven successive cities built on or near the same stretch of the Yamuna's western bank, each raised by a new power on the ruins of the last. The earliest, Lal Kot, was founded around 1052 CE by the Tomar Rajput ruler Anangpal Tomar II; Prithviraj Chauhan expanded it in the 12th century into Qila Rai Pithora, the first fortified urban settlement of what would become Delhi. That Rajput city fell in 1192, opening the way for the Delhi Sultanate — five successive Turkic and Afghan dynasties that ruled from Delhi for over three centuries, each adding a new city of its own: Alauddin Khalji's Siri, Tughlaqabad, Jahanpanah, and Firozabad among them.",
+      "The Sultanate ended in 1526 when Babur defeated Ibrahim Lodi at the First Battle of Panipat and founded the Mughal Empire. The Mughals moved their capital between Agra and Delhi more than once, but it was Shah Jahan who, in the mid-17th century, built the seventh and final historic city, Shahjahanabad — the walled city known today as Old Delhi, centred on the Red Fort and Jama Masjid — and made it the Mughal capital again from 1638. Delhi remained the ceremonial heart of Mughal power even as the empire's real authority crumbled around it, through invasions, sackings and the slow rise of British power in the 18th and 19th centuries.",
+      "The British did not initially rule from Delhi at all — Calcutta was the capital of British India for most of the Raj. That changed in 1911, when King George V announced at the Delhi Durbar that the capital would move to Delhi; the British then built New Delhi, an eighth city in effect, as a planned imperial capital that opened in 1931 and became, after 1947, the capital of independent India.",
+      "Because Delhi has been an imperial seat under Rajput, Sultanate, Mughal and British rule in turn, its map is unusually layered: a Chauhan-era fort wall, a Sultanate tomb, a Mughal fort and mosque, and a colonial administrative city can all sit within a few kilometres of each other, each built by rulers who saw the ones before them as history rather than as living memory."
+    ],
+    "sources": [
+      { "title": "Red Fort — Archaeological Survey of India", "url": "https://asi.nic.in/pages/WorldHeritageRedFort" },
+      { "title": "History of Delhi — Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Delhi" },
+      { "title": "The seven cities of Delhi — GKToday", "url": "https://www.gktoday.in/the-seven-cities-of-delhi/" }
+    ]
+  }
+]

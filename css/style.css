@@ -1,0 +1,201 @@
+/* ── history-map — shared shell ──────────────────────────────────────────────
+   Parchment and ink. The aged feel is built from three things: a warm paper
+   palette, a Garamond-class serif at generous measure, and a turbulence grain
+   laid over the background. No period pastiche — this reads as a museum wall
+   label, not a treasure map.                                                  */
+
+:root {
+  /* Paper */
+  --paper:        #efe6d3;
+  --paper-2:      #e7dcc4;
+  --paper-3:      #f6f0e2;
+  --card:         #f4ecda;
+
+  /* Ink */
+  --ink:          #2c2822;
+  --ink-2:        #554d41;
+  --ink-3:        #7d7263;
+  --rule:         #cdbfa2;
+  --rule-soft:    #dbcfb5;
+
+  /* Accent — iron-gall red, used sparingly */
+  --accent:       #8a3b22;
+  --accent-soft:  #b4643f;
+
+  --serif:  "EB Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --display:"Cormorant Garamond", var(--serif);
+  --mono:   ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  --measure: 34rem;
+  --radius: 2px;
+  --shadow: 0 1px 2px rgba(44,40,34,.10), 0 6px 20px rgba(44,40,34,.07);
+
+  /* Paper grain, generated rather than shipped as a binary */
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23g)' opacity='.32'/%3E%3C/svg%3E");
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font: 400 1.0625rem/1.65 var(--serif);
+  color: var(--ink);
+  background: var(--paper);
+  background-image:
+    radial-gradient(ellipse 120% 80% at 50% -10%, rgba(255,252,244,.85), transparent 60%),
+    radial-gradient(ellipse 90% 60% at 10% 110%, rgba(190,172,136,.28), transparent 60%);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Grain sits above the background, below everything else */
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: 0;
+  background-image: var(--grain);
+  opacity: .55; pointer-events: none; mix-blend-mode: multiply;
+}
+body > * { position: relative; z-index: 1; }
+
+h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.15; margin: 0 0 .4em; letter-spacing: .01em; }
+h1 { font-size: clamp(2.4rem, 6vw, 4rem); }
+h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
+h3 { font-size: 1.2rem; }
+p  { margin: 0 0 1em; }
+
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--ink); }
+
+hr.rule { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
+
+/* Small caps label, used for eyebrows and section marks */
+.eyebrow {
+  font: 600 .72rem/1 var(--serif);
+  letter-spacing: .18em; text-transform: uppercase;
+  color: var(--ink-3); margin: 0 0 1rem;
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+.site-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 1rem; padding: 1.4rem clamp(1rem, 4vw, 2.5rem);
+  border-bottom: 1px solid var(--rule);
+}
+.site-head .wordmark {
+  font-family: var(--display); font-size: 1.35rem; font-weight: 600;
+  color: var(--ink); text-decoration: none; letter-spacing: .02em;
+}
+.site-head nav { display: flex; gap: 1.25rem; font-size: .95rem; }
+.site-head nav a { color: var(--ink-2); text-decoration: none; }
+.site-head nav a:hover, .site-head nav a[aria-current="page"] { color: var(--accent); text-decoration: underline; }
+
+/* ── Buttons ─────────────────────────────────────────────────────────────── */
+.btn {
+  display: inline-flex; align-items: center; gap: .5rem;
+  font: 600 1rem/1 var(--serif);
+  padding: .85rem 1.5rem; border: 1px solid var(--ink); border-radius: var(--radius);
+  background: var(--ink); color: var(--paper-3); text-decoration: none;
+  cursor: pointer; transition: background .15s, color .15s, transform .15s;
+}
+.btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; transform: translateY(-1px); }
+.btn.ghost { background: transparent; color: var(--ink); }
+.btn.ghost:hover { background: var(--ink); color: var(--paper-3); }
+
+/* ── Cards ───────────────────────────────────────────────────────────────── */
+.card {
+  background: var(--card); border: 1px solid var(--rule-soft);
+  border-radius: var(--radius); padding: 1.35rem 1.4rem;
+  box-shadow: var(--shadow);
+}
+
+/* ── Category chip + legend (shared by landing and map) ──────────────────── */
+.legend { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; margin: 0; list-style: none; }
+.legend-item {
+  display: inline-flex; align-items: center; gap: .5rem;
+  font-size: .9rem; color: var(--ink-2);
+  padding: .4rem .7rem; border: 1px solid var(--rule-soft);
+  border-radius: 999px; background: var(--paper-3);
+}
+a.legend-item { text-decoration: none; cursor: pointer; transition: border-color .14s, background .14s; }
+a.legend-item:hover { border-color: var(--cat); }
+.legend-swatch {
+  width: 1.15rem; height: 1.15rem; flex: none;
+  display: grid; place-items: center; color: var(--cat, var(--ink-2));
+}
+.legend-swatch svg { width: 100%; height: 100%; fill: currentColor; }
+
+/* ── Footer ──────────────────────────────────────────────────────────────── */
+.site-foot {
+  border-top: 1px solid var(--rule); margin-top: 4rem;
+  padding: 2rem clamp(1rem, 4vw, 2.5rem) 3rem;
+  font-size: .9rem; color: var(--ink-3);
+}
+.site-foot a { color: var(--ink-2); }
+
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px;
+  clip-path: inset(50%); overflow: hidden; white-space: nowrap;
+}
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* ── Landing ─────────────────────────────────────────────────────────────── */
+.hero {
+  display: grid; grid-template-columns: 1fr minmax(16rem, 26rem);
+  gap: clamp(1.5rem, 5vw, 4rem); align-items: center;
+  max-width: 68rem; margin: 0 auto; padding: clamp(2.5rem, 7vw, 5.5rem) clamp(1rem, 4vw, 2.5rem);
+}
+.hero-copy { max-width: var(--measure); }
+.hero h1 { margin-bottom: .3em; }
+.hero .lede { font-size: clamp(1.05rem, 2vw, 1.25rem); color: var(--ink-2); margin-bottom: 1.8rem; }
+.hero .cta { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; }
+.hero .now-live { font-size: .92rem; color: var(--ink-3); margin: 1.6rem 0 0; }
+.hero .now-live strong { color: var(--ink); }
+
+/* India silhouette — ink on parchment, drawn to the Indian claim line */
+.india { width: 100%; height: auto; max-height: 68dvh; display: block; }
+.india .india-land path { fill: #ded0b2; stroke: #6f6047; stroke-width: .9; stroke-linejoin: round; }
+.india .india-isles circle { fill: #6f6047; }
+.india .india-pin circle { fill: var(--accent); stroke: #fff; stroke-width: 1.6; }
+.india .india-pin { transform-box: fill-box; transform-origin: center; animation: pulse 2.6s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+.india-caption { text-align: center; font-size: .85rem; color: var(--ink-3); margin: .6rem 0 0; }
+
+.section { max-width: 68rem; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2.5rem); }
+.section > .eyebrow { margin-bottom: .5rem; }
+
+.cards { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); margin-top: 1.4rem; }
+.place-card { display: flex; flex-direction: column; gap: .22rem; text-decoration: none; color: inherit; transition: transform .16s, box-shadow .16s, border-color .16s; }
+.place-card:hover { transform: translateY(-3px); border-color: var(--cat); box-shadow: 0 3px 6px rgba(44,40,34,.10), 0 14px 34px rgba(44,40,34,.10); }
+.pc-icon { width: 1.75rem; height: 1.75rem; color: var(--cat); margin-bottom: .45rem; }
+.pc-icon svg { width: 100%; height: 100%; fill: currentColor; }
+.pc-cat { font: 600 .68rem/1 var(--serif); letter-spacing: .14em; text-transform: uppercase; color: var(--cat); }
+.pc-name { font-family: var(--display); font-size: 1.35rem; font-weight: 600; }
+.pc-local { font-size: .95rem; color: var(--ink-3); }
+.pc-sum { font-size: .95rem; color: var(--ink-2); margin-top: .4rem; }
+.pc-go { font-size: .88rem; color: var(--accent); margin-top: .7rem; }
+
+@media (max-width: 800px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero-map { order: -1; max-width: 20rem; margin: 0 auto; }
+  .india { max-height: 42dvh; }
+}
+
+/* Landing: places grouped by state */
+.state-block { margin-top: 2.2rem; }
+.state-block:first-child { margin-top: 1.2rem; }
+.state-name {
+  font-family: var(--display); font-size: 1.35rem; font-weight: 600;
+  display: flex; align-items: baseline; gap: .6rem;
+  padding-bottom: .4rem; border-bottom: 1px solid var(--rule); margin: 0 0 .2rem;
+}
+.state-count {
+  font: 400 .78rem/1 var(--serif); color: var(--ink-3);
+  border: 1px solid var(--rule-soft); border-radius: 999px; padding: .25rem .55rem;
+}
+.state-name a { color: inherit; text-decoration: none; }
+.state-name a:hover { color: var(--accent); text-decoration: underline; }

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "hill-forts-rajasthan",
+    "name": "Hill Forts of Rajasthan",
+    "category": "fort",
+    "era": "late-medieval",
+    "tags": [
+      "unesco",
+      "rajput",
+      "capital-city",
+      "urban-planning"
+    ],
+    "coords": [
+      24.8833,
+      74.6461
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Chittorgarh and five other sites",
+    "state": "Rajasthan",
+    "built": "Principally 13th – 18th centuries, on older foundations",
+    "summary": "Six Rajput fortress-cities across the Aravallis, inscribed as one serial site.",
+    "description": [
+      "The inscription covers six forts: Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber and Jaisalmer. They are not castles but fortified settlements — each encloses a working town with palaces, temples, tanks and bazaars, defended by walls that follow the contour of a hill or, at Jaisalmer, a desert outcrop.",
+      "Their defining feature is water. These are dry-country fortresses, and their survival depended on catchment: tanks, step-wells and reservoirs built into the enclosure, which is why a siege at Chittorgarh or Kumbhalgarh was measured in months rather than days. Kumbhalgarh's perimeter wall runs for some 36 kilometres, the longest continuous fortification in India.",
+      "UNESCO inscribed the group in 2013 (site 247). The pin here sits on Chittorgarh, the largest of the six; the other components lie up to 500 kilometres away."
+    ],
+    "contested": "The mass immolations (jauhar) recorded at Chittorgarh are attested in later bardic and Persian accounts rather than in contemporary documentation, and their scale is disputed. The popular version of the Padmini narrative descends from Malik Muhammad Jayasi's poem of 1540, written more than two centuries after the siege it describes.",
+    "coordsNote": "A serial property of six forts spread across Rajasthan. The coordinate is Chittorgarh Fort; it does not represent Kumbhalgarh, Ranthambore, Gagron, Amber or Jaisalmer, which have their own positions hundreds of kilometres away.",
+    "sources": [
+      {
+        "title": "Chittorgarh — Incredible India (Ministry of Tourism, Government of India)",
+        "url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh"
+      },
+      {
+        "title": "Hill Forts of Rajasthan — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/247/"
+      },
+      {
+        "title": "Hill Forts of Rajasthan — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hill_Forts_of_Rajasthan"
+      }
+    ]
+  },
+  {
+    "id": "jaipur-city",
+    "name": "Jaipur City",
+    "localName": "जयपुर",
+    "category": "urban",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "rajput",
+      "urban-planning",
+      "merchant-community"
+    ],
+    "coords": [
+      26.915,
+      75.82
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "built": "Founded 1727",
+    "summary": "A planned grid city founded in 1727, built as a commercial capital rather than a hill fortress.",
+    "description": [
+      "Jaipur was founded in 1727 by Sawai Jai Singh II, who moved his capital down from the hill fort of Amber onto the plain. That was a deliberate break: the new city was laid out as a grid of nine rectangular sectors with wide straight bazaar streets, continuous colonnaded shopfronts and a walled perimeter with gates — a trading city planned in advance, not a defensive one grown by accretion.",
+      "The plan draws on Vastu Shastra prescriptions for a town while accommodating the terrain, and the uniform facades along the main bazaars give it a coherence unusual in an Indian city of its period. The palace quarter, the Jantar Mantar observatory and the Hawa Mahal of 1799 all sit within the walled city.",
+      "UNESCO inscribed the walled city in 2019 (site 1605) — the inscription is of the urban plan and its living commercial streets, not of a single monument."
+    ],
+    "contested": "The role of Vidyadhar Bhattacharya as the city's planner is the standard account but rests on limited documentation. The pink colour of the old city is later than the foundation — it dates from a 19th-century repainting, commonly linked to the 1876 royal visit.",
+    "coordsNote": "The inscribed property is the whole walled city. The coordinate is a point near its centre and no single building is intended.",
+    "sources": [
+      {
+        "title": "Jaipur: History and Architecture — Sahapedia",
+        "url": "http://www.sahapedia.org/jaipur-history-and-architecture"
+      },
+      {
+        "title": "Jaipur City, Rajasthan — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1605/"
+      },
+      {
+        "title": "Jaipur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jaipur"
+      }
+    ]
+  },
+  {
+    "id": "jantar-mantar-jaipur",
+    "name": "Jantar Mantar, Jaipur",
+    "localName": "जंतर मंतर",
+    "category": "monument",
+    "era": "early-modern",
+    "tags": [
+      "unesco",
+      "astronomy",
+      "scholarship",
+      "rajput"
+    ],
+    "coords": [
+      26.9247,
+      75.825
+    ],
+    "coordsPrecision": "verified",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "built": "c. 1728 – 1734",
+    "summary": "Nineteen masonry instruments for naked-eye astronomy, built at architectural scale.",
+    "description": [
+      "The Jantar Mantar at Jaipur is an observatory of nineteen fixed instruments in stone and masonry, built for Sawai Jai Singh II in the late 1720s and early 1730s. It is the largest and best preserved of the five observatories he founded, the others being at Delhi, Ujjain, Mathura and Varanasi.",
+      "The instruments are the conventional ones of Islamic and Hindu astronomy — sundials, equinoctial dials, and instruments for measuring declination and altitude — but rebuilt at building scale, because enlarging an instrument reduces the relative error of reading it. The Samrat Yantra, a gnomon some 27 metres high, resolves time to about two seconds.",
+      "The observatory measured time, predicted eclipses and tracked stellar positions, and remained in use into the 19th century. UNESCO inscribed it in 2010 (site 1338)."
+    ],
+    "sources": [
+      {
+        "title": "The Jantar Mantar, Jaipur — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1338/"
+      },
+      {
+        "title": "Jantar Mantar, Jaipur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur"
+      }
+    ]
+  },
+  {
+    "id": "keoladeo",
+    "name": "Keoladeo National Park",
+    "localName": "केवलादेव राष्ट्रीय उद्यान",
+    "category": "natural",
+    "era": "contemporary",
+    "tags": [
+      "unesco",
+      "wildlife",
+      "biodiversity"
+    ],
+    "coords": [
+      27.1667,
+      77.5167
+    ],
+    "coordsPrecision": "approximate",
+    "city": "Bharatpur",
+    "state": "Rajasthan",
+    "built": "Wetland engineered in the 1850s; national park 1982",
+    "summary": "A man-made wetland built as a duck shoot, now a wintering ground for hundreds of bird species.",
+    "description": [
+      "Keoladeo is not a natural marsh. The wetland was created in the 1850s by the rulers of Bharatpur, who dammed and channelled monsoon flood water into a shallow basin to make a duck-shooting reserve; the shoots continued into the twentieth century, with recorded bags in the thousands.",
+      "The same engineering makes it one of the richest bird habitats in India. Over 370 species have been recorded, and the mosaic of shallow water, scrub and grassland supports very large breeding colonies of storks, herons, ibises and cormorants, alongside wintering waterfowl from Central Asia.",
+      "It became a national park in 1982 and was inscribed by UNESCO in 1985 (site 340). Its condition depends entirely on water allocation from upstream, which has repeatedly failed: the Siberian crane, once the park's emblematic winter visitor, has not been recorded here since 2002."
+    ],
+    "contested": "Era here marks the park's documented history as a managed wetland, not the antiquity of the habitat. The Siberian crane's disappearance is usually attributed to hunting along the migration route through Afghanistan and Pakistan rather than to conditions at Keoladeo itself, but the flyway evidence is thin.",
+    "coordsNote": "A protected area of about 29 km². The coordinate is a point inside the park, not a boundary.",
+    "sources": [
+      {
+        "title": "Keoladeo National Park — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/340/"
+      },
+      {
+        "title": "Keoladeo National Park — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Keoladeo_National_Park"
+      }
+    ]
+  }
+]
