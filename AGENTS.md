@@ -1,4 +1,4 @@
-# history-map — Developer / Agent Guide
+# history-of-india — Developer / Agent Guide
 
 ## Project overview
 
