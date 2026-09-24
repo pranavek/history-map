@@ -629,5 +629,44 @@
         "url": "https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%E0%B4%AA%E0%B4%B1%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D"
       }
     ]
+  },
+  {
+    "id": "jain-temple-sulthan-bathery",
+    "name": "Jain Temple, Sulthan Bathery",
+    "category": "jain-temple",
+    "era": "late-medieval",
+    "tags": [
+      "jain",
+      "vijayanagara",
+      "living-tradition"
+    ],
+    "coords": [
+      11.6602,
+      76.2507
+    ],
+    "coordsPrecision": "verified",
+    "city": "Sulthan Bathery, Wayanad",
+    "state": "Kerala",
+    "built": "13th century CE",
+    "summary": "A 13th-century Digambara Jain stone temple that gave the town its name, after Tipu Sultan used it as an ammunition store.",
+    "description": [
+      "The town of Sulthan Bathery was once Ganapathivattam, one of twelve Jain streets settled by Jain migrants from present-day Tamil Nadu and Karnataka around the 13th century, and this temple — a stone structure roughly 25 by 7.5 metres, its square columns and doorways carved with floral motifs, a snake and a swan — is what survives of it, built in the Vijayanagara architectural idiom.",
+      "In the late 18th century Tipu Sultan's forces used the temple as a battery, a store for gunpowder and arms, during their Malabar campaigns. The British subsequently recorded the town by that use — Tipu Sultan's Battery — and the name outlasted the empire that gave rise to it, worn down over time into Sulthan Bathery. The temple itself stood deserted for roughly a century and a half afterward.",
+      "It is now an Archaeological Survey of India-protected monument. Its sanctum stands empty most of the year: the community's principal Tirthankara image is kept at the Anantnath Swami Temple in nearby Kalpetta and brought here only once annually, for Mahavir Jayanti."
+    ],
+    "sources": [
+      {
+        "title": "Jain Temple, Kidanganad — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jain_Temple,_Kidanganad"
+      },
+      {
+        "title": "Bathery Jain Temple, Wayanad — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/bathery-jain-temple/583/"
+      },
+      {
+        "title": "Jain Temple — Sulthan Bathery (Wayanad Fort)",
+        "url": "https://wayanadfort.com/bathery-jain-temple.php"
+      }
+    ]
   }
 ]
