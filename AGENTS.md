@@ -123,19 +123,20 @@ map gives search engines nothing to index.
 
 ## The `/history/` section
 
-A second, deliberately different-looking part of the site: long-form narrative
-reading (India → state → monument), not the map's pins-and-filters UI.
+A second part of the site: long-form narrative reading (India → state →
+monument), not the map's pins-and-filters UI. Different layout, same look.
 
-- **Not parchment.** The map app's whole identity is sepia/parchment/grain
-  (see `css/style.css`'s own header comment). `/history/` pages are clean
-  editorial — off-white background, high-contrast ink, no grain, no aged
-  texture — because long-form reading and a museum-label map UI want opposite
-  things. `css/reading.css` carries this; it overrides `style.css`'s paper/ink
-  custom properties and disables the grain overlay, but keeps the shared shell
-  classes (`.site-head`, `.site-foot`, `.eyebrow`, `.btn`) so the header/footer
-  don't need reimplementing. Both stylesheets load on every `/history/` page,
-  `reading.css` second so its overrides win. Give `<body>` the `reading` class,
-  or the grain/paper-wash rules from `style.css` bleed back in.
+- **Same parchment/ink/grain palette as the map app.** `css/reading.css`
+  carries no color tokens of its own — every rule in it keys off `style.css`'s
+  `--paper`/`--ink`/`--rule`/`--accent` custom properties, so it inherits the
+  parchment/ink/accent/grain treatment as-is. Do not add a `:root` color-token
+  block back into `reading.css` — if a `/history/` page looks different in
+  color from `map.html`, that's the bug. What `reading.css` owns is
+  `/history/`-specific *layout*: a wider reading measure (`--measure: 68ch`,
+  vs the map app's `34rem`), prose section spacing, the region pager, the
+  science timeline, and the place list. Both stylesheets load on every
+  `/history/` page, `reading.css` second, and `<body>` needs the `reading`
+  class for the layout rules to apply.
 - **Content is data, same rule as places: no unsourced history.**
   `data/history/india.json` and `data/history/states/<state>.json` are arrays
   of `{id, heading, body: [paragraph, ...], sources: [{title, url}]}` objects,

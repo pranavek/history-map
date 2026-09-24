@@ -1,36 +1,13 @@
 /* ── history-map — reading shell ─────────────────────────────────────────────
-   Clean editorial, not parchment. Loaded after style.css on /history/ pages:
-   it overrides the paper/ink tokens and kills the grain/paper-wash treatment
-   that css/style.css bakes into body::before, while keeping the shared shell
-   classes (.site-head, .site-foot, .eyebrow, .btn, .card) that key off the
-   same custom properties. Do not add sepia, grain, or aged texture here — the
-   whole point of this file is that /history/ reads as a magazine, not a
-   museum label.                                                              */
+   /history/-specific layout only: a wider reading measure, prose section
+   spacing, the region pager, the science timeline and the place list.
+   Colors are not defined here — every rule keys off style.css's
+   --ink/--rule/--accent tokens, so this section shares the map app's
+   parchment/ink/grain palette.                                              */
 
-:root {
-  --paper:     #fbfaf8;
-  --paper-2:   #f1efe9;
-  --paper-3:   #ffffff;
-  --card:      #ffffff;
-
-  --ink:       #1a1a1a;
-  --ink-2:     #3d3d3d;
-  --ink-3:     #6b6b6b;
-  --rule:      #dcdad4;
-  --rule-soft: #e8e6e0;
-
-  /* Editorial blue, distinct from the map app's iron-gall red — this section
-     is not trying to look like the same product. */
-  --accent:      #1d5fae;
-  --accent-soft: #4f83c4;
-
-  /* 68ch is a standard fluid-reading measure, wider than the map app's 34rem
-     card copy — this is body text meant to be read start to finish. */
-  --measure: 68ch;
-}
-
-body.reading { background: var(--paper); background-image: none; }
-body.reading::before { content: none; }
+/* 68ch is a wider, fluid-reading measure than the map app's 34rem card copy —
+   this is body text meant to be read start to finish, not a UI panel. */
+:root { --measure: 68ch; }
 
 .reading main { max-width: var(--measure); margin: 0 auto; padding: clamp(2.5rem, 6vw, 5rem) clamp(1rem, 4vw, 2.5rem) clamp(4rem, 8vw, 6rem); }
 .reading h1 { font-size: clamp(2.2rem, 5vw, 3.2rem); }
