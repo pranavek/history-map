@@ -106,8 +106,14 @@ map gives search engines nothing to index.
   the Maratha Military Landscapes are spread over hundreds of kilometres. They
   are mapped as a single place with `"coordsPrecision": "approximate"` and a
   `coordsNote` naming which component the coordinate is and what it does not
-  represent. The Mountain Railways of India are the exception: their three
-  railways are in different states and are mapped separately.
+  represent. The Mountain Railways of India and the Sacred Ensembles of the
+  Hoysalas are the exceptions: their components (three railways; the temples
+  at Belur, Halebidu and Somanathapura) are mapped as separate pins, each with
+  its own real coordinate, because each component is independently
+  monumentally significant on its own — with its own established history,
+  description and sources predating the joint UNESCO listing — not just a
+  fragment of one serial property the way a single fort in the Hill Forts of
+  Rajasthan group is.
 - **For a natural site, era means its conservation history**, not the age of the
   landscape — a national park cannot be filed under a period of human history
   otherwise. Every natural place says so in its `contested` note.
