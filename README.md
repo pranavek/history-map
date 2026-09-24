@@ -21,14 +21,15 @@ places besides — run `make check` for the current count.
 ## Tech
 
 Vanilla HTML/CSS/ES modules. No framework, no bundler, no build step, no
-dependencies. Leaflet 1.9.4 from CDN with SRI. Data is static JSON. Deploys to
-GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`.
+dependencies. Leaflet, pinned from a CDN with SRI — see `map.html` for the
+exact version. Data is static JSON. Deploys to GitHub Pages via
+`.github/workflows/deploy.yml` on every push to `main`.
 
 ## Development
 
 ```bash
 make          # list every target
-make serve    # http://localhost:8111
+make serve    # serves locally on the Makefile's default port (PORT=… to override)
 make check    # validate data, icons, selectors, links, attribution, filters
 make test     # browser checks in headless Chromium (installs Playwright on first run)
 ```
