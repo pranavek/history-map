@@ -591,5 +591,43 @@
         "url": "https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%B0%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BB"
       }
     ]
+  },
+  {
+    "id": "kudakkallu-parambu",
+    "name": "Kudakkallu Parambu",
+    "localName": "കുടക്കല്ല് പറമ്പ്",
+    "category": "archaeological",
+    "era": "ancient",
+    "tags": [
+      "prehistoric"
+    ],
+    "coords": [
+      10.6853,
+      76.1215
+    ],
+    "coordsPrecision": "verified",
+    "city": "Chiramangad, Thrissur",
+    "state": "Kerala",
+    "built": "Estimated c. 2000 BCE",
+    "summary": "A cluster of 69 Iron Age megalithic burial monuments, including Kerala's distinctive laterite umbrella stones.",
+    "description": [
+      "Kudakkallu Parambu — literally \"umbrella-stone field\" — holds 69 megalithic monuments packed into a small plot near Kunnamkulam: kudakkallu (umbrella stones, a semicircular capstone raised on four laterite legs oriented to the cardinal directions), topikkal (hat stones), multiple hood stones, and stone circles, all forms particular to Kerala's Iron Age burial tradition rather than found across South India generally.",
+      "Excavation found urn burials beneath the stones holding red-ware and black-and-red-ware pottery, a copper bowl, iron implements and bone fragments — the standard grave-goods profile of the region's megalithic culture, and the basis for its dating. The Archaeological Survey of India has declared it a centrally protected monument and lists it among 138 nationally 'must-see' sites."
+    ],
+    "contested": "Popular tourism copy dates the site to \"c. 2000 BCE,\" attributed to the ASI, and separately describes it as Stone Age. ASI's own public description elsewhere calls it Iron Age funerary practice, which in South India is conventionally dated far later, c. 1200–300 BCE — the two figures are not the same period, and this page could not resolve which the ASI actually holds as its dating for this specific site.",
+    "sources": [
+      {
+        "title": "Kudakkallu Parambu — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kudakkallu_Parambu"
+      },
+      {
+        "title": "Kudakkallu Parambu, Thrissur — Kerala Tourism",
+        "url": "https://www.keralatourism.org/kerala-article/2023/kudakkallu-parambu-thrissur/1287"
+      },
+      {
+        "title": "കുടക്കല്ല് പറമ്പ് — Malayalam Wikipedia",
+        "url": "https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%E0%B4%AA%E0%B4%B1%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D"
+      }
+    ]
   }
 ]
