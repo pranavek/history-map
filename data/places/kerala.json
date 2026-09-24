@@ -668,5 +668,51 @@
         "url": "https://wayanadfort.com/bathery-jain-temple.php"
       }
     ]
+  },
+  {
+    "id": "kaviyoor-rock-cut-temple",
+    "name": "Kaviyoor Rock-Cut Temple",
+    "localName": "കവിയൂർ തൃക്കക്കുടി ഗുഹാക്ഷേത്രം",
+    "category": "cave",
+    "era": "early-medieval",
+    "tags": [
+      "rock-cut",
+      "sculpture",
+      "contested-history"
+    ],
+    "coords": [
+      9.3921,
+      76.6192
+    ],
+    "coordsPrecision": "approximate",
+    "coordsNote": "Positioned at Kaviyoor village centre. The shrine itself, also called Thrikkakkudi cave, is roughly a kilometre off in the surrounding hill, and no independently surveyed coordinate for the cave specifically could be found — expect error of about a kilometre.",
+    "city": "Kaviyoor, Pathanamthitta",
+    "state": "Kerala",
+    "built": "Inferred 8th century CE from its architectural style",
+    "summary": "A Pallava-style rock-cut Shiva shrine hollowed from a single boulder, among the earliest surviving stone sculpture in Kerala.",
+    "description": [
+      "The shrine — a west-facing cave about 19 feet 8 inches wide and 8 feet 6 inches high, also known as Thrikkakkudi — is carved entirely out of one rock outcrop into a central sanctum, an ardhamandapa and a pillared front, in a design closely resembling Pallava rock-cut architecture from Tamil country to the east. The sanctum holds a Sivalinga roughly three feet tall; the walls carry a four-armed Ganapathi, a Bhikshu figure, and dvarapala guardians, carvings counted among the earliest specimens of stone sculpture anywhere in the state.",
+      "No inscription dates the cave itself — the closest is a 950 CE record naming the separate, structural Mahadeva temple nearby, not this shrine. Popular tradition instead credits the cave to the Pandavas, who are said to have hidden here during their forest exile and raised the linga out of admiration for the site. It was declared a protected monument in 1965 and passed to the Travancore Devaswom Board's management in 1967.",
+      "At least one researcher into the site's history reads the carving style as consistent with an earlier Buddhist or Jain rock-cut shrine, on the strength of both faiths' documented presence in the area before the 10th century, with the current Saiva iconography added or substituted afterward. This page cannot resolve that against the Pallava-Saiva reading — no excavation or epigraphic study settles the cave's original dedication, only its present one."
+    ],
+    "contested": "Neither the cave's construction date nor its original dedication is settled by any inscription found on the site itself. The 8th-century, Pallava-Saiva reading is the conventional one, but a Buddhist-or-Jain-origin theory and a Pandava-exile legend both circulate for the same cave, and this page has not found a source that resolves between them.",
+    "sources": [
+      {
+        "title": "History and culture of Kaviyoor — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/History_and_culture_of_Kaviyoor"
+      },
+      {
+        "title": "Thrikkakkudi Cave Temple, Pathanamthitta — Kerala Tourism",
+        "url": "https://www.keralatourism.org/destination/thekkekudi-cave-temple/315/"
+      },
+      {
+        "title": "Know Your Heritage: Thrikkakkudy Cave, Kaviyoor",
+        "url": "http://know-your-heritage.blogspot.com/2016/09/thrikkakkudy-rock-cut-temple.html"
+      },
+      {
+        "title": "കവിയൂർ തൃക്കക്കുടി ഗുഹാക്ഷേത്രം — Malayalam Wikipedia",
+        "url": "https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%B5%E0%B4%BF%E0%B4%AF%E0%B5%82%E0%B5%BC_%E0%B4%A4%E0%B5%83%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%BF_%E0%B4%97%E0%B5%81%E0%B4%B9%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82"
+      }
+    ]
   }
 ]
