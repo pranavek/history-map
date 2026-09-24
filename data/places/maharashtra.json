@@ -196,44 +196,6 @@
     ]
   },
   {
-    "id": "mumbai-harbour",
-    "name": "Mumbai Harbour",
-    "localName": "मुंबई बंदर",
-    "category": "port",
-    "era": "early-modern",
-    "tags": [
-      "british-raj",
-      "spice-trade",
-      "portuguese",
-      "merchant-community"
-    ],
-    "coords": [
-      18.96,
-      72.85
-    ],
-    "coordsPrecision": "approximate",
-    "city": "Mumbai",
-    "state": "Maharashtra",
-    "built": "Developed as a modern port from the 17th century",
-    "summary": "The deep natural harbour that turned seven islands into India's commercial capital.",
-    "description": [
-      "Mumbai Harbour is the sheltered water east of the city, between the mainland and what were once seven separate islands. It is the whole reason Bombay exists: a deep, protected anchorage on a coast that offers very few.",
-      "The islands passed from the Sultanate of Gujarat to Portugal in 1534, and then to England in 1661 as part of Catherine of Braganza's dowry. Charles II leased them to the East India Company in 1668 for ten pounds a year, and the Company moved its western headquarters here from Surat precisely because of the harbour.",
-      "Land reclamation joined the islands into one landmass over the following centuries, and the opening of the Suez Canal in 1869 made Bombay the natural first port of call from Europe. Elephanta Island sits within these same waters."
-    ],
-    "coordsNote": "A harbour is an area, not a point. This coordinate is Wikidata's, given to two decimal places, and marks open water roughly in the middle of it rather than any particular structure.",
-    "sources": [
-      {
-        "title": "Mumbai Harbour — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mumbai_Harbour"
-      },
-      {
-        "title": "History of Mumbai — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/History_of_Mumbai"
-      }
-    ]
-  },
-  {
     "id": "chhatrapati-shivaji-terminus",
     "name": "Chhatrapati Shivaji Maharaj Terminus",
     "localName": "छत्रपती शिवाजी महाराज टर्मिनस",
