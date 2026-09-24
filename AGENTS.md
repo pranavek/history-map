@@ -237,24 +237,24 @@ cannot drift apart on what gets published.
   dependency to it without a good reason.
 - Leaflet is pinned with SRI hashes. If you bump the version, recompute them —
   a stale hash blocks the script silently.
-- **The live site sits behind Cloudflare**, which caches every JS file for
+- **The live site sits behind Cloudflare**, which caches every static file for
   4 hours (`Cache-Control: max-age=14400`) independently per edge node —
   different visitors can get different cached versions of the same URL for up
-  to 4 hours after a deploy. This showed up once as some readers getting a
-  404 for a renamed data file that others had already stopped seeing. Every
-  script tag that loads a top-level module is versioned for exactly this
-  reason (`js/reading.js?v=3`, `js/landing.js?v=2`, `js/map.js?v=3`,
-  `js/about.js?v=2` in `history/india.html`/`history/state.html`/
-  `history/science.html`, `index.html`, `map.html`, `about.html`
-  respectively) — **bump the `?v=N` on
-  a file's own script tag whenever you edit that file**, which changes the
-  cache key and forces every edge to fetch fresh instead of waiting out the
-  TTL. This only covers the top-level files with a `<script src>` tag: a
-  change to a file that's only reached via an internal `import` (`js/data.js`,
-  `js/filters.js`, `js/icons.js`) has no version query to bump and will
-  genuinely take up to 4 hours to reach every edge. If that's ever urgent,
-  the real fix is purging Cloudflare's cache from its dashboard, which this
-  repo has no access to do.
+  to 4 hours after a deploy. This has bitten both script tags (readers getting
+  a 404 for a renamed data file others had stopped seeing) and stylesheet
+  links (a palette change was invisible on some edges for hours after
+  deploy). Every `<script src>` and local `<link rel="stylesheet">` tag is
+  versioned for exactly this reason — `js/reading.js?v=3`, `css/style.css?v=1`,
+  etc. — **bump the `?v=N` on a file's own tag whenever you edit that file**,
+  which changes the cache key and forces every edge to fetch fresh instead of
+  waiting out the TTL. `tools/check.mjs` fails the build if a local stylesheet
+  link is missing its `?v=`, so that half can't silently regress; script tag
+  versioning isn't enforced the same way — bump it by hand. Neither covers a
+  file that's only reached via an internal `import` (`js/data.js`,
+  `js/filters.js`, `js/icons.js`) — those have no version query to bump and
+  will genuinely take up to 4 hours to reach every edge. If that's ever
+  urgent, the real fix is purging Cloudflare's cache from its dashboard,
+  which this repo has no access to do.
 
 ## Out of scope
 

@@ -156,8 +156,18 @@ for (const page of htmlPages) {
   // of the repo root, so it must be joined against dirname(page) here.
   for (const m of src.matchAll(/(?:href|src)="(?!https?:|data:|#|mailto:)([^"?#]+)/g))
     existsSync(normalize(join(dirname(page), m[1]))) ? null : bad(`${page} → ${m[1]} does not exist`);
+  // Cloudflare caches every static file for 4 hours independently per edge
+  // node. Script tags are already versioned for this; a local stylesheet
+  // link without a ?v= would silently take up to 4 hours to reach every
+  // reader after an edit, the same bug class the ?v= convention exists to
+  // prevent for scripts.
+  for (const m of src.matchAll(/<link[^>]+rel="stylesheet"[^>]+href="([^"]+)"/g)) {
+    const href = m[1];
+    if (/^https?:/.test(href)) continue;
+    if (!href.includes('?v=')) bad(`${page} → stylesheet ${href} has no ?v= cache-busting query`);
+  }
 }
-if (!fail) ok('all local hrefs and srcs resolve');
+if (!fail) ok('all local hrefs and srcs resolve, and local stylesheets are cache-busted');
 
 console.log('\nAttribution (OSM tile usage policy)');
 mapJs.includes('openstreetmap.org/copyright')
